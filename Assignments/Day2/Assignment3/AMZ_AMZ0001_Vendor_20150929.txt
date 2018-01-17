@@ -1,0 +1,701 @@
+VendorNo|VendorName|VendorContact|VendorAddr1|VendorState|VendorZipCode|VendorProductLine
+24|Wilson|George|Hutchinson Rd|Arkansas|40767|Travel
+12|Van Buren|Warren|South Highway|Iowa|92238|Electronics
+175|Jefferson|Dwight|San Diego Freeway|Washington|76248|Computers
+231|Truman|Bill|Burnett Road|Ohio|69108|Electronics
+127|Harrison|Ronald|Pacific Hwy S|Arkansas|37754|Security
+40|Cleveland|Harry|S Rustle St|Oregon|34968|Security
+168|Madison|Rutherford|Bayshore Freeway|Connecticut|39380|Security
+175|Coolidge|Richard|Milpas Street|Tennessee|25166|Computers
+15|Jackson|John|Fairview Avenue|Kentucky|39115|Freight
+163|Hoover|Benjamin|W. Russell St.|Arizona|56074|Furniture
+163|Tyler|Franklin|North Ventu Park Road|Wisconsin|82227|Computers
+194|Harding|Ronald|E Fowler Avenue|Iowa|41832|Electronics
+212|Arthur|Rutherford|Cabrillo Highway|Mississippi|23235|Freight
+6|Tyler|John|Bayshore Freeway|Idaho|44117|Travel
+184|Johnson|Lyndon|Lake Tahoe Blvd.|North Dakota|65297|Computers
+109|Clinton|Jimmy|Carpinteria North|Maine|25436|Travel
+200|McKinley|William|Newbury Road|California|39766|Computers
+180|Lincoln|Andrew|North Atherton Street|Oklahoma|55681|Furniture
+162|Adams|Andrew|Lake Tahoe Blvd.|Missouri|87128|Furniture
+5|Nixon|Richard|North Broadway Street|Wisconsin|72137|Freight
+194|Coolidge|Warren|East Fry Blvd.|North Carolina|93456|Electronics
+179|Cleveland|Zachary|Tanger Blvd|Maine|48030|Freight
+203|Hoover|Benjamin|Corona Del Mar|Arkansas|28477|Computers
+213|Carter|Lyndon|Santa Rosa North|Hawaii|95296|Computers
+217|McKinley|Millard|San Luis Obispo North|Colorado|99962|Electronics
+105|Harrison|Warren|East Calle Primera|Iowa|46749|Travel
+250|Hoover|William|Katella Avenue|North Dakota|51227|Freight
+205|Monroe|Lyndon|Fairview Avenue|Oklahoma|53554|Freight
+31|Wilson|James|Padre Boulevard|Delaware|50651|Security
+125|Ford|Woodrow|N Kentwood|South Dakota|73540|Security
+161|Harrison|Woodrow|Cleveland Ave.|Washington|98754|Security
+15|Harrison|Rutherford|South Roosevelt Drive|Connecticut|36753|Freight
+213|Monroe|Rutherford|Fontaine Road|Montana|76197|Freight
+246|Buchanan|James|Bailard Avenue|Arkansas|34428|Security
+34|Wilson|William|Fontaine Road|Washington|41734|Security
+191|Carter|James|Richmond Hill|Illinois|30774|Freight
+159|Fillmore|Chester|N Kentwood|New York|40441|Security
+31|Fillmore|Andrew|Moreno Drive|Montana|99124|Computers
+133|Roosevelt|Richard|Carpinteria Avenue|Mississippi|32785|Computers
+172|Hayes|Andrew|Tully Road East|South Carolina|57322|Electronics
+59|Tyler|William|Cleveland Ave.|Ohio|26537|Travel
+225|Wilson|Grover|Santa Rosa South|Virginia|99556|Travel
+129|Jefferson|Ulysses|San Simeon|Massachusetts|30589|Computers
+163|Monroe|Rutherford|Carpinteria Avenue|Arizona|81944|Computers
+204|Buchanan|Calvin|Cleveland Ave.|New York|63511|Electronics
+163|Fillmore|Millard|North Atherton Street|Louisiana|72775|Freight
+203|Pierce|Calvin|Woodson Rd.|North Carolina|40234|Freight
+157|Clinton|Andrew|Lindbergh Blvd|Ohio|36327|Electronics
+208|Taylor|Andrew|Bailard Avenue|Wisconsin|27487|Furniture
+211|Pierce|Chester|Grandview Drive|Indiana|48459|Freight
+8|Jefferson|Dwight|French Camp Turnpike Road|Texas|69300|Electronics
+9|Hoover|Thomas|Camelback Rd|Louisiana|87029|Computers
+43|Ford|Calvin|North Ventu Park Road|Oregon|49044|Travel
+162|Johnson|Warren|Steele Lane|Nevada|78449|Electronics
+225|Johnson|Gerald|North Broadway Street|Iowa|63098|Computers
+227|Harrison|Gerald|San Luis Obispo North|Alaska|57825|Travel
+246|Pierce|Martin|Bayshore Freeway|Oklahoma|66498|Furniture
+166|Hoover|Herbert|San Diego Freeway|New Hampshire|47428|Computers
+20|Taylor|Jimmy|Tanger Blvd|Ohio|24148|Furniture
+107|Polk|Chester|North Atherton Street|South Dakota|43356|Electronics
+15|Eisenhower|Rutherford|Calle Real|Wisconsin|62142|Security
+100|McKinley|Grover|Bowles Avenue|Mississippi|67737|Travel
+111|Reagan|Millard|North Atherton Street|Oregon|73740|Travel
+138|Adams|Woodrow|Apalachee Parkway|Washington|71271|Security
+100|Harrison|Ulysses|Richmond Hill|West Virginia|49017|Furniture
+249|Jefferson|Herbert|Fontaine Road|Maine|25207|Computers
+42|Taft|John|San Marcos|Rhode Island|77330|Furniture
+90|Polk|Abraham|Pacific Hwy S|Louisiana|33892|Electronics
+168|Polk|John|Cleveland Ave.|South Carolina|61899|Electronics
+96|Hayes|Chester|Lindbergh Blvd|Ohio|51228|Freight
+3|Nixon|Herbert|North Broadway Street|Alaska|30521|Computers
+87|Jackson|Andrew|Jones Road|Oklahoma|41018|Furniture
+217|Ford|Lyndon|Santa Rosa South|Michigan|36752|Furniture
+255|Carter|Chester|East 1st Street|Florida|60163|Travel
+255|Roosevelt|Zachary|Castillo Drive|Georgia|88469|Furniture
+28|McKinley|Ulysses|Westside Freeway|Kansas|42697|Electronics
+186|Eisenhower|Chester|Corona Del Mar|Alaska|26788|Security
+161|Harrison|Harry|San Simeon|Tennessee|88428|Freight
+215|Jackson|Benjamin|South Highway|South Carolina|74363|Security
+197|Buchanan|Gerald|Milpas Street|Maine|79115|Security
+66|Tyler|Lyndon|North Atherton Street|Nebraska|56022|Electronics
+217|Tyler|Calvin|N Harrison St|Vermont|79909|Computers
+83|Van Buren|Theodore|Fontaine Road|Minnesota|33163|Computers
+88|Jackson|Thomas|Castillo Drive|Louisiana|45339|Computers
+136|Van Buren|Richard|Harbor Dr|Rhode Island|97374|Electronics
+138|Quincy|Gerald|Carpinteria North|Rhode Island|37365|Travel
+37|Harrison|Calvin|Tanger Blvd|South Carolina|71785|Computers
+188|McKinley|Warren|Pacific Hwy S|Nevada|55834|Furniture
+200|Coolidge|Herbert|South Highway|New Hampshire|59539|Computers
+29|Reagan|Dwight|Padre Boulevard|Connecticut|78941|Security
+25|McKinley|Benjamin|East 1st Street|Idaho|79692|Furniture
+61|Van Buren|Ulysses|Moreno Drive|Michigan|24262|Freight
+110|Monroe|Jimmy|S Rustle St|Indiana|75220|Furniture
+122|Grant|George|Santa Monica Road|Iowa|36094|Computers
+134|Tyler|George|San Diego Freeway|Ohio|98882|Security
+136|Harrison|Woodrow|North Erringer Road|South Dakota|49048|Travel
+87|Hoover|Bill|North Ventu Park Road|South Dakota|80511|Travel
+250|Washington|Abraham|East Main Street|Colorado|37621|Electronics
+119|Johnson|Warren|North Broadway Street|Massachusetts|31646|Security
+172|Jefferson|Jimmy|Carpinteria Avenue|Arizona|25777|Freight
+174|Buchanan|Ulysses|East Main Street|Ohio|28016|Security
+205|Buchanan|James|Calle Real|New York|43875|Freight
+233|Monroe|Dwight|Carpinteria North|South Carolina|38445|Travel
+146|Tyler|Millard|Carpinteria South|Idaho|38007|Security
+19|Adams|Gerald|San Marcos|New Mexico|73504|Freight
+131|Nixon|William|E Fowler Avenue|Vermont|48060|Security
+20|Nixon|George|Santa Ana Freeway|New York|42042|Travel
+226|Truman|Benjamin|North Ventu Park Road|Wyoming|64237|Computers
+239|Buchanan|Rutherford|North Erringer Road|New York|95342|Security
+203|Adams|William|North Broadway Street|Louisiana|36486|Electronics
+157|Harrison|Harry|Grandview Drive|Iowa|40238|Security
+95|Hayes|Warren|Carpinteria Avenue|Maryland|47068|Computers
+58|Quincy|Rutherford|Milpas Street|Pennsylvania|25398|Furniture
+143|Arthur|Harry|East Main Street|Virginia|63568|Electronics
+49|Reagan|George|Santa Rosa South|New Hampshire|71146|Computers
+35|Jackson|Ulysses|Carpinteria North|Michigan|67827|Security
+235|Ford|Franklin|Castillo Drive|Massachusetts|78431|Electronics
+235|Madison|Ulysses|North Ventu Park Road|Oregon|38982|Security
+222|Harrison|John|Bayshore Freeway|North Carolina|94424|Freight
+72|Johnson|Harry|Harbor Dr|Oklahoma|78274|Computers
+2|Hayes|Rutherford|S Rustle St|Washington|64223|Security
+198|Harding|Martin|San Simeon|Nevada|88342|Security
+31|Roosevelt|Franklin|Greenwood Road|Texas|71334|Freight
+231|Eisenhower|Ulysses|East Calle Primera|Vermont|60427|Travel
+206|Clinton|Rutherford|East 1st Street|North Carolina|97240|Freight
+250|Adams|William|S Rustle St|Arkansas|34802|Travel
+136|Adams|Gerald|Jones Road|West Virginia|79246|Freight
+122|Clinton|Millard|San Marcos|Arkansas|27226|Security
+219|Pierce|Dwight|Richmond Hill|Hawaii|60303|Travel
+75|Cleveland|Ulysses|Bayshore Freeway|Washington|68494|Freight
+122|Carter|Franklin|San Simeon|Montana|82333|Electronics
+8|Harrison|Ronald|El Camino Real|Texas|73988|Furniture
+196|Reagan|Woodrow|Fontaine Road|Maine|98172|Travel
+169|Monroe|Benjamin|South Highway|Massachusetts|23446|Freight
+72|Jackson|Jimmy|Westside Freeway|Virginia|88544|Computers
+176|Kennedy|Zachary|San Luis Obispo North|Montana|87791|Computers
+172|Arthur|Millard|Redwood Highway|Oklahoma|80838|Electronics
+127|Polk|Zachary|Moreno Drive|Utah|67761|Electronics
+187|Kennedy|Jimmy|East 1st Street|Vermont|42376|Furniture
+111|Hayes|Dwight|East Calle Primera|Idaho|63639|Freight
+65|Johnson|Grover|Burnett Road|Utah|40234|Security
+243|Garfield|Bill|North Ventu Park Road|Wyoming|32275|Electronics
+230|Johnson|James|Woodson Rd.|Utah|66846|Computers
+55|Monroe|Ulysses|N Kentwood|Minnesota|51219|Electronics
+121|Wilson|Ronald|Bowles Avenue|Ohio|25687|Security
+117|Pierce|Rutherford|E Fowler Avenue|Vermont|66787|Security
+158|Carter|William|South Roosevelt Drive|Tennessee|54194|Electronics
+195|Fillmore|Lyndon|Steele Lane|Illinois|97754|Furniture
+109|Harrison|Franklin|Cabrillo Highway|Connecticut|98506|Security
+238|Madison|Ulysses|Lindbergh Blvd|Montana|43544|Security
+39|Ford|Abraham|San Simeon|New Hampshire|35401|Freight
+169|Eisenhower|Thomas|S Rustle St|Missouri|27439|Freight
+3|Johnson|Ronald|Westside Freeway|Pennsylvania|38802|Furniture
+121|Kennedy|Andrew|Fontaine Road|New Hampshire|47071|Electronics
+210|Roosevelt|Calvin|Steele Lane|California|55808|Computers
+157|Hayes|Theodore|Monroe Street|Pennsylvania|84081|Travel
+76|Coolidge|Woodrow|W. Russell St.|Indiana|68263|Electronics
+115|Roosevelt|Franklin|Westside Freeway|New York|31115|Freight
+175|Taylor|Richard|Calle Real|Michigan|92476|Travel
+241|Monroe|Bill|Camelback Rd|Washington|60749|Computers
+205|Harrison|Richard|East 1st Street|Vermont|23096|Travel
+64|Ford|Calvin|Fairview Avenue|Maine|87387|Travel
+125|Eisenhower|Andrew|Santa Ana Freeway|Kansas|23928|Computers
+180|Kennedy|John|Hutchinson Rd|Arkansas|81948|Computers
+14|Madison|Calvin|Timberlane Drive|Texas|30860|Security
+45|Cleveland|William|Fairview Avenue|Connecticut|67956|Electronics
+134|McKinley|Herbert|North Atherton Street|North Carolina|71233|Freight
+12|Washington|Ronald|Hutchinson Rd|Idaho|78803|Travel
+35|Eisenhower|Chester|Apalachee Parkway|Pennsylvania|86511|Travel
+49|Van Buren|Warren|Lindbergh Blvd|Oregon|44872|Computers
+20|Reagan|Calvin|North Erringer Road|Montana|48834|Furniture
+150|Arthur|William|W. Russell St.|Indiana|72748|Furniture
+27|Roosevelt|William|Lawrenceville Suwanee|Kentucky|64712|Freight
+135|Arthur|Harry|San Simeon|Tennessee|76660|Computers
+160|Truman|John|Burnett Road|Texas|60777|Security
+10|Johnson|Andrew|Corona Del Mar|Rhode Island|58218|Computers
+126|Harrison|Franklin|Tanger Blvd|Wisconsin|91519|Furniture
+90|Coolidge|Thomas|N Kentwood|Utah|26355|Travel
+251|Wilson|Harry|Castillo Drive|Minnesota|86290|Security
+83|Grant|Grover|Richmond Hill|Connecticut|83169|Furniture
+67|Coolidge|Chester|Burnett Road|Indiana|51369|Furniture
+1|McKinley|George|Monroe Street|Delaware|39634|Travel
+254|Fillmore|Benjamin|El Camino Real|Pennsylvania|40343|Travel
+214|Cleveland|Calvin|French Camp Turnpike Road|Kansas|56808|Furniture
+234|Adams|Jimmy|Grandview Drive|Massachusetts|58051|Freight
+128|Arthur|Calvin|Apalachee Parkway|Illinois|55468|Security
+137|McKinley|Rutherford|East Main Street|Iowa|47621|Security
+184|Quincy|Rutherford|San Simeon|Louisiana|77815|Furniture
+169|Madison|Rutherford|Jean de la Fontaine|Nebraska|82242|Freight
+87|Roosevelt|William|Carpinteria South|New York|85641|Travel
+225|Washington|Richard|South Highway|New Mexico|65520|Travel
+57|Monroe|Martin|South Highway|North Carolina|73542|Security
+209|Van Buren|James|Richmond Hill|New Mexico|58742|Computers
+200|Kennedy|Theodore|Corona Del Mar|Missouri|63335|Furniture
+191|Madison|George|Erringer Road|West Virginia|33486|Travel
+133|Reagan|Zachary|Lake Tahoe Blvd.|Oregon|49016|Furniture
+219|Roosevelt|Martin|Camelback Rd|Connecticut|27093|Electronics
+29|Roosevelt|Richard|North Atherton Street|Maine|24905|Travel
+132|Fillmore|Millard|Santa Monica Road|Wisconsin|34308|Travel
+156|Coolidge|Thomas|Lindbergh Blvd|Mississippi|86253|Furniture
+194|Monroe|James|Cabrillo Highway|New Jersey|34275|Security
+151|Arthur|Gerald|Pacific Hwy S|Michigan|86153|Security
+114|Cleveland|Abraham|Fairview Avenue|Kansas|50252|Electronics
+30|Arthur|Warren|Camelback Rd|Hawaii|31585|Electronics
+156|Clinton|Bill|Richmond Hill|Florida|92061|Travel
+39|Fillmore|Dwight|Carpinteria Avenue|Idaho|82784|Furniture
+241|Johnson|Jimmy|San Simeon|New Mexico|82972|Security
+24|Johnson|Warren|Harbor Dr|New Jersey|72620|Security
+155|Eisenhower|Grover|Richmond Hill|Mississippi|34373|Electronics
+246|Buchanan|Thomas|San Ysidro Blvd|Arkansas|86347|Computers
+40|Harrison|George|North Ventu Park Road|Washington|25629|Freight
+68|Lincoln|Dwight|Woodson Rd.|Nebraska|81426|Security
+220|Pierce|Herbert|Calle Real|Rhode Island|72790|Furniture
+103|Coolidge|Bill|East 1st Street|Colorado|70904|Computers
+105|Nixon|Andrew|Corona Del Mar|North Dakota|95068|Computers
+50|Johnson|George|N Kentwood|Georgia|53339|Freight
+180|Eisenhower|Theodore|Corona Del Mar|New Hampshire|67775|Security
+50|Reagan|Ronald|San Marcos|Ohio|58399|Furniture
+92|Quincy|Theodore|East 1st Street|Alaska|84680|Freight
+82|Washington|Franklin|Santa Monica Road|Minnesota|23543|Security
+104|Madison|Harry|Monroe Street|West Virginia|63755|Furniture
+155|Coolidge|James|Santa Monica Road|Hawaii|67964|Travel
+205|Wilson|George|Corona Del Mar|Arizona|73601|Electronics
+238|Buchanan|Richard|S Rustle St|Arizona|40808|Electronics
+111|Jefferson|Jimmy|Carpinteria North|Iowa|66753|Computers
+10|Harding|Herbert|Bayshore Freeway|Connecticut|69360|Computers
+134|Clinton|George|Carpinteria North|South Dakota|36195|Electronics
+113|McKinley|Jimmy|Cabrillo Highway|New Mexico|97226|Freight
+192|Pierce|Chester|Padre Boulevard|Maine|96025|Furniture
+101|Lincoln|Woodrow|Monroe Street|Louisiana|82451|Computers
+173|Polk|Lyndon|El Camino Real|New Jersey|93018|Furniture
+149|Nixon|Warren|Lindbergh Blvd|Maryland|87756|Furniture
+187|Pierce|Harry|N Kentwood|Wisconsin|82841|Furniture
+10|Madison|Franklin|Santa Rosa North|Rhode Island|39592|Security
+123|Roosevelt|Thomas|Bowles Avenue|Pennsylvania|52791|Electronics
+86|Hayes|Warren|S Rustle St|Alaska|48416|Freight
+173|Harding|Chester|North Preisker Lane|Indiana|64559|Electronics
+65|Taft|Theodore|San Ysidro Blvd|Louisiana|58359|Electronics
+87|Hayes|Franklin|San Ysidro Blvd|California|25449|Freight
+192|Polk|Theodore|East Calle Primera|North Carolina|85843|Electronics
+16|Polk|Thomas|Cleveland Ave.|North Carolina|52647|Computers
+126|Harrison|Thomas|Moreno Drive|Kentucky|80416|Travel
+152|Cleveland|Theodore|Santa Rosa North|Illinois|94694|Furniture
+249|Grant|Bill|East Calle Primera|North Dakota|52585|Electronics
+247|Harrison|Martin|North Preisker Lane|New Hampshire|61715|Electronics
+219|Garfield|Benjamin|North Atherton Street|Tennessee|29483|Freight
+129|McKinley|George|Cleveland Ave.|Kansas|91216|Electronics
+34|Grant|Chester|East Main Street|Nebraska|53097|Freight
+80|Buchanan|John|South Highway|Delaware|28216|Furniture
+141|Johnson|Ulysses|S Rustle St|New Hampshire|27546|Electronics
+67|Garfield|Dwight|Carpinteria North|Hawaii|60582|Computers
+216|Monroe|James|S Rustle St|Tennessee|84789|Travel
+220|Jackson|Herbert|Woodson Rd.|Arizona|66963|Computers
+77|Grant|Harry|North Ventu Park Road|North Dakota|72273|Computers
+1|Pierce|Andrew|W. Russell St.|Kentucky|94721|Furniture
+152|Van Buren|Dwight|Monroe Street|Iowa|93534|Electronics
+35|Hoover|Herbert|Fairview Avenue|Oregon|55264|Freight
+241|Nixon|Jimmy|Cleveland Ave.|New Mexico|75872|Security
+60|Tyler|Franklin|W. Russell St.|South Carolina|82123|Computers
+46|Garfield|Rutherford|East Fry Blvd.|Ohio|31349|Computers
+170|Roosevelt|Thomas|Newbury Road|Nevada|42800|Electronics
+178|Hoover|Gerald|East Fry Blvd.|Washington|96154|Freight
+19|Hayes|Harry|Redwood Highway|North Carolina|29025|Furniture
+246|Ford|Chester|South Highway|Tennessee|67841|Furniture
+62|Taft|Thomas|Steele Lane|Florida|49279|Electronics
+209|Quincy|Woodrow|Santa Rosa South|Vermont|65582|Electronics
+61|Polk|Ulysses|French Camp Turnpike Road|Illinois|67780|Electronics
+179|Van Buren|Rutherford|Newbury Road|Ohio|37600|Travel
+23|Garfield|Herbert|North Erringer Road|Tennessee|86878|Computers
+166|Pierce|Grover|South Highway|Minnesota|54624|Freight
+181|Washington|Herbert|Hutchinson Rd|California|65822|Freight
+23|Hayes|William|Newbury Road|Indiana|25130|Electronics
+31|Nixon|William|N Harrison St|Vermont|97282|Freight
+63|Arthur|Rutherford|Hutchinson Rd|Delaware|25192|Freight
+110|Madison|Chester|Cabrillo Highway|Rhode Island|90316|Security
+97|Madison|Warren|Santa Ana Freeway|Rhode Island|41705|Furniture
+185|Arthur|Jimmy|Via Real|Kentucky|57005|Freight
+31|Nixon|Bill|Bailard Avenue|Michigan|71600|Travel
+147|Jefferson|Franklin|Carpinteria South|Pennsylvania|47432|Electronics
+168|Polk|Calvin|North Ventu Park Road|New Jersey|34651|Electronics
+179|Fillmore|Jimmy|Calle Real|Missouri|57457|Freight
+204|Adams|Calvin|South Highway|California|65922|Travel
+39|Kennedy|Richard|Erringer Road|Maine|23573|Travel
+170|Arthur|Gerald|North Preisker Lane|New Jersey|88983|Furniture
+75|Ford|George|Padre Boulevard|Florida|30125|Electronics
+40|Grant|George|Bayshore Freeway|Connecticut|55208|Furniture
+255|Coolidge|Grover|Bailard Avenue|North Carolina|75288|Electronics
+63|Hoover|Lyndon|East 1st Street|North Dakota|78568|Freight
+124|Taft|William|East Fry Blvd.|West Virginia|51096|Travel
+208|Adams|James|W. Russell St.|New York|55186|Security
+129|Ford|Thomas|Katella Avenue|New Mexico|22945|Computers
+196|Truman|Abraham|Jones Road|Mississippi|65636|Travel
+253|McKinley|Harry|East Calle Primera|Nebraska|78622|Electronics
+4|McKinley|James|Erringer Road|Maine|82373|Electronics
+130|Roosevelt|Gerald|El Camino Real|Florida|56025|Security
+41|Jefferson|Martin|Santa Monica Road|Nevada|44691|Freight
+145|Harrison|Franklin|Harbor Dr|Alabama|96865|Travel
+193|Coolidge|George|Harry S Truman Blvd|West Virginia|41439|Computers
+68|Van Buren|Herbert|Tanger Blvd|Missouri|99566|Travel
+100|Garfield|Millard|Via Real|Nebraska|57433|Security
+155|Johnson|Rutherford|Santa Rosa South|Colorado|25047|Electronics
+38|Hayes|Harry|Camelback Rd|Oregon|37523|Computers
+117|Grant|Woodrow|Woodson Rd.|Florida|32927|Security
+127|Jefferson|Millard|S Rustle St|Mississippi|91394|Electronics
+39|Polk|Thomas|Tanger Blvd|Arkansas|92945|Security
+53|Hayes|Jimmy|Santa Rosa North|Ohio|69247|Furniture
+148|Fillmore|Martin|Tanger Blvd|Oregon|71533|Computers
+133|Reagan|James|Santa Monica Road|Minnesota|50024|Travel
+199|Roosevelt|George|Katella Avenue|Connecticut|69724|Security
+150|Johnson|Calvin|Apalachee Parkway|Montana|99873|Electronics
+53|Fillmore|Richard|North Preisker Lane|Vermont|97204|Security
+249|Johnson|Martin|Corona Del Mar|Idaho|23593|Freight
+250|Adams|Ulysses|East 1st Street|Nevada|30376|Travel
+254|Taylor|Richard|Burnett Road|Utah|45718|Furniture
+253|Coolidge|Gerald|Fairview Avenue|West Virginia|86618|Electronics
+171|Grant|Herbert|Pacific Hwy S|Nevada|98641|Furniture
+250|Monroe|Warren|Tanger Blvd|Pennsylvania|74556|Travel
+50|Adams|Warren|Bowles Avenue|New Mexico|95926|Furniture
+93|McKinley|George|Fairview Avenue|Washington|73525|Computers
+4|Buchanan|Rutherford|S Rustle St|Oregon|52016|Computers
+49|Van Buren|Martin|Katella Avenue|Delaware|87609|Electronics
+243|Carter|Thomas|Jones Road|Massachusetts|86035|Electronics
+76|Reagan|Millard|North Ventu Park Road|Arkansas|44239|Security
+42|Tyler|Benjamin|Castillo Drive|Connecticut|72772|Electronics
+165|Madison|Woodrow|Santa Rosa South|Louisiana|30825|Freight
+71|Johnson|Chester|E Fowler Avenue|Hawaii|89449|Travel
+158|Hayes|Harry|Bailard Avenue|Arizona|29820|Electronics
+148|Reagan|Andrew|East Calle Primera|New Hampshire|96879|Security
+41|Eisenhower|Harry|San Ysidro Blvd|Utah|22930|Security
+203|Fillmore|Martin|South Highway|Rhode Island|54802|Freight
+180|Roosevelt|Lyndon|South Highway|Idaho|55581|Furniture
+232|Roosevelt|Benjamin|Lindbergh Blvd|Georgia|25777|Furniture
+15|Madison|James|North Preisker Lane|Alaska|38741|Furniture
+33|Taft|Herbert|San Ysidro Blvd|Oregon|70003|Travel
+154|Hoover|Ronald|Erringer Road|New York|94664|Travel
+64|Washington|George|French Camp Turnpike Road|Idaho|85954|Computers
+189|Buchanan|Gerald|Moreno Drive|Maryland|81428|Freight
+162|Roosevelt|Calvin|Apalachee Parkway|New Jersey|53159|Freight
+207|Truman|James|Lawrenceville Suwanee|Ohio|36315|Electronics
+45|Reagan|Rutherford|Tully Road East|Alabama|61692|Furniture
+94|Arthur|Herbert|Westside Freeway|Montana|70990|Freight
+225|Adams|Herbert|Castillo Drive|Kansas|23384|Security
+91|Adams|Herbert|Corona Del Mar|North Dakota|87830|Security
+24|Wilson|Jimmy|Greenwood Road|Maine|41491|Travel
+121|Monroe|Richard|Padre Boulevard|Wyoming|33163|Computers
+160|Hayes|Benjamin|San Diego Freeway|Georgia|23927|Computers
+224|Fillmore|Franklin|Lake Tahoe Blvd.|Louisiana|26357|Computers
+223|Clinton|Herbert|Redwood Highway|Arkansas|49210|Travel
+82|Grant|Chester|Santa Rosa North|Ohio|25808|Travel
+79|Wilson|Bill|East Fry Blvd.|Maryland|33954|Security
+210|Fillmore|Calvin|Lawrenceville Suwanee|Louisiana|91754|Travel
+187|Johnson|Franklin|North Preisker Lane|Delaware|72649|Travel
+56|Johnson|Grover|Fairview Avenue|Louisiana|36993|Computers
+59|Coolidge|Benjamin|El Camino Real|New Jersey|69194|Travel
+250|Harrison|Benjamin|Fontaine Road|New Mexico|31111|Electronics
+217|Harding|Harry|Timberlane Drive|Missouri|77283|Security
+52|Kennedy|Millard|Santa Ana Freeway|Delaware|30716|Electronics
+242|Truman|Martin|Moreno Drive|Minnesota|68886|Freight
+245|Johnson|Ulysses|Bowles Avenue|New Hampshire|58386|Freight
+56|McKinley|Dwight|Jones Road|South Carolina|78989|Travel
+191|Monroe|Rutherford|N Harrison St|New Hampshire|24487|Freight
+155|Pierce|Warren|East Main Street|Nebraska|41482|Computers
+100|Jefferson|Lyndon|Cerrillos Road|Nevada|45303|Security
+172|Madison|Woodrow|Burnett Road|Maine|57904|Security
+112|Harrison|Martin|San Ysidro Blvd|Nevada|24683|Freight
+37|Adams|Grover|San Diego Freeway|South Dakota|27632|Electronics
+218|Hayes|Zachary|San Ysidro Blvd|Georgia|45850|Travel
+32|Johnson|Harry|East Calle Primera|Georgia|59492|Furniture
+193|Johnson|Harry|East Fry Blvd.|Arkansas|53944|Electronics
+171|Harrison|Ulysses|Milpas Street|Washington|80695|Computers
+220|Truman|Bill|Santa Monica Road|Michigan|64976|Computers
+108|Wilson|Abraham|El Camino Real|North Dakota|70514|Electronics
+103|Clinton|Bill|El Camino Real|South Carolina|57598|Computers
+112|Grant|James|Tully Road East|Nevada|95521|Travel
+116|Nixon|Woodrow|Pacific Hwy S|Louisiana|34928|Computers
+103|Fillmore|Chester|Newbury Road|New York|54854|Furniture
+214|Polk|Ronald|East Fry Blvd.|West Virginia|40056|Security
+52|Coolidge|Rutherford|Santa Rosa South|Montana|35749|Security
+39|Buchanan|Calvin|W. Russell St.|Vermont|48734|Travel
+255|Reagan|Ulysses|East Main Street|Oregon|86917|Computers
+236|Polk|Theodore|San Simeon|Connecticut|23737|Electronics
+220|Monroe|George|N Kentwood|Alaska|40366|Security
+90|Arthur|Warren|W. Russell St.|New Hampshire|64246|Computers
+131|Coolidge|James|East Calle Primera|Virginia|73079|Freight
+226|Johnson|Calvin|Hutchinson Rd|Pennsylvania|64777|Security
+176|Washington|Bill|Newbury Road|Pennsylvania|65326|Furniture
+109|Monroe|Martin|Grandview Drive|Iowa|22708|Electronics
+106|Grant|Dwight|Carpinteria North|Hawaii|48934|Computers
+245|Harrison|Bill|Woodson Rd.|Louisiana|34763|Furniture
+153|Roosevelt|Chester|North Preisker Lane|Mississippi|57643|Travel
+30|Harding|Andrew|Bailard Avenue|Kansas|23056|Computers
+69|Hoover|Thomas|Carpinteria North|Delaware|37246|Travel
+111|Grant|Benjamin|Carpinteria North|Louisiana|63848|Freight
+49|Buchanan|William|W. Russell St.|South Dakota|45529|Computers
+239|Eisenhower|Richard|Timberlane Drive|Washington|56992|Freight
+157|Jefferson|Rutherford|Moreno Drive|New Hampshire|26569|Freight
+253|Quincy|Ronald|Woodson Rd.|Ohio|71160|Electronics
+134|Carter|Grover|Tully Road East|Kansas|92006|Electronics
+183|Cleveland|Dwight|Calle Real|Massachusetts|73840|Computers
+248|Taft|Warren|Fontaine Road|Oklahoma|27682|Freight
+121|Truman|Theodore|San Luis Obispo North|Ohio|94526|Security
+231|Johnson|Bill|Jean de la Fontaine|North Dakota|78878|Computers
+135|Hoover|James|Corona Del Mar|Kansas|74680|Furniture
+67|Roosevelt|Theodore|Corona Del Mar|Tennessee|28901|Security
+152|Fillmore|Ulysses|East 1st Street|Wisconsin|39869|Computers
+31|Hayes|Calvin|Moreno Drive|Colorado|85162|Security
+130|Harrison|Abraham|N Kentwood|Nebraska|32507|Travel
+72|Truman|Lyndon|Westside Freeway|Arizona|79641|Security
+37|Johnson|Ulysses|Katella Avenue|Nebraska|56741|Computers
+217|Arthur|Warren|Richmond Hill|New York|43547|Electronics
+121|Quincy|Warren|Hutchinson Rd|Oregon|76840|Travel
+21|Cleveland|Grover|Harbor Dr|Minnesota|51059|Furniture
+178|Jefferson|John|N Kentwood|Delaware|43688|Travel
+73|Adams|Calvin|Cabrillo Highway|Indiana|22298|Security
+66|Johnson|Andrew|Monroe Street|New Hampshire|78402|Furniture
+89|Polk|Martin|East Calle Primera|North Dakota|42058|Electronics
+238|Clinton|Harry|South Roosevelt Drive|Delaware|73238|Freight
+36|Arthur|Andrew|San Luis Obispo North|West Virginia|88390|Furniture
+31|Eisenhower|Richard|Woodson Rd.|Hawaii|44510|Travel
+41|Roosevelt|Martin|Santa Monica Road|Alabama|85025|Security
+9|Nixon|Bill|Carpinteria North|Texas|45767|Computers
+132|Eisenhower|Thomas|Lawrenceville Suwanee|Maryland|49310|Computers
+198|Ford|Ronald|Harry S Truman Blvd|Wyoming|33031|Electronics
+176|Coolidge|Thomas|Camelback Rd|Oregon|80695|Computers
+200|Tyler|George|Greenwood Road|Nebraska|89814|Computers
+112|Grant|Gerald|North Broadway Street|Virginia|90414|Computers
+210|Adams|Martin|San Luis Obispo North|South Dakota|23309|Computers
+195|Roosevelt|Lyndon|San Luis Obispo North|Missouri|55408|Travel
+79|Clinton|Harry|Bowles Avenue|New Jersey|56979|Security
+240|Quincy|Franklin|Monroe Street|Texas|77484|Freight
+150|Clinton|Herbert|Carpinteria Avenue|Pennsylvania|46378|Freight
+83|Tyler|Andrew|Grandview Drive|Hawaii|75700|Travel
+164|Monroe|Millard|Tully Road East|Nebraska|56766|Computers
+1|Harrison|Ronald|Via Real|Florida|58060|Electronics
+189|Monroe|John|Katella Avenue|California|40629|Computers
+48|Fillmore|William|Castillo Drive|North Dakota|30169|Computers
+129|Roosevelt|Benjamin|E Fowler Avenue|Hawaii|29494|Security
+200|Roosevelt|Woodrow|Redwood Highway|Idaho|81186|Computers
+44|Kennedy|Benjamin|Harry S Truman Blvd|Connecticut|85257|Security
+174|McKinley|George|El Camino Real|Florida|52442|Travel
+247|Buchanan|Ronald|Santa Ana Freeway|Alaska|30426|Travel
+226|Arthur|Jimmy|S Rustle St|Oklahoma|41364|Freight
+237|Harding|Calvin|Bowles Avenue|Wyoming|49872|Computers
+14|Ford|Ronald|French Camp Turnpike Road|New Jersey|45186|Computers
+240|Pierce|Chester|South Highway|Georgia|39893|Security
+169|Cleveland|Warren|South Roosevelt Drive|Maine|38571|Electronics
+74|Jefferson|Warren|Lake Tahoe Blvd.|Idaho|51490|Electronics
+182|Harrison|Ronald|North Preisker Lane|West Virginia|51204|Freight
+166|Grant|Thomas|San Marcos|Hawaii|78132|Computers
+188|Harrison|Harry|Fontaine Road|Delaware|54592|Furniture
+58|Truman|Bill|El Camino Real|Delaware|96177|Security
+171|Roosevelt|Millard|North Broadway Street|Colorado|48233|Travel
+122|Nixon|Franklin|Carpinteria Avenue|Ohio|22938|Furniture
+73|Washington|Abraham|N Harrison St|Texas|98630|Freight
+215|Grant|Thomas|Santa Rosa North|Missouri|24341|Electronics
+209|Harrison|George|E Fowler Avenue|Oregon|96823|Freight
+232|Monroe|Richard|South Roosevelt Drive|South Carolina|25516|Travel
+194|Johnson|Millard|Tanger Blvd|Arkansas|50212|Furniture
+129|Clinton|Andrew|Carpinteria South|Vermont|42507|Computers
+219|Grant|Dwight|East 1st Street|Texas|79012|Travel
+110|Adams|Thomas|Fontaine Road|Missouri|28205|Furniture
+9|Ford|George|N Kentwood|Alaska|80147|Computers
+212|Coolidge|Andrew|North Ventu Park Road|Mississippi|43882|Computers
+254|Pierce|Martin|San Simeon|Florida|73850|Travel
+153|Taft|Andrew|Fairview Avenue|Wisconsin|96103|Furniture
+71|Taylor|Woodrow|Hutchinson Rd|Washington|60878|Freight
+175|Johnson|Benjamin|Harbor Dr|Vermont|61681|Freight
+202|Fillmore|Woodrow|Newbury Road|Michigan|24155|Furniture
+173|Pierce|Ulysses|Milpas Street|North Dakota|27384|Security
+230|Roosevelt|Ulysses|N Kentwood|Pennsylvania|52546|Security
+219|Coolidge|Calvin|Burnett Road|West Virginia|96396|Computers
+184|Wilson|Millard|Padre Boulevard|New Hampshire|90550|Electronics
+125|Van Buren|Gerald|Fontaine Road|Georgia|71016|Computers
+115|Jackson|Richard|Harry S Truman Blvd|New Hampshire|81653|Freight
+29|Roosevelt|Warren|Camelback Rd|South Carolina|66541|Freight
+88|Kennedy|Bill|North Preisker Lane|Pennsylvania|74947|Freight
+117|Coolidge|Theodore|N Kentwood|Virginia|88880|Computers
+83|Roosevelt|Jimmy|Apalachee Parkway|Wyoming|93096|Electronics
+182|Johnson|James|Cabrillo Highway|Maryland|29601|Computers
+36|Hayes|Andrew|North Atherton Street|North Dakota|48413|Computers
+241|Johnson|Theodore|French Camp Turnpike Road|Idaho|40991|Furniture
+152|Tyler|Franklin|San Ysidro Blvd|Missouri|42461|Electronics
+182|Reagan|Richard|French Camp Turnpike Road|Montana|61617|Computers
+113|Roosevelt|Grover|Jones Road|Maine|60021|Security
+87|Harrison|Grover|Harry S Truman Blvd|Tennessee|25294|Furniture
+103|Washington|Thomas|North Preisker Lane|Iowa|37115|Freight
+130|Johnson|Woodrow|Monroe Street|Oregon|58801|Computers
+247|Jackson|Lyndon|Castillo Drive|Wisconsin|89411|Travel
+148|Arthur|Ulysses|Grandview Drive|Maryland|67375|Travel
+167|Adams|Harry|N Harrison St|Missouri|65220|Electronics
+129|Johnson|Herbert|Redwood Highway|South Carolina|55158|Electronics
+234|Quincy|Gerald|Carpinteria Avenue|New Hampshire|25217|Travel
+238|Polk|John|Burnett Road|Idaho|30453|Electronics
+252|Wilson|James|Timberlane Drive|New Jersey|37864|Computers
+228|McKinley|Dwight|N Harrison St|North Dakota|36189|Security
+166|Adams|Ulysses|Pacific Hwy S|Maine|93192|Freight
+91|Coolidge|Martin|East Main Street|Michigan|35453|Freight
+72|Roosevelt|Ronald|Via Real|New Jersey|33436|Electronics
+224|Quincy|Bill|Cabrillo Highway|Utah|37090|Travel
+91|Fillmore|Theodore|Richmond Hill|New Jersey|77295|Travel
+182|Adams|Franklin|N Kentwood|Vermont|89295|Freight
+33|Clinton|Millard|N Kentwood|California|30558|Electronics
+211|Tyler|Calvin|Calle Real|Iowa|88854|Electronics
+75|Buchanan|Warren|Newbury Road|Nevada|52026|Security
+151|Pierce|Millard|Padre Boulevard|Maine|50079|Freight
+16|Monroe|Jimmy|Bayshore Freeway|New York|68688|Security
+59|Roosevelt|Bill|East Calle Primera|Kansas|61799|Electronics
+120|Johnson|Warren|San Luis Obispo North|North Dakota|74826|Electronics
+158|Pierce|Martin|Cabrillo Highway|Connecticut|66199|Security
+115|McKinley|James|Carpinteria Avenue|Tennessee|83834|Electronics
+109|Clinton|Warren|Santa Rosa South|South Carolina|97721|Computers
+215|Ford|Rutherford|East Fry Blvd.|New Jersey|40147|Electronics
+113|Buchanan|Bill|Katella Avenue|Mississippi|90297|Computers
+94|Taylor|Franklin|Lindbergh Blvd|North Carolina|86248|Computers
+108|Roosevelt|Thomas|San Simeon|Minnesota|85727|Computers
+115|Reagan|Zachary|Monroe Street|Nebraska|60704|Electronics
+202|Garfield|Dwight|Fontaine Road|Nevada|43957|Furniture
+217|Clinton|Bill|San Luis Obispo North|Delaware|44235|Security
+96|Lincoln|Bill|Lawrenceville Suwanee|Texas|78527|Travel
+1|Harrison|John|French Camp Turnpike Road|Minnesota|49710|Travel
+78|Carter|Bill|Santa Rosa North|New York|50730|Travel
+82|Cleveland|George|W. Russell St.|Mississippi|24258|Electronics
+125|Coolidge|James|North Ventu Park Road|Pennsylvania|65338|Furniture
+217|Jefferson|Herbert|Timberlane Drive|North Carolina|75171|Electronics
+4|Johnson|Rutherford|North Ventu Park Road|New York|96732|Freight
+31|Ford|Jimmy|Carpinteria Avenue|Nevada|68146|Freight
+100|Nixon|Millard|Carpinteria South|Delaware|25951|Furniture
+108|Johnson|Thomas|Katella Avenue|Ohio|43382|Computers
+173|McKinley|Chester|Lake Tahoe Blvd.|Hawaii|53053|Freight
+106|Johnson|Herbert|Moreno Drive|Oklahoma|85372|Freight
+66|Adams|Martin|Cleveland Ave.|Oregon|43244|Furniture
+115|Hayes|Chester|Harbor Dr|Rhode Island|88244|Security
+91|Pierce|Dwight|Jean de la Fontaine|Tennessee|80340|Freight
+236|Wilson|Ronald|East 1st Street|Arizona|57858|Electronics
+71|Tyler|Millard|Camelback Rd|Montana|37560|Electronics
+164|Washington|Chester|N Kentwood|Delaware|29109|Furniture
+239|Ford|Dwight|Padre Boulevard|Washington|55350|Travel
+61|Adams|George|North Ventu Park Road|Delaware|96406|Travel
+52|Wilson|Gerald|San Ysidro Blvd|Utah|28030|Travel
+160|Roosevelt|Abraham|Bayshore Freeway|Missouri|90432|Computers
+123|Roosevelt|Grover|Pacific Hwy S|Louisiana|23170|Travel
+168|Johnson|Dwight|Lawrenceville Suwanee|New Hampshire|62859|Security
+9|Coolidge|Zachary|Westside Freeway|Maine|56463|Travel
+69|Adams|Herbert|Newbury Road|Massachusetts|40390|Computers
+151|McKinley|Jimmy|Steele Lane|North Dakota|42669|Computers
+216|Monroe|Ronald|Jones Road|Utah|47109|Freight
+43|Cleveland|Dwight|Via Real|Washington|95567|Freight
+191|Eisenhower|Woodrow|Cabrillo Highway|Pennsylvania|69517|Freight
+49|Washington|Chester|Hutchinson Rd|Hawaii|67771|Freight
+177|Roosevelt|John|South Roosevelt Drive|Texas|51924|Computers
+132|Polk|Benjamin|W. Russell St.|Pennsylvania|49335|Computers
+240|Taylor|Harry|Padre Boulevard|Missouri|60959|Electronics
+112|Coolidge|Andrew|E Fowler Avenue|Oklahoma|59902|Electronics
+62|Pierce|George|East Calle Primera|Utah|58064|Electronics
+98|Harrison|Richard|Bowles Avenue|Nevada|50695|Travel
+12|Washington|Bill|Moreno Drive|North Carolina|67852|Security
+157|Grant|Chester|Carpinteria South|New Hampshire|79741|Computers
+127|Cleveland|Woodrow|Camelback Rd|Indiana|28209|Travel
+49|Harding|Andrew|Lindbergh Blvd|Massachusetts|36484|Travel
+127|Roosevelt|George|Santa Rosa North|Mississippi|88307|Security
+53|Adams|Franklin|Castillo Drive|Vermont|48086|Electronics
+131|Lincoln|Grover|Padre Boulevard|Illinois|49931|Furniture
+76|Pierce|Andrew|Harry S Truman Blvd|Georgia|88173|Freight
+132|Quincy|John|Timberlane Drive|Texas|47949|Electronics
+156|Harrison|Ulysses|W. Russell St.|New Mexico|51725|Electronics
+31|Jackson|Jimmy|Westside Freeway|Nebraska|59588|Travel
+114|Roosevelt|Herbert|Cabrillo Highway|Louisiana|90627|Electronics
+246|McKinley|Millard|Carpinteria South|Pennsylvania|63833|Security
+21|Jefferson|Richard|Newbury Road|Louisiana|67477|Security
+20|Fillmore|Lyndon|Santa Rosa South|North Carolina|86252|Electronics
+186|Wilson|Dwight|Carpinteria South|Massachusetts|80665|Computers
+75|Arthur|William|Lake Tahoe Blvd.|Nebraska|71906|Freight
+223|Adams|Bill|Steele Lane|New York|96945|Furniture
+153|Coolidge|Andrew|San Ysidro Blvd|Mississippi|29769|Security
+242|Buchanan|Abraham|North Erringer Road|Texas|32143|Freight
+188|Carter|Ulysses|E Fowler Avenue|Montana|97388|Freight
+189|Lincoln|Chester|Richmond Hill|Massachusetts|90706|Furniture
+140|Fillmore|Thomas|Camelback Rd|Louisiana|28725|Freight
+216|Washington|George|Harbor Dr|Pennsylvania|99323|Travel
+17|Garfield|Benjamin|East Calle Primera|Iowa|55799|Security
+51|Carter|Richard|San Marcos|Oklahoma|71157|Security
+175|Jefferson|Rutherford|South Roosevelt Drive|Minnesota|82434|Freight
+153|Truman|Dwight|San Ysidro Blvd|Indiana|26371|Freight
+142|Quincy|Andrew|Lindbergh Blvd|Oklahoma|91785|Security
+67|Garfield|George|Jean de la Fontaine|Hawaii|27155|Travel
+197|Ford|John|Steele Lane|Texas|99367|Electronics
+116|Adams|Abraham|Cleveland Ave.|Indiana|28075|Electronics
+247|Carter|Zachary|South Highway|Oklahoma|71247|Travel
+121|Jackson|John|Harry S Truman Blvd|Alaska|28602|Freight
+127|Arthur|Harry|Corona Del Mar|Maine|86157|Computers
+136|Johnson|Thomas|South Roosevelt Drive|Arkansas|99618|Electronics
+180|Jefferson|Warren|North Erringer Road|Missouri|50590|Freight
+136|Madison|Rutherford|Milpas Street|Mississippi|95195|Computers
+111|McKinley|Jimmy|Fairview Avenue|Oregon|55141|Furniture
+20|Johnson|Woodrow|North Preisker Lane|West Virginia|99402|Travel
+120|Quincy|George|Bayshore Freeway|Colorado|66380|Security
+209|Eisenhower|George|Grandview Drive|Minnesota|73046|Furniture
+135|Reagan|Grover|Cabrillo Highway|Georgia|25681|Electronics
+178|Harding|Benjamin|S Rustle St|Nebraska|90529|Electronics
+1|Monroe|Richard|North Preisker Lane|Michigan|96990|Travel
+143|Madison|James|Harbor Dr|Virginia|25637|Computers
+216|Carter|Franklin|Newbury Road|Kentucky|47257|Computers
+104|Roosevelt|Franklin|Bowles Avenue|North Dakota|57147|Security
+208|Roosevelt|Theodore|Pacific Hwy S|Michigan|56208|Furniture
+124|Nixon|Millard|Santa Rosa South|New Hampshire|31687|Travel
+139|Ford|Franklin|Tully Road East|Nebraska|36193|Furniture
+125|Pierce|Calvin|Cleveland Ave.|Connecticut|75731|Furniture
+254|Van Buren|Franklin|Fontaine Road|Massachusetts|87050|Computers
+62|Harrison|Martin|North Atherton Street|Vermont|90836|Security
+84|Roosevelt|Lyndon|French Camp Turnpike Road|Kentucky|92936|Security
+130|Roosevelt|Theodore|Cabrillo Highway|Utah|96374|Security
+104|Hayes|James|Tully Road East|Hawaii|43505|Freight
+221|Reagan|Warren|Jean de la Fontaine|Wisconsin|79731|Travel
+216|Polk|George|Grandview Drive|Virginia|41733|Freight
+245|Taylor|Zachary|North Preisker Lane|North Dakota|64179|Security
+245|Wilson|Abraham|French Camp Turnpike Road|West Virginia|22940|Electronics
+19|Johnson|Warren|South Roosevelt Drive|Washington|31657|Electronics
+192|Carter|Richard|San Ysidro Blvd|New York|65179|Computers
+102|Ford|Jimmy|Steele Lane|Nebraska|41369|Electronics
+188|Tyler|Warren|Santa Ana Freeway|Alaska|97974|Travel
+64|Buchanan|Chester|N Kentwood|Washington|98931|Freight
+112|Eisenhower|Grover|Steele Lane|Kansas|47719|Furniture
+22|Harrison|Lyndon|Bayshore Freeway|Maryland|87984|Travel
+31|Polk|Calvin|N Harrison St|Florida|60554|Computers
+74|Hayes|Herbert|Bowles Avenue|North Dakota|43442|Freight
+169|Buchanan|William|North Ventu Park Road|Idaho|83886|Travel
+102|Washington|Martin|N Harrison St|Maine|67349|Freight
+75|Adams|Millard|Milpas Street|Alaska|88159|Travel
+194|Eisenhower|Calvin|El Camino Real|Utah|64571|Computers
+136|Harrison|Millard|Greenwood Road|New York|37603|Travel
+157|Buchanan|Jimmy|Santa Monica Road|Oregon|28615|Computers
+162|McKinley|Theodore|Bowles Avenue|Wisconsin|72642|Travel
+247|Washington|Franklin|E Fowler Avenue|Virginia|48726|Security
+151|Johnson|Ronald|Cabrillo Highway|Washington|24986|Electronics
+209|Fillmore|Calvin|Bowles Avenue|Washington|49221|Security
+255|Clinton|Gerald|N Harrison St|New Jersey|38302|Travel
+247|Buchanan|Dwight|N Harrison St|New Hampshire|99760|Freight
+252|Carter|Chester|Tanger Blvd|Minnesota|56976|Computers
+247|Hoover|Benjamin|San Simeon|Nevada|72926|Electronics
+213|Ford|Gerald|Jean de la Fontaine|Oregon|50794|Electronics
+139|Taft|Thomas|Castillo Drive|California|95605|Security
+243|Roosevelt|Warren|E Fowler Avenue|Arizona|53133|Security
+119|McKinley|Millard|Santa Monica Road|South Dakota|65143|Security
+160|Hayes|Ulysses|North Preisker Lane|Virginia|60164|Travel
+182|Clinton|Dwight|North Erringer Road|Vermont|80380|Travel
+18|Harrison|William|Harbor Dr|Nevada|57355|Electronics
+180|Truman|James|Lawrenceville Suwanee|Washington|48989|Computers
+52|Jackson|Millard|Santa Rosa North|New York|62926|Travel
+77|Polk|Chester|San Simeon|Louisiana|53989|Computers
+19|Polk|Thomas|Via Real|Idaho|39084|Security
+117|Pierce|Thomas|W. Russell St.|Hawaii|71581|Travel
+189|Monroe|Woodrow|Calle Real|Iowa|54247|Furniture
+155|Ford|Martin|Greenwood Road|Vermont|74017|Freight
+35|Truman|John|North Ventu Park Road|Alabama|82984|Travel
+19|Wilson|Ronald|Lake Tahoe Blvd.|Oregon|91753|Computers
+166|Adams|Ronald|Carpinteria North|Maine|38509|Freight
+68|Roosevelt|Millard|Santa Rosa North|Massachusetts|48602|Electronics
+228|Harrison|Martin|Bowles Avenue|New Jersey|78421|Furniture
+219|Grant|Jimmy|S Rustle St|New Hampshire|33178|Electronics
+159|Hayes|Abraham|East 1st Street|Louisiana|74852|Security
+187|Adams|Bill|Hutchinson Rd|Utah|96207|Electronics
+173|Quincy|William|E Fowler Avenue|Maine|61752|Furniture
+27|Quincy|Richard|N Kentwood|Nebraska|32961|Security
+123|Roosevelt|Thomas|Santa Ana Freeway|West Virginia|42638|Freight
+20|Kennedy|Ronald|Redwood Highway|Minnesota|34307|Travel
+184|Kennedy|Thomas|N Harrison St|Wyoming|50505|Computers
+159|Wilson|Lyndon|S Rustle St|Wisconsin|79669|Furniture
+181|Johnson|Gerald|Fairview Avenue|South Dakota|75665|Electronics
+5|Grant|Benjamin|East Fry Blvd.|Virginia|78453|Travel
+60|Harding|Harry|Pacific Hwy S|North Dakota|94691|Computers
+201|Hayes|Martin|Monroe Street|South Carolina|43113|Freight
+172|Harrison|Grover|East Fry Blvd.|Ohio|66732|Freight
+74|Johnson|Grover|Fairview Avenue|California|30420|Computers
+176|Grant|William|Santa Ana Freeway|Virginia|45448|Security
+97|Quincy|Calvin|North Erringer Road|West Virginia|28716|Electronics
+12|Wilson|Lyndon|East Fry Blvd.|Maryland|85840|Furniture
+217|Johnson|Andrew|East 1st Street|Michigan|86882|Travel
+180|Clinton|Lyndon|Milpas Street|West Virginia|38470|Computers
+206|Roosevelt|Benjamin|Santa Ana Freeway|Maine|75458|Electronics
+221|Adams|Bill|Monroe Street|Wisconsin|74731|Security
+149|Harding|Andrew|Lawrenceville Suwanee|Maryland|41774|Computers
+79|Truman|Ronald|Greenwood Road|Nebraska|64645|Computers
+124|Clinton|Thomas|Hutchinson Rd|Kansas|24677|Freight
+58|Harding|Richard|Bayshore Freeway|Delaware|77715|Freight
+80|Ford|Calvin|Katella Avenue|Nevada|52671|Computers
+138|Madison|William|Santa Monica Road|South Carolina|53136|Freight
+90|Kennedy|Bill|W. Russell St.|Nevada|95372|Freight
+160|Johnson|Grover|Milpas Street|Arizona|32603|Electronics
+121|Cleveland|Ulysses|Westside Freeway|California|94337|Security
+162|Hoover|Millard|San Simeon|Nebraska|44881|Computers
+243|Adams|Benjamin|Carpinteria Avenue|Montana|76641|Security
+89|Adams|Warren|South Roosevelt Drive|Massachusetts|31703|Travel
+170|Johnson|John|North Preisker Lane|Delaware|64234|Freight
+70|Harding|Benjamin|East Main Street|Iowa|53973|Security
+121|Eisenhower|Andrew|Tanger Blvd|West Virginia|45100|Travel
+123|Eisenhower|Bill|San Marcos|New Mexico|37791|Furniture
+235|Roosevelt|Benjamin|East 1st Street|Michigan|35355|Electronics
+152|Madison|Calvin|El Camino Real|New Jersey|89335|Computers
+167|Jefferson|Theodore|Carpinteria Avenue|Ohio|90159|Electronics
+118|Wilson|Gerald|Cerrillos Road|Missouri|81694|Electronics

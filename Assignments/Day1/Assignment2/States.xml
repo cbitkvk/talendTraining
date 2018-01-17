@@ -1,0 +1,5154 @@
+<?xml version="1.0" encoding="ISO-8859-15"?>
+
+<Customers>
+  <State>
+    <StateName>Alabama</StateName>
+    <City>
+      <CityName>Annapolis</CityName>
+      <Street>E Fowler Avenue</Street>
+      <Date>22-01-2008</Date>
+    </City>
+    <City>
+      <CityName>Frankfort</CityName>
+      <Street>San Ysidro Blvd</Street>
+      <Date>23-06-2008</Date>
+    </City>
+    <City>
+      <CityName>Montpelier</CityName>
+      <Street>Timberlane Drive</Street>
+      <Date>10-09-2008</Date>
+    </City>
+    <City>
+      <CityName>Phoenix</CityName>
+      <Street>Carpinteria South</Street>
+      <Date>18-09-2007</Date>
+    </City>
+    <City>
+      <CityName>Pierre</CityName>
+      <Street>Steele Lane</Street>
+      <Date>12-07-2008</Date>
+    </City>
+    <City>
+      <CityName>Richmond</CityName>
+      <Street>South Highway</Street>
+      <Date>20-05-2007</Date>
+    </City>
+    <City>
+      <CityName>Sacramento</CityName>
+      <Street>Carpinteria North</Street>
+      <Date>06-02-2008</Date>
+    </City>
+  </State>
+  <State>
+    <StateName>Alaska</StateName>
+    <City>
+      <CityName>Austin</CityName>
+      <Street>E Fowler Avenue</Street>
+      <Date>14-11-2008</Date>
+    </City>
+    <City>
+      <CityName>Baton Rouge</CityName>
+      <Street>East Fry Blvd.</Street>
+      <Date>02-08-2007</Date>
+    </City>
+    <City>
+      <CityName>Boston</CityName>
+      <Street>W. Russell St.</Street>
+      <Date>11-12-2008</Date>
+    </City>
+    <City>
+      <CityName>Columbia</CityName>
+      <Street>Cerrillos Road</Street>
+      <Date>09-03-2007</Date>
+    </City>
+    <City>
+      <CityName>Denver</CityName>
+      <Street>Westside Freeway</Street>
+      <Date>22-06-2007</Date>
+    </City>
+    <City>
+      <CityName>Harrisburg</CityName>
+      <Street>East 1st Street</Street>
+      <Date>06-12-2008</Date>
+    </City>
+    <City>
+      <CityName>Helena</CityName>
+      <Street>Cabrillo Highway</Street>
+      <Date>29-04-2008</Date>
+    </City>
+    <City>
+      <CityName>Juneau</CityName>
+      <Street>Westside Freeway</Street>
+      <Date>08-05-2007</Date>
+    </City>
+    <City>
+      <CityName>Little Rock</CityName>
+      <Street>North Erringer Road</Street>
+      <Date>05-04-2007</Date>
+    </City>
+    <City>
+      <CityName>Little Rock</CityName>
+      <Street>Carpinteria South</Street>
+      <Date>27-02-2007</Date>
+    </City>
+    <City>
+      <CityName>Montgomery</CityName>
+      <Street>Tanger Blvd</Street>
+      <Date>25-11-2007</Date>
+    </City>
+    <City>
+      <CityName>Olympia</CityName>
+      <Street>Pacific Hwy S</Street>
+      <Date>16-02-2008</Date>
+    </City>
+    <City>
+      <CityName>Olympia</CityName>
+      <Street>East Calle Primera</Street>
+      <Date>03-02-2008</Date>
+    </City>
+    <City>
+      <CityName>Phoenix</CityName>
+      <Street>Santa Monica Road</Street>
+      <Date>05-02-2007</Date>
+    </City>
+    <City>
+      <CityName>Sacramento</CityName>
+      <Street>Fontaine Road</Street>
+      <Date>22-02-2007</Date>
+    </City>
+    <City>
+      <CityName>Saint Paul</CityName>
+      <Street>North Erringer Road</Street>
+      <Date>26-12-2007</Date>
+    </City>
+    <City>
+      <CityName>Topeka</CityName>
+      <Street>South Highway</Street>
+      <Date>21-01-2008</Date>
+    </City>
+  </State>
+  <State>
+    <StateName>Arizona</StateName>
+    <City>
+      <CityName>Atlanta</CityName>
+      <Street>Santa Rosa North</Street>
+      <Date>09-01-2007</Date>
+    </City>
+    <City>
+      <CityName>Augusta</CityName>
+      <Street>Camelback Rd</Street>
+      <Date>08-11-2007</Date>
+    </City>
+    <City>
+      <CityName>Austin</CityName>
+      <Street>Steele Lane</Street>
+      <Date>05-04-2008</Date>
+    </City>
+    <City>
+      <CityName>Baton Rouge</CityName>
+      <Street>Milpas Street</Street>
+      <Date>07-04-2007</Date>
+    </City>
+    <City>
+      <CityName>Bismarck</CityName>
+      <Street>Via Real</Street>
+      <Date>23-07-2008</Date>
+    </City>
+    <City>
+      <CityName>Boise</CityName>
+      <Street>Santa Monica Road</Street>
+      <Date>15-11-2007</Date>
+    </City>
+    <City>
+      <CityName>Carson City</CityName>
+      <Street>Grandview Drive</Street>
+      <Date>04-01-2008</Date>
+    </City>
+    <City>
+      <CityName>Concord</CityName>
+      <Street>Moreno Drive</Street>
+      <Date>14-01-2008</Date>
+    </City>
+    <City>
+      <CityName>Concord</CityName>
+      <Street>W. Russell St.</Street>
+      <Date>30-03-2008</Date>
+    </City>
+    <City>
+      <CityName>Concord</CityName>
+      <Street>Jones Road</Street>
+      <Date>23-07-2008</Date>
+    </City>
+    <City>
+      <CityName>Denver</CityName>
+      <Street>Santa Ana Freeway</Street>
+      <Date>20-07-2008</Date>
+    </City>
+    <City>
+      <CityName>Denver</CityName>
+      <Street>San Marcos</Street>
+      <Date>14-12-2007</Date>
+    </City>
+    <City>
+      <CityName>Frankfort</CityName>
+      <Street>Newbury Road</Street>
+      <Date>31-03-2007</Date>
+    </City>
+    <City>
+      <CityName>Hartford</CityName>
+      <Street>W. Russell St.</Street>
+      <Date>25-10-2007</Date>
+    </City>
+    <City>
+      <CityName>Jefferson City</CityName>
+      <Street>Monroe Street</Street>
+      <Date>22-06-2007</Date>
+    </City>
+    <City>
+      <CityName>Juneau</CityName>
+      <Street>Hutchinson Rd</Street>
+      <Date>28-12-2008</Date>
+    </City>
+    <City>
+      <CityName>Lansing</CityName>
+      <Street>East Main Street</Street>
+      <Date>03-11-2007</Date>
+    </City>
+    <City>
+      <CityName>Lincoln</CityName>
+      <Street>Tully Road East</Street>
+      <Date>24-03-2007</Date>
+    </City>
+    <City>
+      <CityName>Montpelier</CityName>
+      <Street>East Calle Primera</Street>
+      <Date>22-05-2007</Date>
+    </City>
+    <City>
+      <CityName>Olympia</CityName>
+      <Street>North Atherton Street</Street>
+      <Date>15-03-2007</Date>
+    </City>
+    <City>
+      <CityName>Sacramento</CityName>
+      <Street>San Ysidro Blvd</Street>
+      <Date>07-10-2008</Date>
+    </City>
+    <City>
+      <CityName>Saint Paul</CityName>
+      <Street>Santa Monica Road</Street>
+      <Date>17-12-2008</Date>
+    </City>
+    <City>
+      <CityName>Salt Lake City</CityName>
+      <Street>Lake Tahoe Blvd.</Street>
+      <Date>20-12-2007</Date>
+    </City>
+    <City>
+      <CityName>Topeka</CityName>
+      <Street>Santa Rosa South</Street>
+      <Date>12-08-2007</Date>
+    </City>
+  </State>
+  <State>
+    <StateName>Arkansas</StateName>
+    <City>
+      <CityName>Annapolis</CityName>
+      <Street>Newbury Road</Street>
+      <Date>02-09-2008</Date>
+    </City>
+    <City>
+      <CityName>Atlanta</CityName>
+      <Street>Lake Tahoe Blvd.</Street>
+      <Date>15-01-2008</Date>
+    </City>
+    <City>
+      <CityName>Atlanta</CityName>
+      <Street>Richmond Hill</Street>
+      <Date>17-05-2008</Date>
+    </City>
+    <City>
+      <CityName>Bismarck</CityName>
+      <Street>Bayshore Freeway</Street>
+      <Date>29-03-2008</Date>
+    </City>
+    <City>
+      <CityName>Bismarck</CityName>
+      <Street>East 1st Street</Street>
+      <Date>07-05-2008</Date>
+    </City>
+    <City>
+      <CityName>Boston</CityName>
+      <Street>San Luis Obispo North</Street>
+      <Date>07-03-2008</Date>
+    </City>
+    <City>
+      <CityName>Charleston</CityName>
+      <Street>Cabrillo Highway</Street>
+      <Date>21-07-2007</Date>
+    </City>
+    <City>
+      <CityName>Columbia</CityName>
+      <Street>Bayshore Freeway</Street>
+      <Date>11-07-2008</Date>
+    </City>
+    <City>
+      <CityName>Des Moines</CityName>
+      <Street>South Roosevelt Drive</Street>
+      <Date>28-11-2008</Date>
+    </City>
+    <City>
+      <CityName>Dover</CityName>
+      <Street>Burnett Road</Street>
+      <Date>31-07-2007</Date>
+    </City>
+    <City>
+      <CityName>Helena</CityName>
+      <Street>North Ventu Park Road</Street>
+      <Date>19-11-2007</Date>
+    </City>
+    <City>
+      <CityName>Juneau</CityName>
+      <Street>Westside Freeway</Street>
+      <Date>02-11-2007</Date>
+    </City>
+    <City>
+      <CityName>Madison</CityName>
+      <Street>Tully Road East</Street>
+      <Date>10-03-2008</Date>
+    </City>
+    <City>
+      <CityName>Nashville</CityName>
+      <Street>Bayshore Freeway</Street>
+      <Date>27-03-2008</Date>
+    </City>
+    <City>
+      <CityName>Olympia</CityName>
+      <Street>San Diego Freeway</Street>
+      <Date>10-02-2007</Date>
+    </City>
+    <City>
+      <CityName>Pierre</CityName>
+      <Street>French Camp Turnpike Road</Street>
+      <Date>17-11-2008</Date>
+    </City>
+    <City>
+      <CityName>Pierre</CityName>
+      <Street>N Harrison St</Street>
+      <Date>24-01-2008</Date>
+    </City>
+    <City>
+      <CityName>Richmond</CityName>
+      <Street>Camelback Rd</Street>
+      <Date>18-08-2007</Date>
+    </City>
+    <City>
+      <CityName>Sacramento</CityName>
+      <Street>Castillo Drive</Street>
+      <Date>14-02-2008</Date>
+    </City>
+    <City>
+      <CityName>Salem</CityName>
+      <Street>Lindbergh Blvd</Street>
+      <Date>09-07-2008</Date>
+    </City>
+    <City>
+      <CityName>Salt Lake City</CityName>
+      <Street>Santa Rosa South</Street>
+      <Date>29-05-2007</Date>
+    </City>
+    <City>
+      <CityName>Santa Fe</CityName>
+      <Street>Monroe Street</Street>
+      <Date>20-06-2008</Date>
+    </City>
+    <City>
+      <CityName>Santa Fe</CityName>
+      <Street>North Atherton Street</Street>
+      <Date>06-08-2008</Date>
+    </City>
+    <City>
+      <CityName>Tallahassee</CityName>
+      <Street>Padre Boulevard</Street>
+      <Date>13-02-2008</Date>
+    </City>
+    <City>
+      <CityName>Topeka</CityName>
+      <Street>Richmond Hill</Street>
+      <Date>29-12-2008</Date>
+    </City>
+  </State>
+  <State>
+    <StateName>California</StateName>
+    <City>
+      <CityName>Annapolis</CityName>
+      <Street>East 1st Street</Street>
+      <Date>13-06-2008</Date>
+    </City>
+    <City>
+      <CityName>Austin</CityName>
+      <Street>N Kentwood</Street>
+      <Date>25-05-2007</Date>
+    </City>
+    <City>
+      <CityName>Cheyenne</CityName>
+      <Street>San Diego Freeway</Street>
+      <Date>09-03-2007</Date>
+    </City>
+    <City>
+      <CityName>Columbus</CityName>
+      <Street>Cerrillos Road</Street>
+      <Date>15-04-2007</Date>
+    </City>
+    <City>
+      <CityName>Columbus</CityName>
+      <Street>N Kentwood</Street>
+      <Date>03-02-2008</Date>
+    </City>
+    <City>
+      <CityName>Denver</CityName>
+      <Street>Westside Freeway</Street>
+      <Date>18-06-2007</Date>
+    </City>
+    <City>
+      <CityName>Dover</CityName>
+      <Street>El Camino Real</Street>
+      <Date>24-08-2007</Date>
+    </City>
+    <City>
+      <CityName>Hartford</CityName>
+      <Street>Harbor Dr</Street>
+      <Date>03-01-2007</Date>
+    </City>
+    <City>
+      <CityName>Indianapolis</CityName>
+      <Street>San Luis Obispo North</Street>
+      <Date>05-12-2007</Date>
+    </City>
+    <City>
+      <CityName>Jackson</CityName>
+      <Street>Santa Ana Freeway</Street>
+      <Date>29-05-2007</Date>
+    </City>
+    <City>
+      <CityName>Jackson</CityName>
+      <Street>Bailard Avenue</Street>
+      <Date>04-04-2007</Date>
+    </City>
+    <City>
+      <CityName>Lincoln</CityName>
+      <Street>Cabrillo Highway</Street>
+      <Date>26-07-2007</Date>
+    </City>
+    <City>
+      <CityName>Oklahoma City</CityName>
+      <Street>North Erringer Road</Street>
+      <Date>30-01-2008</Date>
+    </City>
+    <City>
+      <CityName>Sacramento</CityName>
+      <Street>N Kentwood</Street>
+      <Date>24-10-2008</Date>
+    </City>
+    <City>
+      <CityName>Sacramento</CityName>
+      <Street>Apalachee Parkway</Street>
+      <Date>20-12-2007</Date>
+    </City>
+    <City>
+      <CityName>Salem</CityName>
+      <Street>Harbor Dr</Street>
+      <Date>26-02-2008</Date>
+    </City>
+    <City>
+      <CityName>Springfield</CityName>
+      <Street>San Luis Obispo North</Street>
+      <Date>29-07-2007</Date>
+    </City>
+    <City>
+      <CityName>Topeka</CityName>
+      <Street>El Camino Real</Street>
+      <Date>09-09-2007</Date>
+    </City>
+    <City>
+      <CityName>Trenton</CityName>
+      <Street>N Kentwood</Street>
+      <Date>06-08-2008</Date>
+    </City>
+  </State>
+  <State>
+    <StateName>Colorado</StateName>
+    <City>
+      <CityName>Albany</CityName>
+      <Street>Grandview Drive</Street>
+      <Date>29-10-2008</Date>
+    </City>
+    <City>
+      <CityName>Austin</CityName>
+      <Street>San Diego Freeway</Street>
+      <Date>30-12-2008</Date>
+    </City>
+    <City>
+      <CityName>Baton Rouge</CityName>
+      <Street>Jones Road</Street>
+      <Date>19-08-2007</Date>
+    </City>
+    <City>
+      <CityName>Bismarck</CityName>
+      <Street>San Simeon</Street>
+      <Date>11-09-2007</Date>
+    </City>
+    <City>
+      <CityName>Carson City</CityName>
+      <Street>Cleveland Ave.</Street>
+      <Date>28-06-2008</Date>
+    </City>
+    <City>
+      <CityName>Columbia</CityName>
+      <Street>Corona Del Mar</Street>
+      <Date>24-12-2007</Date>
+    </City>
+    <City>
+      <CityName>Columbia</CityName>
+      <Street>Newbury Road</Street>
+      <Date>30-10-2007</Date>
+    </City>
+    <City>
+      <CityName>Columbus</CityName>
+      <Street>Timberlane Drive</Street>
+      <Date>26-07-2008</Date>
+    </City>
+    <City>
+      <CityName>Frankfort</CityName>
+      <Street>Burnett Road</Street>
+      <Date>26-02-2007</Date>
+    </City>
+    <City>
+      <CityName>Jefferson City</CityName>
+      <Street>East Fry Blvd.</Street>
+      <Date>07-03-2007</Date>
+    </City>
+    <City>
+      <CityName>Juneau</CityName>
+      <Street>Castillo Drive</Street>
+      <Date>22-08-2008</Date>
+    </City>
+    <City>
+      <CityName>Lincoln</CityName>
+      <Street>San Luis Obispo North</Street>
+      <Date>10-04-2008</Date>
+    </City>
+    <City>
+      <CityName>Madison</CityName>
+      <Street>Lake Tahoe Blvd.</Street>
+      <Date>31-10-2008</Date>
+    </City>
+    <City>
+      <CityName>Madison</CityName>
+      <Street>San Ysidro Blvd</Street>
+      <Date>13-02-2008</Date>
+    </City>
+    <City>
+      <CityName>Oklahoma City</CityName>
+      <Street>Bayshore Freeway</Street>
+      <Date>10-03-2008</Date>
+    </City>
+    <City>
+      <CityName>Pierre</CityName>
+      <Street>Newbury Road</Street>
+      <Date>01-09-2008</Date>
+    </City>
+    <City>
+      <CityName>Providence</CityName>
+      <Street>Greenwood Road</Street>
+      <Date>19-03-2008</Date>
+    </City>
+    <City>
+      <CityName>Raleigh</CityName>
+      <Street>Camelback Rd</Street>
+      <Date>21-10-2008</Date>
+    </City>
+    <City>
+      <CityName>Sacramento</CityName>
+      <Street>Santa Monica Road</Street>
+      <Date>16-02-2007</Date>
+    </City>
+    <City>
+      <CityName>Springfield</CityName>
+      <Street>Timberlane Drive</Street>
+      <Date>05-04-2008</Date>
+    </City>
+    <City>
+      <CityName>Topeka</CityName>
+      <Street>Pacific Hwy S</Street>
+      <Date>09-07-2007</Date>
+    </City>
+    <City>
+      <CityName>Trenton</CityName>
+      <Street>Tully Road East</Street>
+      <Date>08-09-2007</Date>
+    </City>
+  </State>
+  <State>
+    <StateName>Connecticut</StateName>
+    <City>
+      <CityName>Annapolis</CityName>
+      <Street>Via Real</Street>
+      <Date>22-07-2007</Date>
+    </City>
+    <City>
+      <CityName>Annapolis</CityName>
+      <Street>North Preisker Lane</Street>
+      <Date>28-06-2007</Date>
+    </City>
+    <City>
+      <CityName>Atlanta</CityName>
+      <Street>Tully Road East</Street>
+      <Date>16-02-2007</Date>
+    </City>
+    <City>
+      <CityName>Atlanta</CityName>
+      <Street>South Highway</Street>
+      <Date>19-08-2007</Date>
+    </City>
+    <City>
+      <CityName>Columbus</CityName>
+      <Street>Jean de la Fontaine</Street>
+      <Date>26-07-2007</Date>
+    </City>
+    <City>
+      <CityName>Des Moines</CityName>
+      <Street>Grandview Drive</Street>
+      <Date>23-02-2007</Date>
+    </City>
+    <City>
+      <CityName>Dover</CityName>
+      <Street>Westside Freeway</Street>
+      <Date>04-04-2008</Date>
+    </City>
+    <City>
+      <CityName>Little Rock</CityName>
+      <Street>N Kentwood</Street>
+      <Date>26-12-2008</Date>
+    </City>
+    <City>
+      <CityName>Nashville</CityName>
+      <Street>Cleveland Ave.</Street>
+      <Date>18-06-2008</Date>
+    </City>
+    <City>
+      <CityName>Nashville</CityName>
+      <Street>Westside Freeway</Street>
+      <Date>26-07-2008</Date>
+    </City>
+    <City>
+      <CityName>Olympia</CityName>
+      <Street>Cerrillos Road</Street>
+      <Date>15-03-2007</Date>
+    </City>
+    <City>
+      <CityName>Olympia</CityName>
+      <Street>Lake Tahoe Blvd.</Street>
+      <Date>20-02-2007</Date>
+    </City>
+    <City>
+      <CityName>Phoenix</CityName>
+      <Street>Lake Tahoe Blvd.</Street>
+      <Date>05-03-2007</Date>
+    </City>
+    <City>
+      <CityName>Pierre</CityName>
+      <Street>San Ysidro Blvd</Street>
+      <Date>18-02-2008</Date>
+    </City>
+    <City>
+      <CityName>Pierre</CityName>
+      <Street>Apalachee Parkway</Street>
+      <Date>21-11-2008</Date>
+    </City>
+    <City>
+      <CityName>Raleigh</CityName>
+      <Street>Katella Avenue</Street>
+      <Date>22-03-2007</Date>
+    </City>
+    <City>
+      <CityName>Salt Lake City</CityName>
+      <Street>Cerrillos Road</Street>
+      <Date>23-10-2007</Date>
+    </City>
+    <City>
+      <CityName>Springfield</CityName>
+      <Street>Fontaine Road</Street>
+      <Date>16-03-2008</Date>
+    </City>
+    <City>
+      <CityName>Topeka</CityName>
+      <Street>N Harrison St</Street>
+      <Date>23-06-2008</Date>
+    </City>
+  </State>
+  <State>
+    <StateName>Delaware</StateName>
+    <City>
+      <CityName>Atlanta</CityName>
+      <Street>Carpinteria North</Street>
+      <Date>13-05-2008</Date>
+    </City>
+    <City>
+      <CityName>Augusta</CityName>
+      <Street>San Diego Freeway</Street>
+      <Date>19-06-2008</Date>
+    </City>
+    <City>
+      <CityName>Baton Rouge</CityName>
+      <Street>Corona Del Mar</Street>
+      <Date>12-07-2007</Date>
+    </City>
+    <City>
+      <CityName>Charleston</CityName>
+      <Street>Santa Rosa North</Street>
+      <Date>13-04-2008</Date>
+    </City>
+    <City>
+      <CityName>Columbus</CityName>
+      <Street>North Ventu Park Road</Street>
+      <Date>14-10-2007</Date>
+    </City>
+    <City>
+      <CityName>Frankfort</CityName>
+      <Street>French Camp Turnpike Road</Street>
+      <Date>21-05-2007</Date>
+    </City>
+    <City>
+      <CityName>Frankfort</CityName>
+      <Street>Bailard Avenue</Street>
+      <Date>29-04-2007</Date>
+    </City>
+    <City>
+      <CityName>Hartford</CityName>
+      <Street>Apalachee Parkway</Street>
+      <Date>30-11-2007</Date>
+    </City>
+    <City>
+      <CityName>Honolulu</CityName>
+      <Street>Santa Rosa South</Street>
+      <Date>10-06-2007</Date>
+    </City>
+    <City>
+      <CityName>Indianapolis</CityName>
+      <Street>Grandview Drive</Street>
+      <Date>08-09-2007</Date>
+    </City>
+    <City>
+      <CityName>Jackson</CityName>
+      <Street>San Marcos</Street>
+      <Date>19-03-2007</Date>
+    </City>
+    <City>
+      <CityName>Lincoln</CityName>
+      <Street>S Rustle St</Street>
+      <Date>26-04-2008</Date>
+    </City>
+    <City>
+      <CityName>Little Rock</CityName>
+      <Street>Monroe Street</Street>
+      <Date>19-10-2008</Date>
+    </City>
+    <City>
+      <CityName>Little Rock</CityName>
+      <Street>Lake Tahoe Blvd.</Street>
+      <Date>26-06-2007</Date>
+    </City>
+    <City>
+      <CityName>Montpelier</CityName>
+      <Street>Bailard Avenue</Street>
+      <Date>15-01-2008</Date>
+    </City>
+    <City>
+      <CityName>Oklahoma City</CityName>
+      <Street>San Marcos</Street>
+      <Date>22-12-2007</Date>
+    </City>
+    <City>
+      <CityName>Providence</CityName>
+      <Street>South Highway</Street>
+      <Date>23-12-2007</Date>
+    </City>
+    <City>
+      <CityName>Sacramento</CityName>
+      <Street>Newbury Road</Street>
+      <Date>13-03-2008</Date>
+    </City>
+    <City>
+      <CityName>Sacramento</CityName>
+      <Street>North Atherton Street</Street>
+      <Date>30-11-2008</Date>
+    </City>
+    <City>
+      <CityName>Salt Lake City</CityName>
+      <Street>Via Real</Street>
+      <Date>02-03-2008</Date>
+    </City>
+    <City>
+      <CityName>Santa Fe</CityName>
+      <Street>Lake Tahoe Blvd.</Street>
+      <Date>08-06-2007</Date>
+    </City>
+    <City>
+      <CityName>Springfield</CityName>
+      <Street>San Simeon</Street>
+      <Date>08-03-2008</Date>
+    </City>
+    <City>
+      <CityName>Topeka</CityName>
+      <Street>Burnett Road</Street>
+      <Date>11-12-2008</Date>
+    </City>
+  </State>
+  <State>
+    <StateName>Florida</StateName>
+    <City>
+      <CityName>Annapolis</CityName>
+      <Street>Lindbergh Blvd</Street>
+      <Date>22-03-2008</Date>
+    </City>
+    <City>
+      <CityName>Atlanta</CityName>
+      <Street>Carpinteria South</Street>
+      <Date>18-03-2007</Date>
+    </City>
+    <City>
+      <CityName>Bismarck</CityName>
+      <Street>North Atherton Street</Street>
+      <Date>14-10-2007</Date>
+    </City>
+    <City>
+      <CityName>Denver</CityName>
+      <Street>Westside Freeway</Street>
+      <Date>30-12-2007</Date>
+    </City>
+    <City>
+      <CityName>Frankfort</CityName>
+      <Street>Lindbergh Blvd</Street>
+      <Date>22-09-2008</Date>
+    </City>
+    <City>
+      <CityName>Hartford</CityName>
+      <Street>East 1st Street</Street>
+      <Date>24-09-2008</Date>
+    </City>
+    <City>
+      <CityName>Hartford</CityName>
+      <Street>Castillo Drive</Street>
+      <Date>16-01-2008</Date>
+    </City>
+    <City>
+      <CityName>Honolulu</CityName>
+      <Street>Richmond Hill</Street>
+      <Date>23-08-2008</Date>
+    </City>
+    <City>
+      <CityName>Little Rock</CityName>
+      <Street>W. Russell St.</Street>
+      <Date>12-04-2008</Date>
+    </City>
+    <City>
+      <CityName>Madison</CityName>
+      <Street>Carpinteria North</Street>
+      <Date>09-11-2008</Date>
+    </City>
+    <City>
+      <CityName>Nashville</CityName>
+      <Street>Harbor Dr</Street>
+      <Date>13-06-2007</Date>
+    </City>
+    <City>
+      <CityName>Phoenix</CityName>
+      <Street>Via Real</Street>
+      <Date>27-08-2008</Date>
+    </City>
+    <City>
+      <CityName>Providence</CityName>
+      <Street>Harry S Truman Blvd</Street>
+      <Date>15-05-2008</Date>
+    </City>
+    <City>
+      <CityName>Raleigh</CityName>
+      <Street>Castillo Drive</Street>
+      <Date>25-01-2007</Date>
+    </City>
+    <City>
+      <CityName>Raleigh</CityName>
+      <Street>Katella Avenue</Street>
+      <Date>16-07-2007</Date>
+    </City>
+  </State>
+  <State>
+    <StateName>Georgia</StateName>
+    <City>
+      <CityName>Annapolis</CityName>
+      <Street>Carpinteria Avenue</Street>
+      <Date>27-10-2007</Date>
+    </City>
+    <City>
+      <CityName>Annapolis</CityName>
+      <Street>Carpinteria Avenue</Street>
+      <Date>20-09-2007</Date>
+    </City>
+    <City>
+      <CityName>Baton Rouge</CityName>
+      <Street>East Fry Blvd.</Street>
+      <Date>18-03-2008</Date>
+    </City>
+    <City>
+      <CityName>Baton Rouge</CityName>
+      <Street>N Kentwood</Street>
+      <Date>18-06-2007</Date>
+    </City>
+    <City>
+      <CityName>Carson City</CityName>
+      <Street>Newbury Road</Street>
+      <Date>15-10-2007</Date>
+    </City>
+    <City>
+      <CityName>Columbus</CityName>
+      <Street>South Roosevelt Drive</Street>
+      <Date>06-02-2007</Date>
+    </City>
+    <City>
+      <CityName>Concord</CityName>
+      <Street>East Main Street</Street>
+      <Date>25-09-2007</Date>
+    </City>
+    <City>
+      <CityName>Dover</CityName>
+      <Street>Monroe Street</Street>
+      <Date>22-03-2008</Date>
+    </City>
+    <City>
+      <CityName>Dover</CityName>
+      <Street>Milpas Street</Street>
+      <Date>03-05-2008</Date>
+    </City>
+    <City>
+      <CityName>Frankfort</CityName>
+      <Street>Lindbergh Blvd</Street>
+      <Date>30-10-2007</Date>
+    </City>
+    <City>
+      <CityName>Harrisburg</CityName>
+      <Street>San Luis Obispo North</Street>
+      <Date>10-04-2007</Date>
+    </City>
+    <City>
+      <CityName>Hartford</CityName>
+      <Street>Apalachee Parkway</Street>
+      <Date>17-11-2008</Date>
+    </City>
+    <City>
+      <CityName>Oklahoma City</CityName>
+      <Street>Padre Boulevard</Street>
+      <Date>07-11-2007</Date>
+    </City>
+    <City>
+      <CityName>Phoenix</CityName>
+      <Street>Carpinteria South</Street>
+      <Date>07-12-2008</Date>
+    </City>
+    <City>
+      <CityName>Raleigh</CityName>
+      <Street>Corona Del Mar</Street>
+      <Date>01-11-2007</Date>
+    </City>
+    <City>
+      <CityName>Sacramento</CityName>
+      <Street>San Marcos</Street>
+      <Date>30-06-2007</Date>
+    </City>
+    <City>
+      <CityName>Salt Lake City</CityName>
+      <Street>Moreno Drive</Street>
+      <Date>02-11-2007</Date>
+    </City>
+    <City>
+      <CityName>Tallahassee</CityName>
+      <Street>Greenwood Road</Street>
+      <Date>29-04-2007</Date>
+    </City>
+    <City>
+      <CityName>Trenton</CityName>
+      <Street>Jones Road</Street>
+      <Date>08-11-2008</Date>
+    </City>
+    <City>
+      <CityName>Trenton</CityName>
+      <Street>Fairview Avenue</Street>
+      <Date>19-08-2008</Date>
+    </City>
+  </State>
+  <State>
+    <StateName>Hawaii</StateName>
+    <City>
+      <CityName>Atlanta</CityName>
+      <Street>Cabrillo Highway</Street>
+      <Date>11-02-2007</Date>
+    </City>
+    <City>
+      <CityName>Augusta</CityName>
+      <Street>Lawrenceville Suwanee</Street>
+      <Date>14-06-2007</Date>
+    </City>
+    <City>
+      <CityName>Baton Rouge</CityName>
+      <Street>North Erringer Road</Street>
+      <Date>03-12-2007</Date>
+    </City>
+    <City>
+      <CityName>Carson City</CityName>
+      <Street>South Highway</Street>
+      <Date>09-04-2007</Date>
+    </City>
+    <City>
+      <CityName>Concord</CityName>
+      <Street>Grandview Drive</Street>
+      <Date>08-07-2007</Date>
+    </City>
+    <City>
+      <CityName>Jefferson City</CityName>
+      <Street>Burnett Road</Street>
+      <Date>05-10-2008</Date>
+    </City>
+    <City>
+      <CityName>Jefferson City</CityName>
+      <Street>Cleveland Ave.</Street>
+      <Date>03-01-2008</Date>
+    </City>
+    <City>
+      <CityName>Nashville</CityName>
+      <Street>San Marcos</Street>
+      <Date>23-01-2008</Date>
+    </City>
+    <City>
+      <CityName>Oklahoma City</CityName>
+      <Street>Bailard Avenue</Street>
+      <Date>18-04-2008</Date>
+    </City>
+    <City>
+      <CityName>Phoenix</CityName>
+      <Street>Newbury Road</Street>
+      <Date>24-07-2008</Date>
+    </City>
+    <City>
+      <CityName>Pierre</CityName>
+      <Street>Santa Monica Road</Street>
+      <Date>16-03-2007</Date>
+    </City>
+    <City>
+      <CityName>Sacramento</CityName>
+      <Street>Redwood Highway</Street>
+      <Date>15-12-2007</Date>
+    </City>
+    <City>
+      <CityName>Santa Fe</CityName>
+      <Street>Lawrenceville Suwanee</Street>
+      <Date>06-08-2007</Date>
+    </City>
+  </State>
+  <State>
+    <StateName>Idaho</StateName>
+    <City>
+      <CityName>Augusta</CityName>
+      <Street>Woodson Rd.</Street>
+      <Date>12-08-2008</Date>
+    </City>
+    <City>
+      <CityName>Austin</CityName>
+      <Street>Santa Rosa South</Street>
+      <Date>10-01-2008</Date>
+    </City>
+    <City>
+      <CityName>Boise</CityName>
+      <Street>South Highway</Street>
+      <Date>02-07-2007</Date>
+    </City>
+    <City>
+      <CityName>Columbia</CityName>
+      <Street>Lindbergh Blvd</Street>
+      <Date>25-09-2008</Date>
+    </City>
+    <City>
+      <CityName>Columbus</CityName>
+      <Street>Carpinteria North</Street>
+      <Date>03-01-2007</Date>
+    </City>
+    <City>
+      <CityName>Denver</CityName>
+      <Street>Moreno Drive</Street>
+      <Date>25-07-2007</Date>
+    </City>
+    <City>
+      <CityName>Denver</CityName>
+      <Street>Carpinteria North</Street>
+      <Date>11-07-2007</Date>
+    </City>
+    <City>
+      <CityName>Des Moines</CityName>
+      <Street>Santa Ana Freeway</Street>
+      <Date>17-10-2007</Date>
+    </City>
+    <City>
+      <CityName>Dover</CityName>
+      <Street>Tanger Blvd</Street>
+      <Date>30-11-2007</Date>
+    </City>
+    <City>
+      <CityName>Jackson</CityName>
+      <Street>Katella Avenue</Street>
+      <Date>15-07-2007</Date>
+    </City>
+    <City>
+      <CityName>Jackson</CityName>
+      <Street>Bailard Avenue</Street>
+      <Date>08-11-2007</Date>
+    </City>
+    <City>
+      <CityName>Providence</CityName>
+      <Street>Bailard Avenue</Street>
+      <Date>09-10-2007</Date>
+    </City>
+    <City>
+      <CityName>Providence</CityName>
+      <Street>Greenwood Road</Street>
+      <Date>10-02-2007</Date>
+    </City>
+    <City>
+      <CityName>Providence</CityName>
+      <Street>Lawrenceville Suwanee</Street>
+      <Date>03-10-2007</Date>
+    </City>
+    <City>
+      <CityName>Raleigh</CityName>
+      <Street>Redwood Highway</Street>
+      <Date>05-04-2008</Date>
+    </City>
+    <City>
+      <CityName>Saint Paul</CityName>
+      <Street>French Camp Turnpike Road</Street>
+      <Date>31-08-2008</Date>
+    </City>
+    <City>
+      <CityName>Tallahassee</CityName>
+      <Street>Lawrenceville Suwanee</Street>
+      <Date>25-03-2007</Date>
+    </City>
+  </State>
+  <State>
+    <StateName>Illinois</StateName>
+    <City>
+      <CityName>Augusta</CityName>
+      <Street>Cleveland Ave.</Street>
+      <Date>07-02-2007</Date>
+    </City>
+    <City>
+      <CityName>Austin</CityName>
+      <Street>S Rustle St</Street>
+      <Date>05-12-2007</Date>
+    </City>
+    <City>
+      <CityName>Baton Rouge</CityName>
+      <Street>East Main Street</Street>
+      <Date>13-09-2008</Date>
+    </City>
+    <City>
+      <CityName>Boise</CityName>
+      <Street>East 1st Street</Street>
+      <Date>31-10-2007</Date>
+    </City>
+    <City>
+      <CityName>Boise</CityName>
+      <Street>Tanger Blvd</Street>
+      <Date>03-02-2008</Date>
+    </City>
+    <City>
+      <CityName>Columbia</CityName>
+      <Street>North Preisker Lane</Street>
+      <Date>16-03-2007</Date>
+    </City>
+    <City>
+      <CityName>Columbia</CityName>
+      <Street>Fairview Avenue</Street>
+      <Date>15-11-2007</Date>
+    </City>
+    <City>
+      <CityName>Concord</CityName>
+      <Street>Bailard Avenue</Street>
+      <Date>06-09-2008</Date>
+    </City>
+    <City>
+      <CityName>Harrisburg</CityName>
+      <Street>Cleveland Ave.</Street>
+      <Date>16-04-2007</Date>
+    </City>
+    <City>
+      <CityName>Helena</CityName>
+      <Street>Lindbergh Blvd</Street>
+      <Date>03-09-2008</Date>
+    </City>
+    <City>
+      <CityName>Indianapolis</CityName>
+      <Street>Greenwood Road</Street>
+      <Date>10-08-2008</Date>
+    </City>
+    <City>
+      <CityName>Jackson</CityName>
+      <Street>Castillo Drive</Street>
+      <Date>24-11-2007</Date>
+    </City>
+    <City>
+      <CityName>Jackson</CityName>
+      <Street>San Diego Freeway</Street>
+      <Date>30-09-2007</Date>
+    </City>
+    <City>
+      <CityName>Nashville</CityName>
+      <Street>Fontaine Road</Street>
+      <Date>16-01-2007</Date>
+    </City>
+    <City>
+      <CityName>Nashville</CityName>
+      <Street>Cabrillo Highway</Street>
+      <Date>04-05-2008</Date>
+    </City>
+    <City>
+      <CityName>Oklahoma City</CityName>
+      <Street>East Fry Blvd.</Street>
+      <Date>02-05-2007</Date>
+    </City>
+    <City>
+      <CityName>Richmond</CityName>
+      <Street>Santa Monica Road</Street>
+      <Date>25-12-2007</Date>
+    </City>
+    <City>
+      <CityName>Richmond</CityName>
+      <Street>North Broadway Street</Street>
+      <Date>24-08-2007</Date>
+    </City>
+    <City>
+      <CityName>Springfield</CityName>
+      <Street>North Broadway Street</Street>
+      <Date>27-07-2008</Date>
+    </City>
+  </State>
+  <State>
+    <StateName>Indiana</StateName>
+    <City>
+      <CityName>Albany</CityName>
+      <Street>Timberlane Drive</Street>
+      <Date>22-11-2007</Date>
+    </City>
+    <City>
+      <CityName>Annapolis</CityName>
+      <Street>W. Russell St.</Street>
+      <Date>08-05-2007</Date>
+    </City>
+    <City>
+      <CityName>Augusta</CityName>
+      <Street>Corona Del Mar</Street>
+      <Date>15-01-2008</Date>
+    </City>
+    <City>
+      <CityName>Baton Rouge</CityName>
+      <Street>Cerrillos Road</Street>
+      <Date>16-01-2008</Date>
+    </City>
+    <City>
+      <CityName>Baton Rouge</CityName>
+      <Street>Pacific Hwy S</Street>
+      <Date>24-03-2008</Date>
+    </City>
+    <City>
+      <CityName>Bismarck</CityName>
+      <Street>Grandview Drive</Street>
+      <Date>22-12-2007</Date>
+    </City>
+    <City>
+      <CityName>Boston</CityName>
+      <Street>San Ysidro Blvd</Street>
+      <Date>27-10-2008</Date>
+    </City>
+    <City>
+      <CityName>Dover</CityName>
+      <Street>Santa Ana Freeway</Street>
+      <Date>30-01-2008</Date>
+    </City>
+    <City>
+      <CityName>Hartford</CityName>
+      <Street>Fontaine Road</Street>
+      <Date>16-12-2008</Date>
+    </City>
+    <City>
+      <CityName>Hartford</CityName>
+      <Street>Steele Lane</Street>
+      <Date>10-10-2007</Date>
+    </City>
+    <City>
+      <CityName>Jackson</CityName>
+      <Street>East 1st Street</Street>
+      <Date>28-03-2007</Date>
+    </City>
+    <City>
+      <CityName>Jefferson City</CityName>
+      <Street>East Main Street</Street>
+      <Date>18-06-2007</Date>
+    </City>
+    <City>
+      <CityName>Lansing</CityName>
+      <Street>W. Russell St.</Street>
+      <Date>28-08-2008</Date>
+    </City>
+    <City>
+      <CityName>Madison</CityName>
+      <Street>Apalachee Parkway</Street>
+      <Date>17-05-2008</Date>
+    </City>
+    <City>
+      <CityName>Phoenix</CityName>
+      <Street>East 1st Street</Street>
+      <Date>28-08-2007</Date>
+    </City>
+    <City>
+      <CityName>Pierre</CityName>
+      <Street>South Highway</Street>
+      <Date>12-06-2008</Date>
+    </City>
+    <City>
+      <CityName>Saint Paul</CityName>
+      <Street>Santa Rosa North</Street>
+      <Date>17-03-2008</Date>
+    </City>
+    <City>
+      <CityName>Saint Paul</CityName>
+      <Street>Carpinteria South</Street>
+      <Date>30-08-2008</Date>
+    </City>
+    <City>
+      <CityName>Salem</CityName>
+      <Street>Lindbergh Blvd</Street>
+      <Date>25-04-2008</Date>
+    </City>
+    <City>
+      <CityName>Tallahassee</CityName>
+      <Street>San Luis Obispo North</Street>
+      <Date>13-12-2008</Date>
+    </City>
+    <City>
+      <CityName>Trenton</CityName>
+      <Street>S Rustle St</Street>
+      <Date>05-10-2008</Date>
+    </City>
+  </State>
+  <State>
+    <StateName>Iowa</StateName>
+    <City>
+      <CityName>Augusta</CityName>
+      <Street>Santa Rosa North</Street>
+      <Date>09-07-2007</Date>
+    </City>
+    <City>
+      <CityName>Baton Rouge</CityName>
+      <Street>S Rustle St</Street>
+      <Date>29-11-2008</Date>
+    </City>
+    <City>
+      <CityName>Boston</CityName>
+      <Street>Cabrillo Highway</Street>
+      <Date>02-02-2008</Date>
+    </City>
+    <City>
+      <CityName>Cheyenne</CityName>
+      <Street>Calle Real</Street>
+      <Date>22-08-2008</Date>
+    </City>
+    <City>
+      <CityName>Cheyenne</CityName>
+      <Street>Cerrillos Road</Street>
+      <Date>10-10-2007</Date>
+    </City>
+    <City>
+      <CityName>Frankfort</CityName>
+      <Street>Camelback Rd</Street>
+      <Date>16-06-2007</Date>
+    </City>
+    <City>
+      <CityName>Harrisburg</CityName>
+      <Street>El Camino Real</Street>
+      <Date>05-12-2007</Date>
+    </City>
+    <City>
+      <CityName>Indianapolis</CityName>
+      <Street>French Camp Turnpike Road</Street>
+      <Date>01-03-2007</Date>
+    </City>
+    <City>
+      <CityName>Jackson</CityName>
+      <Street>North Broadway Street</Street>
+      <Date>31-05-2007</Date>
+    </City>
+    <City>
+      <CityName>Little Rock</CityName>
+      <Street>Lindbergh Blvd</Street>
+      <Date>30-10-2007</Date>
+    </City>
+    <City>
+      <CityName>Little Rock</CityName>
+      <Street>North Broadway Street</Street>
+      <Date>18-05-2008</Date>
+    </City>
+    <City>
+      <CityName>Oklahoma City</CityName>
+      <Street>San Luis Obispo North</Street>
+      <Date>14-01-2007</Date>
+    </City>
+    <City>
+      <CityName>Phoenix</CityName>
+      <Street>San Luis Obispo North</Street>
+      <Date>12-12-2008</Date>
+    </City>
+    <City>
+      <CityName>Phoenix</CityName>
+      <Street>Harry S Truman Blvd</Street>
+      <Date>22-05-2008</Date>
+    </City>
+    <City>
+      <CityName>Saint Paul</CityName>
+      <Street>Timberlane Drive</Street>
+      <Date>03-08-2007</Date>
+    </City>
+    <City>
+      <CityName>Santa Fe</CityName>
+      <Street>Apalachee Parkway</Street>
+      <Date>13-09-2007</Date>
+    </City>
+    <City>
+      <CityName>Springfield</CityName>
+      <Street>San Marcos</Street>
+      <Date>30-04-2008</Date>
+    </City>
+    <City>
+      <CityName>Springfield</CityName>
+      <Street>Katella Avenue</Street>
+      <Date>16-06-2007</Date>
+    </City>
+    <City>
+      <CityName>Trenton</CityName>
+      <Street>Milpas Street</Street>
+      <Date>09-03-2008</Date>
+    </City>
+  </State>
+  <State>
+    <StateName>Kansas</StateName>
+    <City>
+      <CityName>Albany</CityName>
+      <Street>Carpinteria Avenue</Street>
+      <Date>05-02-2008</Date>
+    </City>
+    <City>
+      <CityName>Annapolis</CityName>
+      <Street>Corona Del Mar</Street>
+      <Date>21-03-2007</Date>
+    </City>
+    <City>
+      <CityName>Boise</CityName>
+      <Street>Erringer Road</Street>
+      <Date>24-01-2007</Date>
+    </City>
+    <City>
+      <CityName>Cheyenne</CityName>
+      <Street>East 1st Street</Street>
+      <Date>04-04-2008</Date>
+    </City>
+    <City>
+      <CityName>Frankfort</CityName>
+      <Street>East Calle Primera</Street>
+      <Date>26-02-2007</Date>
+    </City>
+    <City>
+      <CityName>Frankfort</CityName>
+      <Street>Lake Tahoe Blvd.</Street>
+      <Date>11-06-2008</Date>
+    </City>
+    <City>
+      <CityName>Frankfort</CityName>
+      <Street>W. Russell St.</Street>
+      <Date>08-09-2007</Date>
+    </City>
+    <City>
+      <CityName>Harrisburg</CityName>
+      <Street>Monroe Street</Street>
+      <Date>10-01-2008</Date>
+    </City>
+    <City>
+      <CityName>Hartford</CityName>
+      <Street>N Kentwood</Street>
+      <Date>11-09-2007</Date>
+    </City>
+    <City>
+      <CityName>Helena</CityName>
+      <Street>Bowles Avenue</Street>
+      <Date>15-06-2007</Date>
+    </City>
+    <City>
+      <CityName>Jefferson City</CityName>
+      <Street>Fontaine Road</Street>
+      <Date>19-07-2007</Date>
+    </City>
+    <City>
+      <CityName>Montpelier</CityName>
+      <Street>East Fry Blvd.</Street>
+      <Date>07-12-2008</Date>
+    </City>
+    <City>
+      <CityName>Oklahoma City</CityName>
+      <Street>Bailard Avenue</Street>
+      <Date>22-12-2008</Date>
+    </City>
+    <City>
+      <CityName>Olympia</CityName>
+      <Street>Hutchinson Rd</Street>
+      <Date>18-09-2007</Date>
+    </City>
+    <City>
+      <CityName>Pierre</CityName>
+      <Street>Fontaine Road</Street>
+      <Date>25-01-2008</Date>
+    </City>
+    <City>
+      <CityName>Santa Fe</CityName>
+      <Street>Harbor Dr</Street>
+      <Date>05-02-2008</Date>
+    </City>
+    <City>
+      <CityName>Santa Fe</CityName>
+      <Street>East Main Street</Street>
+      <Date>24-02-2007</Date>
+    </City>
+    <City>
+      <CityName>Springfield</CityName>
+      <Street>Castillo Drive</Street>
+      <Date>21-01-2007</Date>
+    </City>
+    <City>
+      <CityName>Topeka</CityName>
+      <Street>W. Russell St.</Street>
+      <Date>19-07-2008</Date>
+    </City>
+    <City>
+      <CityName>Trenton</CityName>
+      <Street>Padre Boulevard</Street>
+      <Date>30-03-2008</Date>
+    </City>
+    <City>
+      <CityName>Trenton</CityName>
+      <Street>East 1st Street</Street>
+      <Date>02-03-2008</Date>
+    </City>
+  </State>
+  <State>
+    <StateName>Kentucky</StateName>
+    <City>
+      <CityName>Annapolis</CityName>
+      <Street>San Ysidro Blvd</Street>
+      <Date>08-11-2008</Date>
+    </City>
+    <City>
+      <CityName>Columbus</CityName>
+      <Street>Corona Del Mar</Street>
+      <Date>01-08-2008</Date>
+    </City>
+    <City>
+      <CityName>Juneau</CityName>
+      <Street>Santa Monica Road</Street>
+      <Date>30-03-2007</Date>
+    </City>
+    <City>
+      <CityName>Lansing</CityName>
+      <Street>Santa Ana Freeway</Street>
+      <Date>28-01-2008</Date>
+    </City>
+    <City>
+      <CityName>Little Rock</CityName>
+      <Street>E Fowler Avenue</Street>
+      <Date>07-01-2008</Date>
+    </City>
+    <City>
+      <CityName>Little Rock</CityName>
+      <Street>San Diego Freeway</Street>
+      <Date>19-01-2008</Date>
+    </City>
+    <City>
+      <CityName>Montgomery</CityName>
+      <Street>Carpinteria South</Street>
+      <Date>22-11-2007</Date>
+    </City>
+    <City>
+      <CityName>Oklahoma City</CityName>
+      <Street>Moreno Drive</Street>
+      <Date>15-06-2007</Date>
+    </City>
+    <City>
+      <CityName>Phoenix</CityName>
+      <Street>Corona Del Mar</Street>
+      <Date>14-06-2007</Date>
+    </City>
+    <City>
+      <CityName>Raleigh</CityName>
+      <Street>Fontaine Road</Street>
+      <Date>21-09-2007</Date>
+    </City>
+    <City>
+      <CityName>Santa Fe</CityName>
+      <Street>Milpas Street</Street>
+      <Date>18-04-2007</Date>
+    </City>
+    <City>
+      <CityName>Trenton</CityName>
+      <Street>French Camp Turnpike Road</Street>
+      <Date>11-08-2007</Date>
+    </City>
+    <City>
+      <CityName>Trenton</CityName>
+      <Street>Carpinteria North</Street>
+      <Date>20-11-2007</Date>
+    </City>
+  </State>
+  <State>
+    <StateName>Louisiana</StateName>
+    <City>
+      <CityName>Albany</CityName>
+      <Street>Bowles Avenue</Street>
+      <Date>21-07-2007</Date>
+    </City>
+    <City>
+      <CityName>Annapolis</CityName>
+      <Street>Greenwood Road</Street>
+      <Date>28-11-2008</Date>
+    </City>
+    <City>
+      <CityName>Annapolis</CityName>
+      <Street>S Rustle St</Street>
+      <Date>15-02-2008</Date>
+    </City>
+    <City>
+      <CityName>Boise</CityName>
+      <Street>Bayshore Freeway</Street>
+      <Date>10-12-2007</Date>
+    </City>
+    <City>
+      <CityName>Columbia</CityName>
+      <Street>Richmond Hill</Street>
+      <Date>02-06-2007</Date>
+    </City>
+    <City>
+      <CityName>Harrisburg</CityName>
+      <Street>North Ventu Park Road</Street>
+      <Date>05-12-2007</Date>
+    </City>
+    <City>
+      <CityName>Hartford</CityName>
+      <Street>Harbor Dr</Street>
+      <Date>08-12-2008</Date>
+    </City>
+    <City>
+      <CityName>Helena</CityName>
+      <Street>Tully Road East</Street>
+      <Date>11-12-2008</Date>
+    </City>
+    <City>
+      <CityName>Honolulu</CityName>
+      <Street>Castillo Drive</Street>
+      <Date>05-11-2008</Date>
+    </City>
+    <City>
+      <CityName>Jackson</CityName>
+      <Street>Santa Rosa North</Street>
+      <Date>13-06-2008</Date>
+    </City>
+    <City>
+      <CityName>Jefferson City</CityName>
+      <Street>Carpinteria North</Street>
+      <Date>05-08-2007</Date>
+    </City>
+    <City>
+      <CityName>Lincoln</CityName>
+      <Street>North Ventu Park Road</Street>
+      <Date>22-08-2008</Date>
+    </City>
+    <City>
+      <CityName>Madison</CityName>
+      <Street>Fontaine Road</Street>
+      <Date>26-12-2008</Date>
+    </City>
+    <City>
+      <CityName>Montgomery</CityName>
+      <Street>Richmond Hill</Street>
+      <Date>11-04-2008</Date>
+    </City>
+    <City>
+      <CityName>Oklahoma City</CityName>
+      <Street>Carpinteria Avenue</Street>
+      <Date>20-08-2008</Date>
+    </City>
+    <City>
+      <CityName>Olympia</CityName>
+      <Street>N Harrison St</Street>
+      <Date>26-04-2007</Date>
+    </City>
+    <City>
+      <CityName>Phoenix</CityName>
+      <Street>Harbor Dr</Street>
+      <Date>17-07-2008</Date>
+    </City>
+    <City>
+      <CityName>Providence</CityName>
+      <Street>Redwood Highway</Street>
+      <Date>13-01-2007</Date>
+    </City>
+    <City>
+      <CityName>Richmond</CityName>
+      <Street>N Kentwood</Street>
+      <Date>25-06-2008</Date>
+    </City>
+    <City>
+      <CityName>Richmond</CityName>
+      <Street>Steele Lane</Street>
+      <Date>01-10-2008</Date>
+    </City>
+    <City>
+      <CityName>Salem</CityName>
+      <Street>Steele Lane</Street>
+      <Date>03-06-2007</Date>
+    </City>
+    <City>
+      <CityName>Salt Lake City</CityName>
+      <Street>Erringer Road</Street>
+      <Date>09-09-2007</Date>
+    </City>
+    <City>
+      <CityName>Springfield</CityName>
+      <Street>Camelback Rd</Street>
+      <Date>21-12-2007</Date>
+    </City>
+    <City>
+      <CityName>Tallahassee</CityName>
+      <Street>San Simeon</Street>
+      <Date>14-05-2007</Date>
+    </City>
+    <City>
+      <CityName>Tallahassee</CityName>
+      <Street>Tanger Blvd</Street>
+      <Date>17-09-2007</Date>
+    </City>
+    <City>
+      <CityName>Trenton</CityName>
+      <Street>Santa Rosa North</Street>
+      <Date>18-03-2007</Date>
+    </City>
+    <City>
+      <CityName>Trenton</CityName>
+      <Street>Padre Boulevard</Street>
+      <Date>11-05-2007</Date>
+    </City>
+  </State>
+  <State>
+    <StateName>Maine</StateName>
+    <City>
+      <CityName>Atlanta</CityName>
+      <Street>Apalachee Parkway</Street>
+      <Date>08-06-2008</Date>
+    </City>
+    <City>
+      <CityName>Austin</CityName>
+      <Street>North Ventu Park Road</Street>
+      <Date>09-03-2007</Date>
+    </City>
+    <City>
+      <CityName>Baton Rouge</CityName>
+      <Street>Pacific Hwy S</Street>
+      <Date>28-08-2008</Date>
+    </City>
+    <City>
+      <CityName>Baton Rouge</CityName>
+      <Street>San Marcos</Street>
+      <Date>18-07-2007</Date>
+    </City>
+    <City>
+      <CityName>Baton Rouge</CityName>
+      <Street>Newbury Road</Street>
+      <Date>20-06-2008</Date>
+    </City>
+    <City>
+      <CityName>Baton Rouge</CityName>
+      <Street>Bayshore Freeway</Street>
+      <Date>25-07-2008</Date>
+    </City>
+    <City>
+      <CityName>Boston</CityName>
+      <Street>S Rustle St</Street>
+      <Date>09-05-2008</Date>
+    </City>
+    <City>
+      <CityName>Boston</CityName>
+      <Street>Lake Tahoe Blvd.</Street>
+      <Date>27-06-2008</Date>
+    </City>
+    <City>
+      <CityName>Des Moines</CityName>
+      <Street>Burnett Road</Street>
+      <Date>14-12-2008</Date>
+    </City>
+    <City>
+      <CityName>Frankfort</CityName>
+      <Street>Woodson Rd.</Street>
+      <Date>20-05-2007</Date>
+    </City>
+    <City>
+      <CityName>Harrisburg</CityName>
+      <Street>East Main Street</Street>
+      <Date>06-08-2007</Date>
+    </City>
+    <City>
+      <CityName>Madison</CityName>
+      <Street>Harbor Dr</Street>
+      <Date>12-12-2007</Date>
+    </City>
+    <City>
+      <CityName>Olympia</CityName>
+      <Street>Greenwood Road</Street>
+      <Date>25-02-2007</Date>
+    </City>
+    <City>
+      <CityName>Olympia</CityName>
+      <Street>Timberlane Drive</Street>
+      <Date>10-08-2008</Date>
+    </City>
+    <City>
+      <CityName>Pierre</CityName>
+      <Street>Richmond Hill</Street>
+      <Date>03-01-2008</Date>
+    </City>
+    <City>
+      <CityName>Topeka</CityName>
+      <Street>W. Russell St.</Street>
+      <Date>18-03-2007</Date>
+    </City>
+    <City>
+      <CityName>Topeka</CityName>
+      <Street>South Roosevelt Drive</Street>
+      <Date>16-07-2008</Date>
+    </City>
+    <City>
+      <CityName>Trenton</CityName>
+      <Street>Castillo Drive</Street>
+      <Date>15-08-2007</Date>
+    </City>
+    <City>
+      <CityName>Trenton</CityName>
+      <Street>Corona Del Mar</Street>
+      <Date>10-03-2007</Date>
+    </City>
+  </State>
+  <State>
+    <StateName>Maryland</StateName>
+    <City>
+      <CityName>Augusta</CityName>
+      <Street>Santa Rosa South</Street>
+      <Date>07-05-2008</Date>
+    </City>
+    <City>
+      <CityName>Columbus</CityName>
+      <Street>Cabrillo Highway</Street>
+      <Date>21-02-2007</Date>
+    </City>
+    <City>
+      <CityName>Concord</CityName>
+      <Street>Grandview Drive</Street>
+      <Date>28-04-2008</Date>
+    </City>
+    <City>
+      <CityName>Indianapolis</CityName>
+      <Street>Cleveland Ave.</Street>
+      <Date>04-04-2007</Date>
+    </City>
+    <City>
+      <CityName>Indianapolis</CityName>
+      <Street>North Atherton Street</Street>
+      <Date>28-08-2008</Date>
+    </City>
+    <City>
+      <CityName>Jefferson City</CityName>
+      <Street>Carpinteria South</Street>
+      <Date>17-08-2008</Date>
+    </City>
+    <City>
+      <CityName>Jefferson City</CityName>
+      <Street>Greenwood Road</Street>
+      <Date>05-09-2008</Date>
+    </City>
+    <City>
+      <CityName>Juneau</CityName>
+      <Street>Tully Road East</Street>
+      <Date>14-05-2007</Date>
+    </City>
+    <City>
+      <CityName>Lansing</CityName>
+      <Street>South Roosevelt Drive</Street>
+      <Date>05-12-2007</Date>
+    </City>
+    <City>
+      <CityName>Lincoln</CityName>
+      <Street>Burnett Road</Street>
+      <Date>17-12-2007</Date>
+    </City>
+    <City>
+      <CityName>Little Rock</CityName>
+      <Street>Harry S Truman Blvd</Street>
+      <Date>30-06-2007</Date>
+    </City>
+    <City>
+      <CityName>Montpelier</CityName>
+      <Street>Newbury Road</Street>
+      <Date>04-01-2007</Date>
+    </City>
+    <City>
+      <CityName>Oklahoma City</CityName>
+      <Street>Harbor Dr</Street>
+      <Date>08-08-2007</Date>
+    </City>
+    <City>
+      <CityName>Pierre</CityName>
+      <Street>Via Real</Street>
+      <Date>03-12-2008</Date>
+    </City>
+    <City>
+      <CityName>Providence</CityName>
+      <Street>Burnett Road</Street>
+      <Date>28-03-2007</Date>
+    </City>
+    <City>
+      <CityName>Saint Paul</CityName>
+      <Street>Grandview Drive</Street>
+      <Date>04-04-2008</Date>
+    </City>
+    <City>
+      <CityName>Salem</CityName>
+      <Street>Castillo Drive</Street>
+      <Date>01-03-2007</Date>
+    </City>
+    <City>
+      <CityName>Salt Lake City</CityName>
+      <Street>North Atherton Street</Street>
+      <Date>12-08-2008</Date>
+    </City>
+    <City>
+      <CityName>Springfield</CityName>
+      <Street>Cleveland Ave.</Street>
+      <Date>23-06-2007</Date>
+    </City>
+    <City>
+      <CityName>Springfield</CityName>
+      <Street>San Diego Freeway</Street>
+      <Date>02-01-2007</Date>
+    </City>
+    <City>
+      <CityName>Trenton</CityName>
+      <Street>Cabrillo Highway</Street>
+      <Date>01-08-2008</Date>
+    </City>
+  </State>
+  <State>
+    <StateName>Massachusetts</StateName>
+    <City>
+      <CityName>Baton Rouge</CityName>
+      <Street>East Calle Primera</Street>
+      <Date>22-02-2007</Date>
+    </City>
+    <City>
+      <CityName>Boise</CityName>
+      <Street>North Atherton Street</Street>
+      <Date>16-08-2007</Date>
+    </City>
+    <City>
+      <CityName>Boston</CityName>
+      <Street>Cleveland Ave.</Street>
+      <Date>01-07-2008</Date>
+    </City>
+    <City>
+      <CityName>Boston</CityName>
+      <Street>East Main Street</Street>
+      <Date>15-05-2007</Date>
+    </City>
+    <City>
+      <CityName>Carson City</CityName>
+      <Street>South Roosevelt Drive</Street>
+      <Date>14-09-2008</Date>
+    </City>
+    <City>
+      <CityName>Columbia</CityName>
+      <Street>Lawrenceville Suwanee</Street>
+      <Date>19-07-2007</Date>
+    </City>
+    <City>
+      <CityName>Denver</CityName>
+      <Street>Katella Avenue</Street>
+      <Date>27-11-2007</Date>
+    </City>
+    <City>
+      <CityName>Des Moines</CityName>
+      <Street>Padre Boulevard</Street>
+      <Date>24-10-2007</Date>
+    </City>
+    <City>
+      <CityName>Dover</CityName>
+      <Street>Grandview Drive</Street>
+      <Date>28-06-2008</Date>
+    </City>
+    <City>
+      <CityName>Dover</CityName>
+      <Street>French Camp Turnpike Road</Street>
+      <Date>03-12-2007</Date>
+    </City>
+    <City>
+      <CityName>Harrisburg</CityName>
+      <Street>S Rustle St</Street>
+      <Date>14-01-2007</Date>
+    </City>
+    <City>
+      <CityName>Harrisburg</CityName>
+      <Street>Padre Boulevard</Street>
+      <Date>29-05-2008</Date>
+    </City>
+    <City>
+      <CityName>Hartford</CityName>
+      <Street>North Ventu Park Road</Street>
+      <Date>06-06-2008</Date>
+    </City>
+    <City>
+      <CityName>Honolulu</CityName>
+      <Street>South Highway</Street>
+      <Date>02-07-2008</Date>
+    </City>
+    <City>
+      <CityName>Juneau</CityName>
+      <Street>Tully Road East</Street>
+      <Date>06-05-2008</Date>
+    </City>
+    <City>
+      <CityName>Madison</CityName>
+      <Street>Via Real</Street>
+      <Date>14-03-2008</Date>
+    </City>
+    <City>
+      <CityName>Montgomery</CityName>
+      <Street>Santa Ana Freeway</Street>
+      <Date>10-12-2007</Date>
+    </City>
+    <City>
+      <CityName>Montpelier</CityName>
+      <Street>Redwood Highway</Street>
+      <Date>17-06-2007</Date>
+    </City>
+    <City>
+      <CityName>Phoenix</CityName>
+      <Street>Bailard Avenue</Street>
+      <Date>11-08-2007</Date>
+    </City>
+    <City>
+      <CityName>Sacramento</CityName>
+      <Street>San Luis Obispo North</Street>
+      <Date>07-09-2008</Date>
+    </City>
+    <City>
+      <CityName>Sacramento</CityName>
+      <Street>San Ysidro Blvd</Street>
+      <Date>09-08-2007</Date>
+    </City>
+    <City>
+      <CityName>Sacramento</CityName>
+      <Street>Redwood Highway</Street>
+      <Date>09-09-2008</Date>
+    </City>
+    <City>
+      <CityName>Santa Fe</CityName>
+      <Street>San Simeon</Street>
+      <Date>19-03-2007</Date>
+    </City>
+  </State>
+  <State>
+    <StateName>Michigan</StateName>
+    <City>
+      <CityName>Albany</CityName>
+      <Street>Pacific Hwy S</Street>
+      <Date>10-01-2007</Date>
+    </City>
+    <City>
+      <CityName>Albany</CityName>
+      <Street>N Kentwood</Street>
+      <Date>28-10-2007</Date>
+    </City>
+    <City>
+      <CityName>Baton Rouge</CityName>
+      <Street>Harbor Dr</Street>
+      <Date>06-12-2008</Date>
+    </City>
+    <City>
+      <CityName>Baton Rouge</CityName>
+      <Street>Grandview Drive</Street>
+      <Date>21-09-2007</Date>
+    </City>
+    <City>
+      <CityName>Carson City</CityName>
+      <Street>Moreno Drive</Street>
+      <Date>19-08-2008</Date>
+    </City>
+    <City>
+      <CityName>Charleston</CityName>
+      <Street>Fairview Avenue</Street>
+      <Date>13-02-2008</Date>
+    </City>
+    <City>
+      <CityName>Columbia</CityName>
+      <Street>Moreno Drive</Street>
+      <Date>13-04-2007</Date>
+    </City>
+    <City>
+      <CityName>Hartford</CityName>
+      <Street>Lawrenceville Suwanee</Street>
+      <Date>17-06-2007</Date>
+    </City>
+    <City>
+      <CityName>Honolulu</CityName>
+      <Street>South Highway</Street>
+      <Date>09-03-2007</Date>
+    </City>
+    <City>
+      <CityName>Honolulu</CityName>
+      <Street>Fontaine Road</Street>
+      <Date>22-01-2007</Date>
+    </City>
+    <City>
+      <CityName>Indianapolis</CityName>
+      <Street>French Camp Turnpike Road</Street>
+      <Date>17-04-2008</Date>
+    </City>
+    <City>
+      <CityName>Jackson</CityName>
+      <Street>El Camino Real</Street>
+      <Date>02-08-2007</Date>
+    </City>
+    <City>
+      <CityName>Jackson</CityName>
+      <Street>French Camp Turnpike Road</Street>
+      <Date>14-05-2007</Date>
+    </City>
+    <City>
+      <CityName>Jefferson City</CityName>
+      <Street>Tully Road East</Street>
+      <Date>01-01-2008</Date>
+    </City>
+    <City>
+      <CityName>Jefferson City</CityName>
+      <Street>Timberlane Drive</Street>
+      <Date>10-03-2008</Date>
+    </City>
+    <City>
+      <CityName>Montgomery</CityName>
+      <Street>Cleveland Ave.</Street>
+      <Date>03-07-2007</Date>
+    </City>
+    <City>
+      <CityName>Providence</CityName>
+      <Street>Tanger Blvd</Street>
+      <Date>30-07-2008</Date>
+    </City>
+    <City>
+      <CityName>Raleigh</CityName>
+      <Street>Cleveland Ave.</Street>
+      <Date>17-01-2007</Date>
+    </City>
+    <City>
+      <CityName>Saint Paul</CityName>
+      <Street>Newbury Road</Street>
+      <Date>16-01-2008</Date>
+    </City>
+    <City>
+      <CityName>Salt Lake City</CityName>
+      <Street>Greenwood Road</Street>
+      <Date>24-08-2008</Date>
+    </City>
+    <City>
+      <CityName>Salt Lake City</CityName>
+      <Street>North Erringer Road</Street>
+      <Date>11-09-2007</Date>
+    </City>
+    <City>
+      <CityName>Santa Fe</CityName>
+      <Street>San Simeon</Street>
+      <Date>25-09-2008</Date>
+    </City>
+  </State>
+  <State>
+    <StateName>Minnesota</StateName>
+    <City>
+      <CityName>Albany</CityName>
+      <Street>North Ventu Park Road</Street>
+      <Date>21-03-2008</Date>
+    </City>
+    <City>
+      <CityName>Annapolis</CityName>
+      <Street>North Preisker Lane</Street>
+      <Date>09-10-2008</Date>
+    </City>
+    <City>
+      <CityName>Annapolis</CityName>
+      <Street>Milpas Street</Street>
+      <Date>24-08-2007</Date>
+    </City>
+    <City>
+      <CityName>Annapolis</CityName>
+      <Street>Pacific Hwy S</Street>
+      <Date>14-05-2008</Date>
+    </City>
+    <City>
+      <CityName>Bismarck</CityName>
+      <Street>W. Russell St.</Street>
+      <Date>05-11-2008</Date>
+    </City>
+    <City>
+      <CityName>Denver</CityName>
+      <Street>Richmond Hill</Street>
+      <Date>05-05-2008</Date>
+    </City>
+    <City>
+      <CityName>Denver</CityName>
+      <Street>Moreno Drive</Street>
+      <Date>27-10-2007</Date>
+    </City>
+    <City>
+      <CityName>Dover</CityName>
+      <Street>Lawrenceville Suwanee</Street>
+      <Date>18-07-2007</Date>
+    </City>
+    <City>
+      <CityName>Helena</CityName>
+      <Street>Jean de la Fontaine</Street>
+      <Date>26-06-2007</Date>
+    </City>
+    <City>
+      <CityName>Honolulu</CityName>
+      <Street>Bailard Avenue</Street>
+      <Date>08-09-2007</Date>
+    </City>
+    <City>
+      <CityName>Lincoln</CityName>
+      <Street>Fontaine Road</Street>
+      <Date>10-03-2008</Date>
+    </City>
+    <City>
+      <CityName>Montgomery</CityName>
+      <Street>Carpinteria North</Street>
+      <Date>10-04-2007</Date>
+    </City>
+    <City>
+      <CityName>Raleigh</CityName>
+      <Street>Hutchinson Rd</Street>
+      <Date>20-12-2007</Date>
+    </City>
+    <City>
+      <CityName>Saint Paul</CityName>
+      <Street>Woodson Rd.</Street>
+      <Date>27-03-2007</Date>
+    </City>
+    <City>
+      <CityName>Salt Lake City</CityName>
+      <Street>Grandview Drive</Street>
+      <Date>04-05-2008</Date>
+    </City>
+    <City>
+      <CityName>Tallahassee</CityName>
+      <Street>Padre Boulevard</Street>
+      <Date>15-09-2008</Date>
+    </City>
+  </State>
+  <State>
+    <StateName>Mississippi</StateName>
+    <City>
+      <CityName>Albany</CityName>
+      <Street>Bayshore Freeway</Street>
+      <Date>22-04-2008</Date>
+    </City>
+    <City>
+      <CityName>Augusta</CityName>
+      <Street>Bayshore Freeway</Street>
+      <Date>11-02-2008</Date>
+    </City>
+    <City>
+      <CityName>Austin</CityName>
+      <Street>Bowles Avenue</Street>
+      <Date>10-11-2007</Date>
+    </City>
+    <City>
+      <CityName>Concord</CityName>
+      <Street>Grandview Drive</Street>
+      <Date>16-08-2008</Date>
+    </City>
+    <City>
+      <CityName>Denver</CityName>
+      <Street>Cabrillo Highway</Street>
+      <Date>14-12-2008</Date>
+    </City>
+    <City>
+      <CityName>Juneau</CityName>
+      <Street>Jean de la Fontaine</Street>
+      <Date>29-04-2008</Date>
+    </City>
+    <City>
+      <CityName>Lansing</CityName>
+      <Street>Monroe Street</Street>
+      <Date>17-10-2008</Date>
+    </City>
+    <City>
+      <CityName>Montgomery</CityName>
+      <Street>Fontaine Road</Street>
+      <Date>08-01-2008</Date>
+    </City>
+    <City>
+      <CityName>Nashville</CityName>
+      <Street>French Camp Turnpike Road</Street>
+      <Date>12-11-2008</Date>
+    </City>
+    <City>
+      <CityName>Raleigh</CityName>
+      <Street>Monroe Street</Street>
+      <Date>10-03-2007</Date>
+    </City>
+    <City>
+      <CityName>Salt Lake City</CityName>
+      <Street>North Preisker Lane</Street>
+      <Date>08-12-2008</Date>
+    </City>
+  </State>
+  <State>
+    <StateName>Missouri</StateName>
+    <City>
+      <CityName>Augusta</CityName>
+      <Street>Jones Road</Street>
+      <Date>19-09-2008</Date>
+    </City>
+    <City>
+      <CityName>Augusta</CityName>
+      <Street>Carpinteria South</Street>
+      <Date>28-04-2007</Date>
+    </City>
+    <City>
+      <CityName>Bismarck</CityName>
+      <Street>Tanger Blvd</Street>
+      <Date>04-08-2007</Date>
+    </City>
+    <City>
+      <CityName>Boise</CityName>
+      <Street>Richmond Hill</Street>
+      <Date>05-04-2008</Date>
+    </City>
+    <City>
+      <CityName>Charleston</CityName>
+      <Street>Hutchinson Rd</Street>
+      <Date>02-04-2008</Date>
+    </City>
+    <City>
+      <CityName>Concord</CityName>
+      <Street>North Atherton Street</Street>
+      <Date>21-08-2008</Date>
+    </City>
+    <City>
+      <CityName>Des Moines</CityName>
+      <Street>East Main Street</Street>
+      <Date>08-12-2008</Date>
+    </City>
+    <City>
+      <CityName>Frankfort</CityName>
+      <Street>Santa Rosa South</Street>
+      <Date>26-10-2008</Date>
+    </City>
+    <City>
+      <CityName>Helena</CityName>
+      <Street>Lawrenceville Suwanee</Street>
+      <Date>14-10-2008</Date>
+    </City>
+    <City>
+      <CityName>Honolulu</CityName>
+      <Street>Erringer Road</Street>
+      <Date>25-05-2008</Date>
+    </City>
+    <City>
+      <CityName>Lansing</CityName>
+      <Street>Pacific Hwy S</Street>
+      <Date>03-02-2008</Date>
+    </City>
+    <City>
+      <CityName>Montpelier</CityName>
+      <Street>Cabrillo Highway</Street>
+      <Date>18-08-2008</Date>
+    </City>
+    <City>
+      <CityName>Oklahoma City</CityName>
+      <Street>Camelback Rd</Street>
+      <Date>04-09-2007</Date>
+    </City>
+    <City>
+      <CityName>Providence</CityName>
+      <Street>Tanger Blvd</Street>
+      <Date>08-02-2008</Date>
+    </City>
+    <City>
+      <CityName>Raleigh</CityName>
+      <Street>Apalachee Parkway</Street>
+      <Date>28-05-2008</Date>
+    </City>
+    <City>
+      <CityName>Richmond</CityName>
+      <Street>Steele Lane</Street>
+      <Date>30-12-2008</Date>
+    </City>
+    <City>
+      <CityName>Santa Fe</CityName>
+      <Street>Santa Rosa South</Street>
+      <Date>10-06-2007</Date>
+    </City>
+    <City>
+      <CityName>Topeka</CityName>
+      <Street>South Highway</Street>
+      <Date>27-06-2007</Date>
+    </City>
+  </State>
+  <State>
+    <StateName>Montana</StateName>
+    <City>
+      <CityName>Atlanta</CityName>
+      <Street>East Fry Blvd.</Street>
+      <Date>03-09-2008</Date>
+    </City>
+    <City>
+      <CityName>Atlanta</CityName>
+      <Street>Santa Rosa South</Street>
+      <Date>08-07-2008</Date>
+    </City>
+    <City>
+      <CityName>Atlanta</CityName>
+      <Street>Bayshore Freeway</Street>
+      <Date>25-03-2008</Date>
+    </City>
+    <City>
+      <CityName>Augusta</CityName>
+      <Street>Hutchinson Rd</Street>
+      <Date>30-08-2007</Date>
+    </City>
+    <City>
+      <CityName>Austin</CityName>
+      <Street>Via Real</Street>
+      <Date>25-01-2007</Date>
+    </City>
+    <City>
+      <CityName>Boise</CityName>
+      <Street>Santa Rosa North</Street>
+      <Date>19-05-2007</Date>
+    </City>
+    <City>
+      <CityName>Boise</CityName>
+      <Street>Tanger Blvd</Street>
+      <Date>13-09-2008</Date>
+    </City>
+    <City>
+      <CityName>Carson City</CityName>
+      <Street>Cabrillo Highway</Street>
+      <Date>03-01-2008</Date>
+    </City>
+    <City>
+      <CityName>Cheyenne</CityName>
+      <Street>Camelback Rd</Street>
+      <Date>05-05-2007</Date>
+    </City>
+    <City>
+      <CityName>Denver</CityName>
+      <Street>Lindbergh Blvd</Street>
+      <Date>19-03-2007</Date>
+    </City>
+    <City>
+      <CityName>Denver</CityName>
+      <Street>Apalachee Parkway</Street>
+      <Date>06-11-2008</Date>
+    </City>
+    <City>
+      <CityName>Hartford</CityName>
+      <Street>S Rustle St</Street>
+      <Date>25-09-2007</Date>
+    </City>
+    <City>
+      <CityName>Hartford</CityName>
+      <Street>W. Russell St.</Street>
+      <Date>11-09-2007</Date>
+    </City>
+    <City>
+      <CityName>Helena</CityName>
+      <Street>Steele Lane</Street>
+      <Date>01-02-2008</Date>
+    </City>
+    <City>
+      <CityName>Jackson</CityName>
+      <Street>San Diego Freeway</Street>
+      <Date>16-09-2008</Date>
+    </City>
+    <City>
+      <CityName>Jefferson City</CityName>
+      <Street>Timberlane Drive</Street>
+      <Date>20-05-2008</Date>
+    </City>
+    <City>
+      <CityName>Jefferson City</CityName>
+      <Street>San Marcos</Street>
+      <Date>27-11-2007</Date>
+    </City>
+    <City>
+      <CityName>Lansing</CityName>
+      <Street>Steele Lane</Street>
+      <Date>06-02-2008</Date>
+    </City>
+    <City>
+      <CityName>Olympia</CityName>
+      <Street>San Luis Obispo North</Street>
+      <Date>03-12-2007</Date>
+    </City>
+    <City>
+      <CityName>Richmond</CityName>
+      <Street>San Diego Freeway</Street>
+      <Date>27-07-2007</Date>
+    </City>
+    <City>
+      <CityName>Trenton</CityName>
+      <Street>W. Russell St.</Street>
+      <Date>08-08-2007</Date>
+    </City>
+  </State>
+  <State>
+    <StateName>Nebraska</StateName>
+    <City>
+      <CityName>Annapolis</CityName>
+      <Street>Burnett Road</Street>
+      <Date>24-10-2007</Date>
+    </City>
+    <City>
+      <CityName>Baton Rouge</CityName>
+      <Street>Tanger Blvd</Street>
+      <Date>25-09-2007</Date>
+    </City>
+    <City>
+      <CityName>Boston</CityName>
+      <Street>San Marcos</Street>
+      <Date>05-12-2007</Date>
+    </City>
+    <City>
+      <CityName>Denver</CityName>
+      <Street>Jones Road</Street>
+      <Date>22-06-2007</Date>
+    </City>
+    <City>
+      <CityName>Denver</CityName>
+      <Street>Erringer Road</Street>
+      <Date>04-11-2007</Date>
+    </City>
+    <City>
+      <CityName>Denver</CityName>
+      <Street>San Diego Freeway</Street>
+      <Date>15-05-2008</Date>
+    </City>
+    <City>
+      <CityName>Frankfort</CityName>
+      <Street>Newbury Road</Street>
+      <Date>12-03-2007</Date>
+    </City>
+    <City>
+      <CityName>Harrisburg</CityName>
+      <Street>E Fowler Avenue</Street>
+      <Date>05-05-2007</Date>
+    </City>
+    <City>
+      <CityName>Honolulu</CityName>
+      <Street>Katella Avenue</Street>
+      <Date>25-02-2008</Date>
+    </City>
+    <City>
+      <CityName>Lansing</CityName>
+      <Street>Hutchinson Rd</Street>
+      <Date>31-12-2007</Date>
+    </City>
+    <City>
+      <CityName>Phoenix</CityName>
+      <Street>Via Real</Street>
+      <Date>06-07-2007</Date>
+    </City>
+    <City>
+      <CityName>Pierre</CityName>
+      <Street>Newbury Road</Street>
+      <Date>20-01-2008</Date>
+    </City>
+    <City>
+      <CityName>Sacramento</CityName>
+      <Street>Carpinteria South</Street>
+      <Date>16-05-2008</Date>
+    </City>
+    <City>
+      <CityName>Santa Fe</CityName>
+      <Street>N Harrison St</Street>
+      <Date>31-05-2007</Date>
+    </City>
+    <City>
+      <CityName>Tallahassee</CityName>
+      <Street>Hutchinson Rd</Street>
+      <Date>24-03-2007</Date>
+    </City>
+    <City>
+      <CityName>Topeka</CityName>
+      <Street>Camelback Rd</Street>
+      <Date>07-03-2007</Date>
+    </City>
+    <City>
+      <CityName>Trenton</CityName>
+      <Street>Moreno Drive</Street>
+      <Date>16-12-2007</Date>
+    </City>
+  </State>
+  <State>
+    <StateName>Nevada</StateName>
+    <City>
+      <CityName>Annapolis</CityName>
+      <Street>Cleveland Ave.</Street>
+      <Date>07-05-2008</Date>
+    </City>
+    <City>
+      <CityName>Atlanta</CityName>
+      <Street>Cleveland Ave.</Street>
+      <Date>10-12-2007</Date>
+    </City>
+    <City>
+      <CityName>Bismarck</CityName>
+      <Street>Fontaine Road</Street>
+      <Date>04-10-2007</Date>
+    </City>
+    <City>
+      <CityName>Columbia</CityName>
+      <Street>North Broadway Street</Street>
+      <Date>04-03-2008</Date>
+    </City>
+    <City>
+      <CityName>Columbia</CityName>
+      <Street>Tully Road East</Street>
+      <Date>27-10-2007</Date>
+    </City>
+    <City>
+      <CityName>Columbus</CityName>
+      <Street>Richmond Hill</Street>
+      <Date>19-02-2007</Date>
+    </City>
+    <City>
+      <CityName>Helena</CityName>
+      <Street>Lindbergh Blvd</Street>
+      <Date>16-11-2008</Date>
+    </City>
+    <City>
+      <CityName>Helena</CityName>
+      <Street>Harbor Dr</Street>
+      <Date>13-08-2008</Date>
+    </City>
+    <City>
+      <CityName>Helena</CityName>
+      <Street>Harry S Truman Blvd</Street>
+      <Date>09-10-2007</Date>
+    </City>
+    <City>
+      <CityName>Indianapolis</CityName>
+      <Street>Milpas Street</Street>
+      <Date>12-02-2008</Date>
+    </City>
+    <City>
+      <CityName>Jackson</CityName>
+      <Street>El Camino Real</Street>
+      <Date>14-08-2008</Date>
+    </City>
+    <City>
+      <CityName>Montpelier</CityName>
+      <Street>East Calle Primera</Street>
+      <Date>25-01-2008</Date>
+    </City>
+    <City>
+      <CityName>Nashville</CityName>
+      <Street>Newbury Road</Street>
+      <Date>31-12-2008</Date>
+    </City>
+    <City>
+      <CityName>Pierre</CityName>
+      <Street>Tully Road East</Street>
+      <Date>09-07-2008</Date>
+    </City>
+    <City>
+      <CityName>Saint Paul</CityName>
+      <Street>San Simeon</Street>
+      <Date>02-08-2007</Date>
+    </City>
+    <City>
+      <CityName>Santa Fe</CityName>
+      <Street>Katella Avenue</Street>
+      <Date>15-11-2007</Date>
+    </City>
+    <City>
+      <CityName>Santa Fe</CityName>
+      <Street>Jones Road</Street>
+      <Date>19-01-2007</Date>
+    </City>
+    <City>
+      <CityName>Tallahassee</CityName>
+      <Street>Bayshore Freeway</Street>
+      <Date>18-10-2007</Date>
+    </City>
+    <City>
+      <CityName>Tallahassee</CityName>
+      <Street>Carpinteria South</Street>
+      <Date>06-10-2008</Date>
+    </City>
+    <City>
+      <CityName>Trenton</CityName>
+      <Street>San Diego Freeway</Street>
+      <Date>28-12-2007</Date>
+    </City>
+  </State>
+  <State>
+    <StateName>New Hampshire</StateName>
+    <City>
+      <CityName>Albany</CityName>
+      <Street>Fairview Avenue</Street>
+      <Date>30-01-2008</Date>
+    </City>
+    <City>
+      <CityName>Annapolis</CityName>
+      <Street>North Atherton Street</Street>
+      <Date>25-06-2008</Date>
+    </City>
+    <City>
+      <CityName>Annapolis</CityName>
+      <Street>Castillo Drive</Street>
+      <Date>28-10-2008</Date>
+    </City>
+    <City>
+      <CityName>Augusta</CityName>
+      <Street>San Ysidro Blvd</Street>
+      <Date>16-10-2007</Date>
+    </City>
+    <City>
+      <CityName>Augusta</CityName>
+      <Street>Santa Ana Freeway</Street>
+      <Date>28-09-2007</Date>
+    </City>
+    <City>
+      <CityName>Austin</CityName>
+      <Street>Fairview Avenue</Street>
+      <Date>28-09-2007</Date>
+    </City>
+    <City>
+      <CityName>Boston</CityName>
+      <Street>Timberlane Drive</Street>
+      <Date>23-06-2007</Date>
+    </City>
+    <City>
+      <CityName>Columbus</CityName>
+      <Street>W. Russell St.</Street>
+      <Date>23-12-2007</Date>
+    </City>
+    <City>
+      <CityName>Dover</CityName>
+      <Street>North Erringer Road</Street>
+      <Date>26-02-2007</Date>
+    </City>
+    <City>
+      <CityName>Dover</CityName>
+      <Street>Carpinteria South</Street>
+      <Date>16-10-2008</Date>
+    </City>
+    <City>
+      <CityName>Dover</CityName>
+      <Street>Lake Tahoe Blvd.</Street>
+      <Date>12-03-2007</Date>
+    </City>
+    <City>
+      <CityName>Dover</CityName>
+      <Street>North Broadway Street</Street>
+      <Date>03-11-2007</Date>
+    </City>
+    <City>
+      <CityName>Harrisburg</CityName>
+      <Street>Tully Road East</Street>
+      <Date>11-10-2007</Date>
+    </City>
+    <City>
+      <CityName>Hartford</CityName>
+      <Street>East Fry Blvd.</Street>
+      <Date>06-02-2008</Date>
+    </City>
+    <City>
+      <CityName>Helena</CityName>
+      <Street>Tanger Blvd</Street>
+      <Date>02-06-2007</Date>
+    </City>
+    <City>
+      <CityName>Juneau</CityName>
+      <Street>Santa Rosa South</Street>
+      <Date>03-05-2007</Date>
+    </City>
+    <City>
+      <CityName>Lincoln</CityName>
+      <Street>El Camino Real</Street>
+      <Date>18-11-2007</Date>
+    </City>
+    <City>
+      <CityName>Little Rock</CityName>
+      <Street>Camelback Rd</Street>
+      <Date>22-09-2007</Date>
+    </City>
+    <City>
+      <CityName>Oklahoma City</CityName>
+      <Street>Newbury Road</Street>
+      <Date>18-08-2008</Date>
+    </City>
+    <City>
+      <CityName>Olympia</CityName>
+      <Street>Fairview Avenue</Street>
+      <Date>15-07-2007</Date>
+    </City>
+    <City>
+      <CityName>Olympia</CityName>
+      <Street>North Erringer Road</Street>
+      <Date>09-11-2008</Date>
+    </City>
+    <City>
+      <CityName>Olympia</CityName>
+      <Street>San Luis Obispo North</Street>
+      <Date>24-09-2007</Date>
+    </City>
+    <City>
+      <CityName>Sacramento</CityName>
+      <Street>Santa Rosa North</Street>
+      <Date>24-03-2007</Date>
+    </City>
+    <City>
+      <CityName>Salem</CityName>
+      <Street>San Simeon</Street>
+      <Date>26-04-2007</Date>
+    </City>
+    <City>
+      <CityName>Salt Lake City</CityName>
+      <Street>Grandview Drive</Street>
+      <Date>30-03-2007</Date>
+    </City>
+    <City>
+      <CityName>Tallahassee</CityName>
+      <Street>Carpinteria Avenue</Street>
+      <Date>08-10-2007</Date>
+    </City>
+  </State>
+  <State>
+    <StateName>New Jersey</StateName>
+    <City>
+      <CityName>Austin</CityName>
+      <Street>San Marcos</Street>
+      <Date>11-05-2008</Date>
+    </City>
+    <City>
+      <CityName>Baton Rouge</CityName>
+      <Street>Jean de la Fontaine</Street>
+      <Date>11-08-2007</Date>
+    </City>
+    <City>
+      <CityName>Baton Rouge</CityName>
+      <Street>El Camino Real</Street>
+      <Date>14-04-2008</Date>
+    </City>
+    <City>
+      <CityName>Bismarck</CityName>
+      <Street>Bowles Avenue</Street>
+      <Date>21-02-2008</Date>
+    </City>
+    <City>
+      <CityName>Boston</CityName>
+      <Street>Lindbergh Blvd</Street>
+      <Date>19-12-2007</Date>
+    </City>
+    <City>
+      <CityName>Concord</CityName>
+      <Street>Newbury Road</Street>
+      <Date>12-02-2008</Date>
+    </City>
+    <City>
+      <CityName>Concord</CityName>
+      <Street>Redwood Highway</Street>
+      <Date>13-11-2008</Date>
+    </City>
+    <City>
+      <CityName>Denver</CityName>
+      <Street>Erringer Road</Street>
+      <Date>16-12-2008</Date>
+    </City>
+    <City>
+      <CityName>Denver</CityName>
+      <Street>W. Russell St.</Street>
+      <Date>22-07-2007</Date>
+    </City>
+    <City>
+      <CityName>Des Moines</CityName>
+      <Street>San Diego Freeway</Street>
+      <Date>25-05-2008</Date>
+    </City>
+    <City>
+      <CityName>Des Moines</CityName>
+      <Street>Moreno Drive</Street>
+      <Date>30-09-2008</Date>
+    </City>
+    <City>
+      <CityName>Des Moines</CityName>
+      <Street>Castillo Drive</Street>
+      <Date>25-10-2008</Date>
+    </City>
+    <City>
+      <CityName>Dover</CityName>
+      <Street>Harbor Dr</Street>
+      <Date>14-02-2007</Date>
+    </City>
+    <City>
+      <CityName>Harrisburg</CityName>
+      <Street>East 1st Street</Street>
+      <Date>10-05-2008</Date>
+    </City>
+    <City>
+      <CityName>Hartford</CityName>
+      <Street>Monroe Street</Street>
+      <Date>07-09-2007</Date>
+    </City>
+    <City>
+      <CityName>Juneau</CityName>
+      <Street>Newbury Road</Street>
+      <Date>11-10-2008</Date>
+    </City>
+    <City>
+      <CityName>Madison</CityName>
+      <Street>Bayshore Freeway</Street>
+      <Date>10-06-2007</Date>
+    </City>
+    <City>
+      <CityName>Olympia</CityName>
+      <Street>Bailard Avenue</Street>
+      <Date>21-04-2008</Date>
+    </City>
+    <City>
+      <CityName>Saint Paul</CityName>
+      <Street>N Kentwood</Street>
+      <Date>15-09-2007</Date>
+    </City>
+    <City>
+      <CityName>Salt Lake City</CityName>
+      <Street>Westside Freeway</Street>
+      <Date>17-06-2007</Date>
+    </City>
+    <City>
+      <CityName>Santa Fe</CityName>
+      <Street>Via Real</Street>
+      <Date>08-11-2008</Date>
+    </City>
+    <City>
+      <CityName>Santa Fe</CityName>
+      <Street>Katella Avenue</Street>
+      <Date>27-12-2008</Date>
+    </City>
+    <City>
+      <CityName>Trenton</CityName>
+      <Street>North Broadway Street</Street>
+      <Date>18-08-2008</Date>
+    </City>
+  </State>
+  <State>
+    <StateName>New Mexico</StateName>
+    <City>
+      <CityName>Annapolis</CityName>
+      <Street>San Marcos</Street>
+      <Date>17-09-2007</Date>
+    </City>
+    <City>
+      <CityName>Boston</CityName>
+      <Street>North Atherton Street</Street>
+      <Date>30-10-2008</Date>
+    </City>
+    <City>
+      <CityName>Concord</CityName>
+      <Street>Monroe Street</Street>
+      <Date>10-01-2007</Date>
+    </City>
+    <City>
+      <CityName>Concord</CityName>
+      <Street>Pacific Hwy S</Street>
+      <Date>06-05-2007</Date>
+    </City>
+    <City>
+      <CityName>Des Moines</CityName>
+      <Street>Bailard Avenue</Street>
+      <Date>05-02-2007</Date>
+    </City>
+    <City>
+      <CityName>Dover</CityName>
+      <Street>North Broadway Street</Street>
+      <Date>14-02-2007</Date>
+    </City>
+    <City>
+      <CityName>Dover</CityName>
+      <Street>Erringer Road</Street>
+      <Date>23-05-2008</Date>
+    </City>
+    <City>
+      <CityName>Frankfort</CityName>
+      <Street>North Atherton Street</Street>
+      <Date>20-01-2007</Date>
+    </City>
+    <City>
+      <CityName>Helena</CityName>
+      <Street>Pacific Hwy S</Street>
+      <Date>16-02-2008</Date>
+    </City>
+    <City>
+      <CityName>Honolulu</CityName>
+      <Street>San Simeon</Street>
+      <Date>24-01-2007</Date>
+    </City>
+    <City>
+      <CityName>Indianapolis</CityName>
+      <Street>North Ventu Park Road</Street>
+      <Date>24-07-2008</Date>
+    </City>
+    <City>
+      <CityName>Jefferson City</CityName>
+      <Street>San Ysidro Blvd</Street>
+      <Date>23-11-2008</Date>
+    </City>
+    <City>
+      <CityName>Lansing</CityName>
+      <Street>E Fowler Avenue</Street>
+      <Date>15-03-2008</Date>
+    </City>
+    <City>
+      <CityName>Montpelier</CityName>
+      <Street>Fontaine Road</Street>
+      <Date>26-08-2008</Date>
+    </City>
+    <City>
+      <CityName>Montpelier</CityName>
+      <Street>San Ysidro Blvd</Street>
+      <Date>02-12-2008</Date>
+    </City>
+    <City>
+      <CityName>Phoenix</CityName>
+      <Street>San Simeon</Street>
+      <Date>14-07-2008</Date>
+    </City>
+    <City>
+      <CityName>Pierre</CityName>
+      <Street>Harry S Truman Blvd</Street>
+      <Date>19-05-2007</Date>
+    </City>
+    <City>
+      <CityName>Providence</CityName>
+      <Street>Katella Avenue</Street>
+      <Date>31-03-2008</Date>
+    </City>
+    <City>
+      <CityName>Providence</CityName>
+      <Street>Cerrillos Road</Street>
+      <Date>22-10-2008</Date>
+    </City>
+    <City>
+      <CityName>Raleigh</CityName>
+      <Street>Burnett Road</Street>
+      <Date>08-05-2007</Date>
+    </City>
+    <City>
+      <CityName>Sacramento</CityName>
+      <Street>Carpinteria South</Street>
+      <Date>19-05-2008</Date>
+    </City>
+    <City>
+      <CityName>Sacramento</CityName>
+      <Street>Lawrenceville Suwanee</Street>
+      <Date>02-02-2008</Date>
+    </City>
+    <City>
+      <CityName>Salt Lake City</CityName>
+      <Street>Corona Del Mar</Street>
+      <Date>10-09-2007</Date>
+    </City>
+    <City>
+      <CityName>Santa Fe</CityName>
+      <Street>Santa Monica Road</Street>
+      <Date>21-07-2008</Date>
+    </City>
+    <City>
+      <CityName>Tallahassee</CityName>
+      <Street>Carpinteria Avenue</Street>
+      <Date>14-04-2008</Date>
+    </City>
+  </State>
+  <State>
+    <StateName>New York</StateName>
+    <City>
+      <CityName>Atlanta</CityName>
+      <Street>Lake Tahoe Blvd.</Street>
+      <Date>18-01-2008</Date>
+    </City>
+    <City>
+      <CityName>Boston</CityName>
+      <Street>San Luis Obispo North</Street>
+      <Date>09-11-2007</Date>
+    </City>
+    <City>
+      <CityName>Charleston</CityName>
+      <Street>South Highway</Street>
+      <Date>30-11-2008</Date>
+    </City>
+    <City>
+      <CityName>Charleston</CityName>
+      <Street>San Diego Freeway</Street>
+      <Date>25-06-2008</Date>
+    </City>
+    <City>
+      <CityName>Charleston</CityName>
+      <Street>Santa Ana Freeway</Street>
+      <Date>25-02-2008</Date>
+    </City>
+    <City>
+      <CityName>Charleston</CityName>
+      <Street>Steele Lane</Street>
+      <Date>18-08-2008</Date>
+    </City>
+    <City>
+      <CityName>Des Moines</CityName>
+      <Street>Tully Road East</Street>
+      <Date>28-05-2007</Date>
+    </City>
+    <City>
+      <CityName>Juneau</CityName>
+      <Street>Cabrillo Highway</Street>
+      <Date>15-08-2008</Date>
+    </City>
+    <City>
+      <CityName>Juneau</CityName>
+      <Street>Jones Road</Street>
+      <Date>09-10-2007</Date>
+    </City>
+    <City>
+      <CityName>Lincoln</CityName>
+      <Street>Bailard Avenue</Street>
+      <Date>01-03-2007</Date>
+    </City>
+    <City>
+      <CityName>Madison</CityName>
+      <Street>Castillo Drive</Street>
+      <Date>10-02-2007</Date>
+    </City>
+    <City>
+      <CityName>Nashville</CityName>
+      <Street>S Rustle St</Street>
+      <Date>12-09-2008</Date>
+    </City>
+    <City>
+      <CityName>Oklahoma City</CityName>
+      <Street>Carpinteria South</Street>
+      <Date>11-08-2007</Date>
+    </City>
+    <City>
+      <CityName>Providence</CityName>
+      <Street>Erringer Road</Street>
+      <Date>03-10-2008</Date>
+    </City>
+    <City>
+      <CityName>Salem</CityName>
+      <Street>Erringer Road</Street>
+      <Date>25-07-2007</Date>
+    </City>
+    <City>
+      <CityName>Topeka</CityName>
+      <Street>Cleveland Ave.</Street>
+      <Date>24-05-2008</Date>
+    </City>
+    <City>
+      <CityName>Topeka</CityName>
+      <Street>Cleveland Ave.</Street>
+      <Date>06-10-2008</Date>
+    </City>
+    <City>
+      <CityName>Trenton</CityName>
+      <Street>Lake Tahoe Blvd.</Street>
+      <Date>22-07-2007</Date>
+    </City>
+  </State>
+  <State>
+    <StateName>North Carolina</StateName>
+    <City>
+      <CityName>Albany</CityName>
+      <Street>Harbor Dr</Street>
+      <Date>27-11-2007</Date>
+    </City>
+    <City>
+      <CityName>Augusta</CityName>
+      <Street>Cleveland Ave.</Street>
+      <Date>27-07-2007</Date>
+    </City>
+    <City>
+      <CityName>Austin</CityName>
+      <Street>San Luis Obispo North</Street>
+      <Date>11-01-2007</Date>
+    </City>
+    <City>
+      <CityName>Bismarck</CityName>
+      <Street>San Diego Freeway</Street>
+      <Date>03-04-2007</Date>
+    </City>
+    <City>
+      <CityName>Carson City</CityName>
+      <Street>Grandview Drive</Street>
+      <Date>25-05-2008</Date>
+    </City>
+    <City>
+      <CityName>Columbia</CityName>
+      <Street>Tanger Blvd</Street>
+      <Date>13-07-2008</Date>
+    </City>
+    <City>
+      <CityName>Concord</CityName>
+      <Street>San Diego Freeway</Street>
+      <Date>16-03-2008</Date>
+    </City>
+    <City>
+      <CityName>Des Moines</CityName>
+      <Street>El Camino Real</Street>
+      <Date>21-10-2007</Date>
+    </City>
+    <City>
+      <CityName>Harrisburg</CityName>
+      <Street>Burnett Road</Street>
+      <Date>19-07-2007</Date>
+    </City>
+    <City>
+      <CityName>Hartford</CityName>
+      <Street>North Erringer Road</Street>
+      <Date>28-05-2008</Date>
+    </City>
+    <City>
+      <CityName>Jefferson City</CityName>
+      <Street>Santa Rosa South</Street>
+      <Date>21-02-2007</Date>
+    </City>
+    <City>
+      <CityName>Juneau</CityName>
+      <Street>Cerrillos Road</Street>
+      <Date>19-09-2007</Date>
+    </City>
+    <City>
+      <CityName>Madison</CityName>
+      <Street>Westside Freeway</Street>
+      <Date>28-04-2007</Date>
+    </City>
+    <City>
+      <CityName>Phoenix</CityName>
+      <Street>Steele Lane</Street>
+      <Date>22-09-2007</Date>
+    </City>
+    <City>
+      <CityName>Sacramento</CityName>
+      <Street>Redwood Highway</Street>
+      <Date>03-08-2008</Date>
+    </City>
+    <City>
+      <CityName>Saint Paul</CityName>
+      <Street>Steele Lane</Street>
+      <Date>17-04-2008</Date>
+    </City>
+    <City>
+      <CityName>Saint Paul</CityName>
+      <Street>East 1st Street</Street>
+      <Date>22-10-2007</Date>
+    </City>
+    <City>
+      <CityName>Salt Lake City</CityName>
+      <Street>Harbor Dr</Street>
+      <Date>14-09-2007</Date>
+    </City>
+  </State>
+  <State>
+    <StateName>North Dakota</StateName>
+    <City>
+      <CityName>Albany</CityName>
+      <Street>South Roosevelt Drive</Street>
+      <Date>06-09-2008</Date>
+    </City>
+    <City>
+      <CityName>Annapolis</CityName>
+      <Street>Bayshore Freeway</Street>
+      <Date>19-11-2007</Date>
+    </City>
+    <City>
+      <CityName>Atlanta</CityName>
+      <Street>San Luis Obispo North</Street>
+      <Date>23-07-2007</Date>
+    </City>
+    <City>
+      <CityName>Augusta</CityName>
+      <Street>Castillo Drive</Street>
+      <Date>29-10-2007</Date>
+    </City>
+    <City>
+      <CityName>Austin</CityName>
+      <Street>North Erringer Road</Street>
+      <Date>05-01-2008</Date>
+    </City>
+    <City>
+      <CityName>Bismarck</CityName>
+      <Street>Calle Real</Street>
+      <Date>17-02-2007</Date>
+    </City>
+    <City>
+      <CityName>Carson City</CityName>
+      <Street>Bailard Avenue</Street>
+      <Date>09-06-2007</Date>
+    </City>
+    <City>
+      <CityName>Des Moines</CityName>
+      <Street>South Roosevelt Drive</Street>
+      <Date>21-03-2007</Date>
+    </City>
+    <City>
+      <CityName>Harrisburg</CityName>
+      <Street>Pacific Hwy S</Street>
+      <Date>08-12-2008</Date>
+    </City>
+    <City>
+      <CityName>Helena</CityName>
+      <Street>Timberlane Drive</Street>
+      <Date>30-05-2007</Date>
+    </City>
+    <City>
+      <CityName>Lansing</CityName>
+      <Street>Timberlane Drive</Street>
+      <Date>07-10-2007</Date>
+    </City>
+    <City>
+      <CityName>Nashville</CityName>
+      <Street>Camelback Rd</Street>
+      <Date>20-02-2007</Date>
+    </City>
+    <City>
+      <CityName>Oklahoma City</CityName>
+      <Street>Cleveland Ave.</Street>
+      <Date>15-05-2008</Date>
+    </City>
+    <City>
+      <CityName>Olympia</CityName>
+      <Street>Milpas Street</Street>
+      <Date>04-11-2007</Date>
+    </City>
+    <City>
+      <CityName>Providence</CityName>
+      <Street>San Simeon</Street>
+      <Date>08-04-2007</Date>
+    </City>
+    <City>
+      <CityName>Richmond</CityName>
+      <Street>Cerrillos Road</Street>
+      <Date>03-01-2008</Date>
+    </City>
+    <City>
+      <CityName>Salem</CityName>
+      <Street>North Ventu Park Road</Street>
+      <Date>10-11-2007</Date>
+    </City>
+    <City>
+      <CityName>Salt Lake City</CityName>
+      <Street>Jean de la Fontaine</Street>
+      <Date>11-12-2008</Date>
+    </City>
+    <City>
+      <CityName>Springfield</CityName>
+      <Street>Santa Monica Road</Street>
+      <Date>27-10-2007</Date>
+    </City>
+    <City>
+      <CityName>Springfield</CityName>
+      <Street>Cerrillos Road</Street>
+      <Date>28-08-2008</Date>
+    </City>
+    <City>
+      <CityName>Topeka</CityName>
+      <Street>Fontaine Road</Street>
+      <Date>08-02-2007</Date>
+    </City>
+  </State>
+  <State>
+    <StateName>Ohio</StateName>
+    <City>
+      <CityName>Baton Rouge</CityName>
+      <Street>Camelback Rd</Street>
+      <Date>21-08-2007</Date>
+    </City>
+    <City>
+      <CityName>Boise</CityName>
+      <Street>Camelback Rd</Street>
+      <Date>12-10-2007</Date>
+    </City>
+    <City>
+      <CityName>Carson City</CityName>
+      <Street>North Broadway Street</Street>
+      <Date>12-04-2007</Date>
+    </City>
+    <City>
+      <CityName>Carson City</CityName>
+      <Street>Newbury Road</Street>
+      <Date>21-03-2008</Date>
+    </City>
+    <City>
+      <CityName>Columbus</CityName>
+      <Street>North Broadway Street</Street>
+      <Date>10-02-2007</Date>
+    </City>
+    <City>
+      <CityName>Frankfort</CityName>
+      <Street>Santa Rosa North</Street>
+      <Date>02-03-2008</Date>
+    </City>
+    <City>
+      <CityName>Indianapolis</CityName>
+      <Street>Bayshore Freeway</Street>
+      <Date>06-08-2008</Date>
+    </City>
+    <City>
+      <CityName>Indianapolis</CityName>
+      <Street>Redwood Highway</Street>
+      <Date>03-10-2008</Date>
+    </City>
+    <City>
+      <CityName>Jackson</CityName>
+      <Street>East Main Street</Street>
+      <Date>20-06-2007</Date>
+    </City>
+    <City>
+      <CityName>Lansing</CityName>
+      <Street>Monroe Street</Street>
+      <Date>08-06-2007</Date>
+    </City>
+    <City>
+      <CityName>Lincoln</CityName>
+      <Street>Timberlane Drive</Street>
+      <Date>06-12-2008</Date>
+    </City>
+    <City>
+      <CityName>Oklahoma City</CityName>
+      <Street>North Atherton Street</Street>
+      <Date>04-03-2007</Date>
+    </City>
+    <City>
+      <CityName>Olympia</CityName>
+      <Street>Lake Tahoe Blvd.</Street>
+      <Date>09-06-2007</Date>
+    </City>
+    <City>
+      <CityName>Raleigh</CityName>
+      <Street>East Fry Blvd.</Street>
+      <Date>12-05-2008</Date>
+    </City>
+    <City>
+      <CityName>Richmond</CityName>
+      <Street>South Roosevelt Drive</Street>
+      <Date>21-05-2007</Date>
+    </City>
+    <City>
+      <CityName>Sacramento</CityName>
+      <Street>North Broadway Street</Street>
+      <Date>15-04-2007</Date>
+    </City>
+    <City>
+      <CityName>Springfield</CityName>
+      <Street>Santa Rosa North</Street>
+      <Date>26-10-2008</Date>
+    </City>
+    <City>
+      <CityName>Trenton</CityName>
+      <Street>Timberlane Drive</Street>
+      <Date>25-04-2007</Date>
+    </City>
+    <City>
+      <CityName>Trenton</CityName>
+      <Street>Grandview Drive</Street>
+      <Date>29-10-2007</Date>
+    </City>
+  </State>
+  <State>
+    <StateName>Oklahoma</StateName>
+    <City>
+      <CityName>Albany</CityName>
+      <Street>Santa Rosa North</Street>
+      <Date>20-05-2007</Date>
+    </City>
+    <City>
+      <CityName>Augusta</CityName>
+      <Street>Bowles Avenue</Street>
+      <Date>23-02-2007</Date>
+    </City>
+    <City>
+      <CityName>Austin</CityName>
+      <Street>N Kentwood</Street>
+      <Date>09-01-2008</Date>
+    </City>
+    <City>
+      <CityName>Austin</CityName>
+      <Street>Katella Avenue</Street>
+      <Date>01-03-2008</Date>
+    </City>
+    <City>
+      <CityName>Bismarck</CityName>
+      <Street>Bayshore Freeway</Street>
+      <Date>12-04-2008</Date>
+    </City>
+    <City>
+      <CityName>Charleston</CityName>
+      <Street>Calle Real</Street>
+      <Date>09-02-2007</Date>
+    </City>
+    <City>
+      <CityName>Concord</CityName>
+      <Street>Corona Del Mar</Street>
+      <Date>23-01-2007</Date>
+    </City>
+    <City>
+      <CityName>Dover</CityName>
+      <Street>East 1st Street</Street>
+      <Date>09-07-2008</Date>
+    </City>
+    <City>
+      <CityName>Harrisburg</CityName>
+      <Street>Corona Del Mar</Street>
+      <Date>23-03-2008</Date>
+    </City>
+    <City>
+      <CityName>Harrisburg</CityName>
+      <Street>S Rustle St</Street>
+      <Date>08-09-2007</Date>
+    </City>
+    <City>
+      <CityName>Helena</CityName>
+      <Street>Lindbergh Blvd</Street>
+      <Date>08-09-2007</Date>
+    </City>
+    <City>
+      <CityName>Honolulu</CityName>
+      <Street>North Atherton Street</Street>
+      <Date>03-02-2008</Date>
+    </City>
+    <City>
+      <CityName>Lincoln</CityName>
+      <Street>S Rustle St</Street>
+      <Date>15-07-2008</Date>
+    </City>
+    <City>
+      <CityName>Lincoln</CityName>
+      <Street>Padre Boulevard</Street>
+      <Date>31-08-2007</Date>
+    </City>
+    <City>
+      <CityName>Phoenix</CityName>
+      <Street>Westside Freeway</Street>
+      <Date>16-02-2007</Date>
+    </City>
+    <City>
+      <CityName>Phoenix</CityName>
+      <Street>South Roosevelt Drive</Street>
+      <Date>17-10-2008</Date>
+    </City>
+    <City>
+      <CityName>Sacramento</CityName>
+      <Street>Harry S Truman Blvd</Street>
+      <Date>17-02-2008</Date>
+    </City>
+    <City>
+      <CityName>Springfield</CityName>
+      <Street>Jean de la Fontaine</Street>
+      <Date>02-12-2008</Date>
+    </City>
+    <City>
+      <CityName>Tallahassee</CityName>
+      <Street>Lindbergh Blvd</Street>
+      <Date>07-02-2007</Date>
+    </City>
+  </State>
+  <State>
+    <StateName>Oregon</StateName>
+    <City>
+      <CityName>Albany</CityName>
+      <Street>Padre Boulevard</Street>
+      <Date>31-07-2007</Date>
+    </City>
+    <City>
+      <CityName>Albany</CityName>
+      <Street>East Main Street</Street>
+      <Date>27-10-2008</Date>
+    </City>
+    <City>
+      <CityName>Boise</CityName>
+      <Street>Harry S Truman Blvd</Street>
+      <Date>06-10-2008</Date>
+    </City>
+    <City>
+      <CityName>Boston</CityName>
+      <Street>Bailard Avenue</Street>
+      <Date>20-06-2007</Date>
+    </City>
+    <City>
+      <CityName>Carson City</CityName>
+      <Street>Santa Ana Freeway</Street>
+      <Date>29-09-2007</Date>
+    </City>
+    <City>
+      <CityName>Carson City</CityName>
+      <Street>East Main Street</Street>
+      <Date>04-01-2008</Date>
+    </City>
+    <City>
+      <CityName>Charleston</CityName>
+      <Street>El Camino Real</Street>
+      <Date>17-04-2007</Date>
+    </City>
+    <City>
+      <CityName>Columbia</CityName>
+      <Street>Carpinteria South</Street>
+      <Date>21-10-2007</Date>
+    </City>
+    <City>
+      <CityName>Des Moines</CityName>
+      <Street>Milpas Street</Street>
+      <Date>03-07-2008</Date>
+    </City>
+    <City>
+      <CityName>Frankfort</CityName>
+      <Street>Redwood Highway</Street>
+      <Date>27-10-2008</Date>
+    </City>
+    <City>
+      <CityName>Indianapolis</CityName>
+      <Street>Tanger Blvd</Street>
+      <Date>19-10-2008</Date>
+    </City>
+    <City>
+      <CityName>Jackson</CityName>
+      <Street>Jean de la Fontaine</Street>
+      <Date>16-07-2007</Date>
+    </City>
+    <City>
+      <CityName>Jefferson City</CityName>
+      <Street>Tully Road East</Street>
+      <Date>07-03-2008</Date>
+    </City>
+    <City>
+      <CityName>Little Rock</CityName>
+      <Street>N Harrison St</Street>
+      <Date>21-12-2008</Date>
+    </City>
+    <City>
+      <CityName>Little Rock</CityName>
+      <Street>Milpas Street</Street>
+      <Date>27-12-2007</Date>
+    </City>
+    <City>
+      <CityName>Phoenix</CityName>
+      <Street>Burnett Road</Street>
+      <Date>24-12-2008</Date>
+    </City>
+    <City>
+      <CityName>Pierre</CityName>
+      <Street>Monroe Street</Street>
+      <Date>25-01-2007</Date>
+    </City>
+    <City>
+      <CityName>Pierre</CityName>
+      <Street>San Luis Obispo North</Street>
+      <Date>09-04-2008</Date>
+    </City>
+    <City>
+      <CityName>Providence</CityName>
+      <Street>Bailard Avenue</Street>
+      <Date>06-06-2007</Date>
+    </City>
+    <City>
+      <CityName>Saint Paul</CityName>
+      <Street>Fontaine Road</Street>
+      <Date>14-11-2007</Date>
+    </City>
+    <City>
+      <CityName>Saint Paul</CityName>
+      <Street>North Erringer Road</Street>
+      <Date>01-11-2008</Date>
+    </City>
+    <City>
+      <CityName>Salem</CityName>
+      <Street>Padre Boulevard</Street>
+      <Date>29-02-2008</Date>
+    </City>
+    <City>
+      <CityName>Salt Lake City</CityName>
+      <Street>Camelback Rd</Street>
+      <Date>26-06-2008</Date>
+    </City>
+    <City>
+      <CityName>Topeka</CityName>
+      <Street>Newbury Road</Street>
+      <Date>10-01-2008</Date>
+    </City>
+  </State>
+  <State>
+    <StateName>Pennsylvania</StateName>
+    <City>
+      <CityName>Albany</CityName>
+      <Street>Moreno Drive</Street>
+      <Date>10-05-2008</Date>
+    </City>
+    <City>
+      <CityName>Annapolis</CityName>
+      <Street>Padre Boulevard</Street>
+      <Date>10-12-2007</Date>
+    </City>
+    <City>
+      <CityName>Austin</CityName>
+      <Street>North Preisker Lane</Street>
+      <Date>05-10-2007</Date>
+    </City>
+    <City>
+      <CityName>Bismarck</CityName>
+      <Street>Harbor Dr</Street>
+      <Date>23-08-2007</Date>
+    </City>
+    <City>
+      <CityName>Boston</CityName>
+      <Street>Cerrillos Road</Street>
+      <Date>19-11-2008</Date>
+    </City>
+    <City>
+      <CityName>Boston</CityName>
+      <Street>Bayshore Freeway</Street>
+      <Date>27-02-2007</Date>
+    </City>
+    <City>
+      <CityName>Charleston</CityName>
+      <Street>Santa Rosa North</Street>
+      <Date>12-09-2007</Date>
+    </City>
+    <City>
+      <CityName>Charleston</CityName>
+      <Street>North Atherton Street</Street>
+      <Date>28-11-2008</Date>
+    </City>
+    <City>
+      <CityName>Des Moines</CityName>
+      <Street>South Highway</Street>
+      <Date>12-05-2007</Date>
+    </City>
+    <City>
+      <CityName>Harrisburg</CityName>
+      <Street>Erringer Road</Street>
+      <Date>05-07-2007</Date>
+    </City>
+    <City>
+      <CityName>Harrisburg</CityName>
+      <Street>Tully Road East</Street>
+      <Date>12-01-2008</Date>
+    </City>
+    <City>
+      <CityName>Honolulu</CityName>
+      <Street>W. Russell St.</Street>
+      <Date>30-07-2007</Date>
+    </City>
+    <City>
+      <CityName>Jefferson City</CityName>
+      <Street>North Erringer Road</Street>
+      <Date>01-02-2007</Date>
+    </City>
+    <City>
+      <CityName>Lansing</CityName>
+      <Street>Santa Monica Road</Street>
+      <Date>10-04-2007</Date>
+    </City>
+    <City>
+      <CityName>Nashville</CityName>
+      <Street>San Diego Freeway</Street>
+      <Date>17-07-2007</Date>
+    </City>
+    <City>
+      <CityName>Oklahoma City</CityName>
+      <Street>Padre Boulevard</Street>
+      <Date>04-09-2008</Date>
+    </City>
+    <City>
+      <CityName>Oklahoma City</CityName>
+      <Street>Bayshore Freeway</Street>
+      <Date>10-01-2008</Date>
+    </City>
+    <City>
+      <CityName>Providence</CityName>
+      <Street>Pacific Hwy S</Street>
+      <Date>10-09-2008</Date>
+    </City>
+    <City>
+      <CityName>Saint Paul</CityName>
+      <Street>Bowles Avenue</Street>
+      <Date>28-04-2008</Date>
+    </City>
+    <City>
+      <CityName>Santa Fe</CityName>
+      <Street>Steele Lane</Street>
+      <Date>26-02-2007</Date>
+    </City>
+  </State>
+  <State>
+    <StateName>Rhode Island</StateName>
+    <City>
+      <CityName>Albany</CityName>
+      <Street>East Calle Primera</Street>
+      <Date>18-03-2008</Date>
+    </City>
+    <City>
+      <CityName>Augusta</CityName>
+      <Street>Santa Monica Road</Street>
+      <Date>27-10-2008</Date>
+    </City>
+    <City>
+      <CityName>Baton Rouge</CityName>
+      <Street>Castillo Drive</Street>
+      <Date>18-04-2008</Date>
+    </City>
+    <City>
+      <CityName>Baton Rouge</CityName>
+      <Street>Santa Rosa South</Street>
+      <Date>19-07-2007</Date>
+    </City>
+    <City>
+      <CityName>Bismarck</CityName>
+      <Street>Newbury Road</Street>
+      <Date>06-09-2008</Date>
+    </City>
+    <City>
+      <CityName>Boise</CityName>
+      <Street>French Camp Turnpike Road</Street>
+      <Date>13-08-2008</Date>
+    </City>
+    <City>
+      <CityName>Boston</CityName>
+      <Street>Monroe Street</Street>
+      <Date>15-08-2008</Date>
+    </City>
+    <City>
+      <CityName>Carson City</CityName>
+      <Street>Bailard Avenue</Street>
+      <Date>05-01-2007</Date>
+    </City>
+    <City>
+      <CityName>Columbus</CityName>
+      <Street>Santa Rosa North</Street>
+      <Date>22-01-2008</Date>
+    </City>
+    <City>
+      <CityName>Columbus</CityName>
+      <Street>Bailard Avenue</Street>
+      <Date>16-04-2008</Date>
+    </City>
+    <City>
+      <CityName>Denver</CityName>
+      <Street>East Fry Blvd.</Street>
+      <Date>13-09-2008</Date>
+    </City>
+    <City>
+      <CityName>Des Moines</CityName>
+      <Street>Bailard Avenue</Street>
+      <Date>06-06-2008</Date>
+    </City>
+    <City>
+      <CityName>Dover</CityName>
+      <Street>Moreno Drive</Street>
+      <Date>16-06-2008</Date>
+    </City>
+    <City>
+      <CityName>Harrisburg</CityName>
+      <Street>South Roosevelt Drive</Street>
+      <Date>29-05-2008</Date>
+    </City>
+    <City>
+      <CityName>Hartford</CityName>
+      <Street>Carpinteria Avenue</Street>
+      <Date>04-03-2008</Date>
+    </City>
+    <City>
+      <CityName>Honolulu</CityName>
+      <Street>San Luis Obispo North</Street>
+      <Date>23-05-2007</Date>
+    </City>
+    <City>
+      <CityName>Jefferson City</CityName>
+      <Street>Burnett Road</Street>
+      <Date>06-05-2008</Date>
+    </City>
+    <City>
+      <CityName>Little Rock</CityName>
+      <Street>South Highway</Street>
+      <Date>25-09-2007</Date>
+    </City>
+    <City>
+      <CityName>Little Rock</CityName>
+      <Street>East Calle Primera</Street>
+      <Date>09-03-2007</Date>
+    </City>
+    <City>
+      <CityName>Montgomery</CityName>
+      <Street>Burnett Road</Street>
+      <Date>07-11-2008</Date>
+    </City>
+    <City>
+      <CityName>Nashville</CityName>
+      <Street>Carpinteria South</Street>
+      <Date>20-06-2008</Date>
+    </City>
+    <City>
+      <CityName>Nashville</CityName>
+      <Street>Katella Avenue</Street>
+      <Date>29-07-2007</Date>
+    </City>
+    <City>
+      <CityName>Nashville</CityName>
+      <Street>Tanger Blvd</Street>
+      <Date>24-08-2008</Date>
+    </City>
+    <City>
+      <CityName>Olympia</CityName>
+      <Street>San Simeon</Street>
+      <Date>02-12-2008</Date>
+    </City>
+    <City>
+      <CityName>Pierre</CityName>
+      <Street>W. Russell St.</Street>
+      <Date>18-06-2007</Date>
+    </City>
+    <City>
+      <CityName>Raleigh</CityName>
+      <Street>Castillo Drive</Street>
+      <Date>27-12-2007</Date>
+    </City>
+    <City>
+      <CityName>Richmond</CityName>
+      <Street>French Camp Turnpike Road</Street>
+      <Date>23-05-2007</Date>
+    </City>
+    <City>
+      <CityName>Sacramento</CityName>
+      <Street>Bowles Avenue</Street>
+      <Date>15-12-2008</Date>
+    </City>
+    <City>
+      <CityName>Sacramento</CityName>
+      <Street>North Ventu Park Road</Street>
+      <Date>26-09-2007</Date>
+    </City>
+    <City>
+      <CityName>Saint Paul</CityName>
+      <Street>North Broadway Street</Street>
+      <Date>15-06-2007</Date>
+    </City>
+    <City>
+      <CityName>Salt Lake City</CityName>
+      <Street>Jones Road</Street>
+      <Date>12-05-2007</Date>
+    </City>
+    <City>
+      <CityName>Salt Lake City</CityName>
+      <Street>Lindbergh Blvd</Street>
+      <Date>24-04-2007</Date>
+    </City>
+    <City>
+      <CityName>Santa Fe</CityName>
+      <Street>Erringer Road</Street>
+      <Date>10-01-2008</Date>
+    </City>
+    <City>
+      <CityName>Santa Fe</CityName>
+      <Street>Santa Ana Freeway</Street>
+      <Date>30-03-2008</Date>
+    </City>
+    <City>
+      <CityName>Tallahassee</CityName>
+      <Street>Camelback Rd</Street>
+      <Date>18-01-2007</Date>
+    </City>
+    <City>
+      <CityName>Topeka</CityName>
+      <Street>North Ventu Park Road</Street>
+      <Date>27-07-2007</Date>
+    </City>
+    <City>
+      <CityName>Topeka</CityName>
+      <Street>El Camino Real</Street>
+      <Date>13-06-2007</Date>
+    </City>
+  </State>
+  <State>
+    <StateName>South Carolina</StateName>
+    <City>
+      <CityName>Albany</CityName>
+      <Street>Grandview Drive</Street>
+      <Date>19-05-2008</Date>
+    </City>
+    <City>
+      <CityName>Annapolis</CityName>
+      <Street>San Diego Freeway</Street>
+      <Date>08-05-2008</Date>
+    </City>
+    <City>
+      <CityName>Baton Rouge</CityName>
+      <Street>Hutchinson Rd</Street>
+      <Date>07-05-2008</Date>
+    </City>
+    <City>
+      <CityName>Boise</CityName>
+      <Street>N Harrison St</Street>
+      <Date>27-07-2008</Date>
+    </City>
+    <City>
+      <CityName>Boise</CityName>
+      <Street>Timberlane Drive</Street>
+      <Date>14-05-2008</Date>
+    </City>
+    <City>
+      <CityName>Carson City</CityName>
+      <Street>San Luis Obispo North</Street>
+      <Date>30-12-2008</Date>
+    </City>
+    <City>
+      <CityName>Charleston</CityName>
+      <Street>Redwood Highway</Street>
+      <Date>04-11-2007</Date>
+    </City>
+    <City>
+      <CityName>Concord</CityName>
+      <Street>San Marcos</Street>
+      <Date>17-06-2008</Date>
+    </City>
+    <City>
+      <CityName>Des Moines</CityName>
+      <Street>Tanger Blvd</Street>
+      <Date>15-12-2007</Date>
+    </City>
+    <City>
+      <CityName>Des Moines</CityName>
+      <Street>Lawrenceville Suwanee</Street>
+      <Date>18-06-2007</Date>
+    </City>
+    <City>
+      <CityName>Des Moines</CityName>
+      <Street>East Main Street</Street>
+      <Date>11-02-2008</Date>
+    </City>
+    <City>
+      <CityName>Honolulu</CityName>
+      <Street>South Roosevelt Drive</Street>
+      <Date>18-06-2008</Date>
+    </City>
+    <City>
+      <CityName>Little Rock</CityName>
+      <Street>Castillo Drive</Street>
+      <Date>23-01-2008</Date>
+    </City>
+    <City>
+      <CityName>Little Rock</CityName>
+      <Street>Steele Lane</Street>
+      <Date>07-08-2007</Date>
+    </City>
+    <City>
+      <CityName>Madison</CityName>
+      <Street>Santa Ana Freeway</Street>
+      <Date>29-08-2008</Date>
+    </City>
+    <City>
+      <CityName>Nashville</CityName>
+      <Street>Moreno Drive</Street>
+      <Date>08-09-2008</Date>
+    </City>
+    <City>
+      <CityName>Nashville</CityName>
+      <Street>North Erringer Road</Street>
+      <Date>15-09-2007</Date>
+    </City>
+    <City>
+      <CityName>Oklahoma City</CityName>
+      <Street>Cerrillos Road</Street>
+      <Date>03-07-2007</Date>
+    </City>
+    <City>
+      <CityName>Oklahoma City</CityName>
+      <Street>South Roosevelt Drive</Street>
+      <Date>30-08-2007</Date>
+    </City>
+    <City>
+      <CityName>Richmond</CityName>
+      <Street>San Ysidro Blvd</Street>
+      <Date>22-03-2007</Date>
+    </City>
+    <City>
+      <CityName>Santa Fe</CityName>
+      <Street>South Roosevelt Drive</Street>
+      <Date>09-08-2008</Date>
+    </City>
+    <City>
+      <CityName>Topeka</CityName>
+      <Street>E Fowler Avenue</Street>
+      <Date>03-08-2008</Date>
+    </City>
+    <City>
+      <CityName>Topeka</CityName>
+      <Street>Jean de la Fontaine</Street>
+      <Date>22-11-2007</Date>
+    </City>
+    <City>
+      <CityName>Topeka</CityName>
+      <Street>Jean de la Fontaine</Street>
+      <Date>16-10-2007</Date>
+    </City>
+  </State>
+  <State>
+    <StateName>South Dakota</StateName>
+    <City>
+      <CityName>Boise</CityName>
+      <Street>Cerrillos Road</Street>
+      <Date>05-07-2008</Date>
+    </City>
+    <City>
+      <CityName>Cheyenne</CityName>
+      <Street>El Camino Real</Street>
+      <Date>18-07-2007</Date>
+    </City>
+    <City>
+      <CityName>Columbus</CityName>
+      <Street>Tanger Blvd</Street>
+      <Date>05-02-2008</Date>
+    </City>
+    <City>
+      <CityName>Concord</CityName>
+      <Street>Fontaine Road</Street>
+      <Date>22-03-2008</Date>
+    </City>
+    <City>
+      <CityName>Dover</CityName>
+      <Street>East Main Street</Street>
+      <Date>06-03-2007</Date>
+    </City>
+    <City>
+      <CityName>Harrisburg</CityName>
+      <Street>Camelback Rd</Street>
+      <Date>02-12-2007</Date>
+    </City>
+    <City>
+      <CityName>Helena</CityName>
+      <Street>Redwood Highway</Street>
+      <Date>19-01-2007</Date>
+    </City>
+    <City>
+      <CityName>Honolulu</CityName>
+      <Street>Bayshore Freeway</Street>
+      <Date>06-07-2008</Date>
+    </City>
+    <City>
+      <CityName>Jackson</CityName>
+      <Street>Santa Rosa North</Street>
+      <Date>03-08-2008</Date>
+    </City>
+    <City>
+      <CityName>Jefferson City</CityName>
+      <Street>Cabrillo Highway</Street>
+      <Date>13-12-2008</Date>
+    </City>
+    <City>
+      <CityName>Jefferson City</CityName>
+      <Street>Tully Road East</Street>
+      <Date>02-12-2007</Date>
+    </City>
+    <City>
+      <CityName>Juneau</CityName>
+      <Street>Burnett Road</Street>
+      <Date>30-08-2007</Date>
+    </City>
+    <City>
+      <CityName>Montpelier</CityName>
+      <Street>Tully Road East</Street>
+      <Date>13-02-2008</Date>
+    </City>
+    <City>
+      <CityName>Pierre</CityName>
+      <Street>North Preisker Lane</Street>
+      <Date>16-02-2007</Date>
+    </City>
+    <City>
+      <CityName>Saint Paul</CityName>
+      <Street>Lindbergh Blvd</Street>
+      <Date>05-03-2007</Date>
+    </City>
+    <City>
+      <CityName>Saint Paul</CityName>
+      <Street>North Atherton Street</Street>
+      <Date>11-07-2008</Date>
+    </City>
+    <City>
+      <CityName>Salem</CityName>
+      <Street>S Rustle St</Street>
+      <Date>16-12-2007</Date>
+    </City>
+    <City>
+      <CityName>Salem</CityName>
+      <Street>Redwood Highway</Street>
+      <Date>20-09-2007</Date>
+    </City>
+    <City>
+      <CityName>Springfield</CityName>
+      <Street>San Luis Obispo North</Street>
+      <Date>03-07-2008</Date>
+    </City>
+  </State>
+  <State>
+    <StateName>Tennessee</StateName>
+    <City>
+      <CityName>Atlanta</CityName>
+      <Street>N Kentwood</Street>
+      <Date>29-03-2007</Date>
+    </City>
+    <City>
+      <CityName>Austin</CityName>
+      <Street>Carpinteria Avenue</Street>
+      <Date>18-05-2008</Date>
+    </City>
+    <City>
+      <CityName>Bismarck</CityName>
+      <Street>Redwood Highway</Street>
+      <Date>11-04-2008</Date>
+    </City>
+    <City>
+      <CityName>Carson City</CityName>
+      <Street>Santa Rosa North</Street>
+      <Date>26-06-2008</Date>
+    </City>
+    <City>
+      <CityName>Columbus</CityName>
+      <Street>Jean de la Fontaine</Street>
+      <Date>08-04-2007</Date>
+    </City>
+    <City>
+      <CityName>Concord</CityName>
+      <Street>North Broadway Street</Street>
+      <Date>28-08-2007</Date>
+    </City>
+    <City>
+      <CityName>Denver</CityName>
+      <Street>Harry S Truman Blvd</Street>
+      <Date>15-12-2007</Date>
+    </City>
+    <City>
+      <CityName>Des Moines</CityName>
+      <Street>Santa Rosa South</Street>
+      <Date>17-02-2007</Date>
+    </City>
+    <City>
+      <CityName>Frankfort</CityName>
+      <Street>Westside Freeway</Street>
+      <Date>04-07-2008</Date>
+    </City>
+    <City>
+      <CityName>Frankfort</CityName>
+      <Street>Hutchinson Rd</Street>
+      <Date>25-11-2008</Date>
+    </City>
+    <City>
+      <CityName>Juneau</CityName>
+      <Street>South Roosevelt Drive</Street>
+      <Date>11-05-2008</Date>
+    </City>
+    <City>
+      <CityName>Lansing</CityName>
+      <Street>San Luis Obispo North</Street>
+      <Date>28-12-2008</Date>
+    </City>
+    <City>
+      <CityName>Little Rock</CityName>
+      <Street>Jean de la Fontaine</Street>
+      <Date>29-09-2008</Date>
+    </City>
+    <City>
+      <CityName>Nashville</CityName>
+      <Street>Tully Road East</Street>
+      <Date>22-05-2008</Date>
+    </City>
+    <City>
+      <CityName>Pierre</CityName>
+      <Street>North Preisker Lane</Street>
+      <Date>03-09-2007</Date>
+    </City>
+    <City>
+      <CityName>Pierre</CityName>
+      <Street>Santa Monica Road</Street>
+      <Date>01-08-2007</Date>
+    </City>
+    <City>
+      <CityName>Richmond</CityName>
+      <Street>Burnett Road</Street>
+      <Date>15-09-2007</Date>
+    </City>
+    <City>
+      <CityName>Sacramento</CityName>
+      <Street>Calle Real</Street>
+      <Date>06-05-2007</Date>
+    </City>
+    <City>
+      <CityName>Sacramento</CityName>
+      <Street>Camelback Rd</Street>
+      <Date>25-04-2007</Date>
+    </City>
+    <City>
+      <CityName>Saint Paul</CityName>
+      <Street>Carpinteria Avenue</Street>
+      <Date>30-05-2007</Date>
+    </City>
+    <City>
+      <CityName>Salem</CityName>
+      <Street>East 1st Street</Street>
+      <Date>11-06-2007</Date>
+    </City>
+    <City>
+      <CityName>Trenton</CityName>
+      <Street>Bayshore Freeway</Street>
+      <Date>17-04-2008</Date>
+    </City>
+  </State>
+  <State>
+    <StateName>Texas</StateName>
+    <City>
+      <CityName>Austin</CityName>
+      <Street>Jones Road</Street>
+      <Date>25-08-2008</Date>
+    </City>
+    <City>
+      <CityName>Boise</CityName>
+      <Street>San Luis Obispo North</Street>
+      <Date>20-03-2007</Date>
+    </City>
+    <City>
+      <CityName>Boise</CityName>
+      <Street>Westside Freeway</Street>
+      <Date>03-01-2008</Date>
+    </City>
+    <City>
+      <CityName>Carson City</CityName>
+      <Street>San Diego Freeway</Street>
+      <Date>03-03-2007</Date>
+    </City>
+    <City>
+      <CityName>Charleston</CityName>
+      <Street>Hutchinson Rd</Street>
+      <Date>11-07-2007</Date>
+    </City>
+    <City>
+      <CityName>Cheyenne</CityName>
+      <Street>N Kentwood</Street>
+      <Date>07-12-2008</Date>
+    </City>
+    <City>
+      <CityName>Des Moines</CityName>
+      <Street>South Highway</Street>
+      <Date>16-03-2008</Date>
+    </City>
+    <City>
+      <CityName>Honolulu</CityName>
+      <Street>South Roosevelt Drive</Street>
+      <Date>20-06-2007</Date>
+    </City>
+    <City>
+      <CityName>Jackson</CityName>
+      <Street>Bayshore Freeway</Street>
+      <Date>08-03-2008</Date>
+    </City>
+    <City>
+      <CityName>Jefferson City</CityName>
+      <Street>Greenwood Road</Street>
+      <Date>01-04-2008</Date>
+    </City>
+    <City>
+      <CityName>Lansing</CityName>
+      <Street>Santa Monica Road</Street>
+      <Date>06-06-2007</Date>
+    </City>
+    <City>
+      <CityName>Lansing</CityName>
+      <Street>East Fry Blvd.</Street>
+      <Date>29-09-2007</Date>
+    </City>
+    <City>
+      <CityName>Madison</CityName>
+      <Street>North Preisker Lane</Street>
+      <Date>16-05-2008</Date>
+    </City>
+    <City>
+      <CityName>Olympia</CityName>
+      <Street>Harry S Truman Blvd</Street>
+      <Date>08-07-2007</Date>
+    </City>
+    <City>
+      <CityName>Phoenix</CityName>
+      <Street>San Marcos</Street>
+      <Date>04-11-2007</Date>
+    </City>
+    <City>
+      <CityName>Providence</CityName>
+      <Street>Santa Rosa South</Street>
+      <Date>04-05-2007</Date>
+    </City>
+    <City>
+      <CityName>Salem</CityName>
+      <Street>E Fowler Avenue</Street>
+      <Date>24-10-2007</Date>
+    </City>
+    <City>
+      <CityName>Salt Lake City</CityName>
+      <Street>Cleveland Ave.</Street>
+      <Date>04-08-2007</Date>
+    </City>
+    <City>
+      <CityName>Santa Fe</CityName>
+      <Street>Redwood Highway</Street>
+      <Date>22-10-2008</Date>
+    </City>
+    <City>
+      <CityName>Santa Fe</CityName>
+      <Street>North Preisker Lane</Street>
+      <Date>07-12-2007</Date>
+    </City>
+    <City>
+      <CityName>Trenton</CityName>
+      <Street>Santa Monica Road</Street>
+      <Date>18-11-2008</Date>
+    </City>
+  </State>
+  <State>
+    <StateName>Utah</StateName>
+    <City>
+      <CityName>Albany</CityName>
+      <Street>Carpinteria Avenue</Street>
+      <Date>17-05-2007</Date>
+    </City>
+    <City>
+      <CityName>Atlanta</CityName>
+      <Street>North Preisker Lane</Street>
+      <Date>30-01-2007</Date>
+    </City>
+    <City>
+      <CityName>Charleston</CityName>
+      <Street>Steele Lane</Street>
+      <Date>17-10-2008</Date>
+    </City>
+    <City>
+      <CityName>Concord</CityName>
+      <Street>Greenwood Road</Street>
+      <Date>16-01-2008</Date>
+    </City>
+    <City>
+      <CityName>Concord</CityName>
+      <Street>Santa Monica Road</Street>
+      <Date>23-06-2007</Date>
+    </City>
+    <City>
+      <CityName>Dover</CityName>
+      <Street>Timberlane Drive</Street>
+      <Date>11-02-2008</Date>
+    </City>
+    <City>
+      <CityName>Harrisburg</CityName>
+      <Street>Jones Road</Street>
+      <Date>24-10-2007</Date>
+    </City>
+    <City>
+      <CityName>Hartford</CityName>
+      <Street>North Ventu Park Road</Street>
+      <Date>17-08-2008</Date>
+    </City>
+    <City>
+      <CityName>Indianapolis</CityName>
+      <Street>Monroe Street</Street>
+      <Date>21-06-2007</Date>
+    </City>
+    <City>
+      <CityName>Jackson</CityName>
+      <Street>Cabrillo Highway</Street>
+      <Date>22-03-2008</Date>
+    </City>
+    <City>
+      <CityName>Jefferson City</CityName>
+      <Street>Santa Monica Road</Street>
+      <Date>01-04-2008</Date>
+    </City>
+    <City>
+      <CityName>Little Rock</CityName>
+      <Street>Lindbergh Blvd</Street>
+      <Date>16-08-2008</Date>
+    </City>
+    <City>
+      <CityName>Little Rock</CityName>
+      <Street>North Preisker Lane</Street>
+      <Date>19-07-2008</Date>
+    </City>
+    <City>
+      <CityName>Oklahoma City</CityName>
+      <Street>N Kentwood</Street>
+      <Date>09-12-2008</Date>
+    </City>
+    <City>
+      <CityName>Oklahoma City</CityName>
+      <Street>Burnett Road</Street>
+      <Date>23-11-2008</Date>
+    </City>
+    <City>
+      <CityName>Phoenix</CityName>
+      <Street>Lake Tahoe Blvd.</Street>
+      <Date>29-04-2008</Date>
+    </City>
+    <City>
+      <CityName>Providence</CityName>
+      <Street>Jones Road</Street>
+      <Date>02-04-2007</Date>
+    </City>
+    <City>
+      <CityName>Richmond</CityName>
+      <Street>Corona Del Mar</Street>
+      <Date>16-06-2007</Date>
+    </City>
+    <City>
+      <CityName>Springfield</CityName>
+      <Street>North Atherton Street</Street>
+      <Date>18-12-2008</Date>
+    </City>
+  </State>
+  <State>
+    <StateName>Vermont</StateName>
+    <City>
+      <CityName>Albany</CityName>
+      <Street>Moreno Drive</Street>
+      <Date>03-11-2008</Date>
+    </City>
+    <City>
+      <CityName>Atlanta</CityName>
+      <Street>Timberlane Drive</Street>
+      <Date>20-07-2008</Date>
+    </City>
+    <City>
+      <CityName>Augusta</CityName>
+      <Street>Tanger Blvd</Street>
+      <Date>28-06-2007</Date>
+    </City>
+    <City>
+      <CityName>Boise</CityName>
+      <Street>Jones Road</Street>
+      <Date>30-03-2007</Date>
+    </City>
+    <City>
+      <CityName>Boston</CityName>
+      <Street>North Atherton Street</Street>
+      <Date>24-10-2008</Date>
+    </City>
+    <City>
+      <CityName>Columbia</CityName>
+      <Street>Timberlane Drive</Street>
+      <Date>12-07-2007</Date>
+    </City>
+    <City>
+      <CityName>Concord</CityName>
+      <Street>Castillo Drive</Street>
+      <Date>10-10-2008</Date>
+    </City>
+    <City>
+      <CityName>Dover</CityName>
+      <Street>Fontaine Road</Street>
+      <Date>15-04-2007</Date>
+    </City>
+    <City>
+      <CityName>Hartford</CityName>
+      <Street>Bayshore Freeway</Street>
+      <Date>04-06-2008</Date>
+    </City>
+    <City>
+      <CityName>Hartford</CityName>
+      <Street>Pacific Hwy S</Street>
+      <Date>07-02-2007</Date>
+    </City>
+    <City>
+      <CityName>Helena</CityName>
+      <Street>Tully Road East</Street>
+      <Date>02-11-2007</Date>
+    </City>
+    <City>
+      <CityName>Jackson</CityName>
+      <Street>Calle Real</Street>
+      <Date>14-01-2007</Date>
+    </City>
+    <City>
+      <CityName>Jefferson City</CityName>
+      <Street>Santa Rosa North</Street>
+      <Date>21-07-2007</Date>
+    </City>
+    <City>
+      <CityName>Montpelier</CityName>
+      <Street>North Preisker Lane</Street>
+      <Date>14-08-2008</Date>
+    </City>
+    <City>
+      <CityName>Montpelier</CityName>
+      <Street>Burnett Road</Street>
+      <Date>02-02-2007</Date>
+    </City>
+    <City>
+      <CityName>Richmond</CityName>
+      <Street>San Marcos</Street>
+      <Date>04-02-2007</Date>
+    </City>
+    <City>
+      <CityName>Salt Lake City</CityName>
+      <Street>Moreno Drive</Street>
+      <Date>04-11-2007</Date>
+    </City>
+    <City>
+      <CityName>Santa Fe</CityName>
+      <Street>Corona Del Mar</Street>
+      <Date>16-12-2007</Date>
+    </City>
+    <City>
+      <CityName>Springfield</CityName>
+      <Street>El Camino Real</Street>
+      <Date>31-08-2007</Date>
+    </City>
+    <City>
+      <CityName>Topeka</CityName>
+      <Street>Cabrillo Highway</Street>
+      <Date>15-05-2008</Date>
+    </City>
+    <City>
+      <CityName>Trenton</CityName>
+      <Street>W. Russell St.</Street>
+      <Date>10-02-2007</Date>
+    </City>
+  </State>
+  <State>
+    <StateName>Virginia</StateName>
+    <City>
+      <CityName>Albany</CityName>
+      <Street>Lawrenceville Suwanee</Street>
+      <Date>26-05-2008</Date>
+    </City>
+    <City>
+      <CityName>Annapolis</CityName>
+      <Street>Pacific Hwy S</Street>
+      <Date>05-10-2007</Date>
+    </City>
+    <City>
+      <CityName>Augusta</CityName>
+      <Street>Santa Ana Freeway</Street>
+      <Date>28-05-2008</Date>
+    </City>
+    <City>
+      <CityName>Boise</CityName>
+      <Street>San Marcos</Street>
+      <Date>07-03-2008</Date>
+    </City>
+    <City>
+      <CityName>Dover</CityName>
+      <Street>El Camino Real</Street>
+      <Date>29-11-2007</Date>
+    </City>
+    <City>
+      <CityName>Harrisburg</CityName>
+      <Street>Padre Boulevard</Street>
+      <Date>29-03-2008</Date>
+    </City>
+    <City>
+      <CityName>Helena</CityName>
+      <Street>Santa Rosa South</Street>
+      <Date>10-12-2008</Date>
+    </City>
+    <City>
+      <CityName>Honolulu</CityName>
+      <Street>Hutchinson Rd</Street>
+      <Date>15-08-2007</Date>
+    </City>
+    <City>
+      <CityName>Jefferson City</CityName>
+      <Street>South Roosevelt Drive</Street>
+      <Date>05-08-2007</Date>
+    </City>
+    <City>
+      <CityName>Madison</CityName>
+      <Street>Tanger Blvd</Street>
+      <Date>11-10-2008</Date>
+    </City>
+    <City>
+      <CityName>Montgomery</CityName>
+      <Street>Via Real</Street>
+      <Date>20-08-2008</Date>
+    </City>
+    <City>
+      <CityName>Pierre</CityName>
+      <Street>Erringer Road</Street>
+      <Date>03-08-2007</Date>
+    </City>
+    <City>
+      <CityName>Richmond</CityName>
+      <Street>Santa Rosa North</Street>
+      <Date>31-05-2007</Date>
+    </City>
+    <City>
+      <CityName>Saint Paul</CityName>
+      <Street>Carpinteria North</Street>
+      <Date>25-12-2008</Date>
+    </City>
+    <City>
+      <CityName>Salem</CityName>
+      <Street>Harbor Dr</Street>
+      <Date>02-02-2008</Date>
+    </City>
+    <City>
+      <CityName>Salem</CityName>
+      <Street>Newbury Road</Street>
+      <Date>22-07-2008</Date>
+    </City>
+    <City>
+      <CityName>Springfield</CityName>
+      <Street>Fontaine Road</Street>
+      <Date>10-03-2008</Date>
+    </City>
+    <City>
+      <CityName>Trenton</CityName>
+      <Street>Santa Ana Freeway</Street>
+      <Date>23-05-2008</Date>
+    </City>
+  </State>
+  <State>
+    <StateName>Washington</StateName>
+    <City>
+      <CityName>Atlanta</CityName>
+      <Street>North Atherton Street</Street>
+      <Date>16-09-2008</Date>
+    </City>
+    <City>
+      <CityName>Atlanta</CityName>
+      <Street>North Ventu Park Road</Street>
+      <Date>21-05-2008</Date>
+    </City>
+    <City>
+      <CityName>Atlanta</CityName>
+      <Street>Padre Boulevard</Street>
+      <Date>11-06-2007</Date>
+    </City>
+    <City>
+      <CityName>Bismarck</CityName>
+      <Street>Tanger Blvd</Street>
+      <Date>26-09-2007</Date>
+    </City>
+    <City>
+      <CityName>Concord</CityName>
+      <Street>Burnett Road</Street>
+      <Date>20-02-2008</Date>
+    </City>
+    <City>
+      <CityName>Helena</CityName>
+      <Street>Bailard Avenue</Street>
+      <Date>11-04-2008</Date>
+    </City>
+    <City>
+      <CityName>Helena</CityName>
+      <Street>San Simeon</Street>
+      <Date>26-02-2008</Date>
+    </City>
+    <City>
+      <CityName>Helena</CityName>
+      <Street>Harbor Dr</Street>
+      <Date>09-11-2007</Date>
+    </City>
+    <City>
+      <CityName>Helena</CityName>
+      <Street>Monroe Street</Street>
+      <Date>12-01-2007</Date>
+    </City>
+    <City>
+      <CityName>Indianapolis</CityName>
+      <Street>San Diego Freeway</Street>
+      <Date>23-05-2007</Date>
+    </City>
+    <City>
+      <CityName>Indianapolis</CityName>
+      <Street>South Roosevelt Drive</Street>
+      <Date>11-10-2008</Date>
+    </City>
+    <City>
+      <CityName>Lansing</CityName>
+      <Street>Corona Del Mar</Street>
+      <Date>16-02-2008</Date>
+    </City>
+    <City>
+      <CityName>Montpelier</CityName>
+      <Street>Camelback Rd</Street>
+      <Date>02-01-2007</Date>
+    </City>
+    <City>
+      <CityName>Nashville</CityName>
+      <Street>San Ysidro Blvd</Street>
+      <Date>06-02-2008</Date>
+    </City>
+    <City>
+      <CityName>Oklahoma City</CityName>
+      <Street>South Roosevelt Drive</Street>
+      <Date>26-02-2007</Date>
+    </City>
+    <City>
+      <CityName>Pierre</CityName>
+      <Street>Richmond Hill</Street>
+      <Date>22-02-2008</Date>
+    </City>
+    <City>
+      <CityName>Providence</CityName>
+      <Street>Hutchinson Rd</Street>
+      <Date>22-06-2008</Date>
+    </City>
+    <City>
+      <CityName>Providence</CityName>
+      <Street>Jean de la Fontaine</Street>
+      <Date>04-05-2007</Date>
+    </City>
+    <City>
+      <CityName>Richmond</CityName>
+      <Street>N Harrison St</Street>
+      <Date>10-06-2007</Date>
+    </City>
+  </State>
+  <State>
+    <StateName>West Virginia</StateName>
+    <City>
+      <CityName>Atlanta</CityName>
+      <Street>Burnett Road</Street>
+      <Date>14-11-2007</Date>
+    </City>
+    <City>
+      <CityName>Atlanta</CityName>
+      <Street>Corona Del Mar</Street>
+      <Date>06-07-2008</Date>
+    </City>
+    <City>
+      <CityName>Baton Rouge</CityName>
+      <Street>Harbor Dr</Street>
+      <Date>18-11-2007</Date>
+    </City>
+    <City>
+      <CityName>Bismarck</CityName>
+      <Street>E Fowler Avenue</Street>
+      <Date>29-01-2007</Date>
+    </City>
+    <City>
+      <CityName>Boise</CityName>
+      <Street>Moreno Drive</Street>
+      <Date>06-04-2008</Date>
+    </City>
+    <City>
+      <CityName>Boston</CityName>
+      <Street>South Highway</Street>
+      <Date>13-11-2008</Date>
+    </City>
+    <City>
+      <CityName>Frankfort</CityName>
+      <Street>Burnett Road</Street>
+      <Date>12-06-2008</Date>
+    </City>
+    <City>
+      <CityName>Jefferson City</CityName>
+      <Street>Bailard Avenue</Street>
+      <Date>03-08-2008</Date>
+    </City>
+    <City>
+      <CityName>Lansing</CityName>
+      <Street>Cleveland Ave.</Street>
+      <Date>17-05-2008</Date>
+    </City>
+    <City>
+      <CityName>Little Rock</CityName>
+      <Street>Greenwood Road</Street>
+      <Date>24-11-2007</Date>
+    </City>
+    <City>
+      <CityName>Montgomery</CityName>
+      <Street>Katella Avenue</Street>
+      <Date>30-09-2008</Date>
+    </City>
+    <City>
+      <CityName>Montpelier</CityName>
+      <Street>Westside Freeway</Street>
+      <Date>29-08-2008</Date>
+    </City>
+    <City>
+      <CityName>Montpelier</CityName>
+      <Street>San Diego Freeway</Street>
+      <Date>20-10-2007</Date>
+    </City>
+    <City>
+      <CityName>Montpelier</CityName>
+      <Street>Santa Ana Freeway</Street>
+      <Date>02-05-2007</Date>
+    </City>
+    <City>
+      <CityName>Nashville</CityName>
+      <Street>N Kentwood</Street>
+      <Date>29-09-2008</Date>
+    </City>
+    <City>
+      <CityName>Oklahoma City</CityName>
+      <Street>French Camp Turnpike Road</Street>
+      <Date>05-07-2008</Date>
+    </City>
+    <City>
+      <CityName>Olympia</CityName>
+      <Street>San Diego Freeway</Street>
+      <Date>23-09-2007</Date>
+    </City>
+    <City>
+      <CityName>Phoenix</CityName>
+      <Street>Bowles Avenue</Street>
+      <Date>17-01-2007</Date>
+    </City>
+    <City>
+      <CityName>Salem</CityName>
+      <Street>Milpas Street</Street>
+      <Date>22-11-2008</Date>
+    </City>
+    <City>
+      <CityName>Salem</CityName>
+      <Street>Lake Tahoe Blvd.</Street>
+      <Date>26-08-2008</Date>
+    </City>
+    <City>
+      <CityName>Trenton</CityName>
+      <Street>Cerrillos Road</Street>
+      <Date>25-07-2008</Date>
+    </City>
+  </State>
+  <State>
+    <StateName>Wisconsin</StateName>
+    <City>
+      <CityName>Bismarck</CityName>
+      <Street>N Harrison St</Street>
+      <Date>03-11-2008</Date>
+    </City>
+    <City>
+      <CityName>Boise</CityName>
+      <Street>Fontaine Road</Street>
+      <Date>30-09-2008</Date>
+    </City>
+    <City>
+      <CityName>Boise</CityName>
+      <Street>North Ventu Park Road</Street>
+      <Date>19-06-2008</Date>
+    </City>
+    <City>
+      <CityName>Columbus</CityName>
+      <Street>Fairview Avenue</Street>
+      <Date>16-12-2008</Date>
+    </City>
+    <City>
+      <CityName>Concord</CityName>
+      <Street>E Fowler Avenue</Street>
+      <Date>07-10-2007</Date>
+    </City>
+    <City>
+      <CityName>Des Moines</CityName>
+      <Street>Fairview Avenue</Street>
+      <Date>23-05-2007</Date>
+    </City>
+    <City>
+      <CityName>Des Moines</CityName>
+      <Street>Katella Avenue</Street>
+      <Date>06-03-2008</Date>
+    </City>
+    <City>
+      <CityName>Des Moines</CityName>
+      <Street>Harbor Dr</Street>
+      <Date>22-11-2008</Date>
+    </City>
+    <City>
+      <CityName>Frankfort</CityName>
+      <Street>Santa Rosa North</Street>
+      <Date>02-05-2007</Date>
+    </City>
+    <City>
+      <CityName>Harrisburg</CityName>
+      <Street>Jean de la Fontaine</Street>
+      <Date>07-11-2008</Date>
+    </City>
+    <City>
+      <CityName>Harrisburg</CityName>
+      <Street>Tully Road East</Street>
+      <Date>26-11-2008</Date>
+    </City>
+    <City>
+      <CityName>Lincoln</CityName>
+      <Street>North Erringer Road</Street>
+      <Date>24-09-2007</Date>
+    </City>
+    <City>
+      <CityName>Lincoln</CityName>
+      <Street>Hutchinson Rd</Street>
+      <Date>09-03-2008</Date>
+    </City>
+    <City>
+      <CityName>Madison</CityName>
+      <Street>Jones Road</Street>
+      <Date>08-04-2008</Date>
+    </City>
+    <City>
+      <CityName>Madison</CityName>
+      <Street>Milpas Street</Street>
+      <Date>27-09-2007</Date>
+    </City>
+    <City>
+      <CityName>Madison</CityName>
+      <Street>Cerrillos Road</Street>
+      <Date>26-06-2007</Date>
+    </City>
+    <City>
+      <CityName>Olympia</CityName>
+      <Street>South Roosevelt Drive</Street>
+      <Date>01-05-2007</Date>
+    </City>
+    <City>
+      <CityName>Olympia</CityName>
+      <Street>San Simeon</Street>
+      <Date>27-10-2008</Date>
+    </City>
+    <City>
+      <CityName>Phoenix</CityName>
+      <Street>Jones Road</Street>
+      <Date>15-01-2007</Date>
+    </City>
+    <City>
+      <CityName>Pierre</CityName>
+      <Street>Camelback Rd</Street>
+      <Date>24-04-2008</Date>
+    </City>
+    <City>
+      <CityName>Pierre</CityName>
+      <Street>Lake Tahoe Blvd.</Street>
+      <Date>23-08-2008</Date>
+    </City>
+    <City>
+      <CityName>Pierre</CityName>
+      <Street>Carpinteria Avenue</Street>
+      <Date>11-01-2008</Date>
+    </City>
+    <City>
+      <CityName>Raleigh</CityName>
+      <Street>Santa Monica Road</Street>
+      <Date>17-05-2008</Date>
+    </City>
+    <City>
+      <CityName>Richmond</CityName>
+      <Street>N Harrison St</Street>
+      <Date>15-03-2008</Date>
+    </City>
+    <City>
+      <CityName>Salt Lake City</CityName>
+      <Street>North Broadway Street</Street>
+      <Date>29-11-2008</Date>
+    </City>
+    <City>
+      <CityName>Topeka</CityName>
+      <Street>Greenwood Road</Street>
+      <Date>14-07-2008</Date>
+    </City>
+    <City>
+      <CityName>Trenton</CityName>
+      <Street>Carpinteria South</Street>
+      <Date>17-03-2008</Date>
+    </City>
+  </State>
+  <State>
+    <StateName>Wyoming</StateName>
+    <City>
+      <CityName>Charleston</CityName>
+      <Street>Tanger Blvd</Street>
+      <Date>17-01-2008</Date>
+    </City>
+    <City>
+      <CityName>Concord</CityName>
+      <Street>Tanger Blvd</Street>
+      <Date>03-03-2008</Date>
+    </City>
+    <City>
+      <CityName>Des Moines</CityName>
+      <Street>Timberlane Drive</Street>
+      <Date>15-11-2008</Date>
+    </City>
+    <City>
+      <CityName>Harrisburg</CityName>
+      <Street>Santa Monica Road</Street>
+      <Date>27-04-2008</Date>
+    </City>
+    <City>
+      <CityName>Honolulu</CityName>
+      <Street>Harbor Dr</Street>
+      <Date>11-08-2008</Date>
+    </City>
+    <City>
+      <CityName>Jackson</CityName>
+      <Street>Jean de la Fontaine</Street>
+      <Date>05-02-2007</Date>
+    </City>
+    <City>
+      <CityName>Juneau</CityName>
+      <Street>Moreno Drive</Street>
+      <Date>09-11-2007</Date>
+    </City>
+    <City>
+      <CityName>Raleigh</CityName>
+      <Street>Tully Road East</Street>
+      <Date>21-10-2008</Date>
+    </City>
+    <City>
+      <CityName>Salem</CityName>
+      <Street>Castillo Drive</Street>
+      <Date>26-01-2008</Date>
+    </City>
+    <City>
+      <CityName>Salem</CityName>
+      <Street>Carpinteria Avenue</Street>
+      <Date>12-04-2007</Date>
+    </City>
+  </State>
+</Customers>
